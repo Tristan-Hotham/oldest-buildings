@@ -1,0 +1,181 @@
+<!-- wp:paragraph -->
+<p><em>Most of what people built a thousand years ago has gone. So I put every surviving building and structure in Wikidata from before AD 1100 on one map, {{n|int}} of them in {{n_countries|int}} countries, and asked what they have in common. The answer: they are either indispensable or forgotten.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://tristan-hotham.github.io/oldest-buildings/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.23687612">Read the paper</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>Houses rot. Walls get robbed for their stone. Towns are rebuilt on top of themselves, again and again. Of everything built before the Normans finished conquering England, only a sliver still stands. Lists of "the oldest buildings" are everywhere, but they rarely ask the obvious question: why these ones?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So I took every building and structure in Wikidata, the open database behind Wikipedia, that has a construction date before 1100 and a place on the map. I removed statues, inscriptions, streets and other things that are not buildings, which left {{n|int}}. For each I worked out what it was built for, what state it is in, and what it is used for today. Then I compared them with {{n_later|int}} structures built between 1100 and 1599, to see what the filter of time has kept.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A world of temples and churches</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_map.png|Map from the Atlantic to Japan with {{n|int}} dots coloured by original use. Terracotta religious buildings dominate Britain, France, Italy, Armenia, India, China and Japan; grey-blue castles and forts are scattered through Europe; green tombs cluster in Japan and Egypt.|Every building and structure in Wikidata dated before AD 1100, coloured by what it was built for.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The first thing the map shows is how holy the survivors are. {{uses.religious.share|pct0}} were built for worship: churches, monasteries, mosques, synagogues, and Buddhist, Hindu and Shinto temples and shrines. Castles, forts and walls make up {{uses.defensive.share|pct0}}, tombs and burial mounds {{uses.funerary.share|pct0}}. Houses and palaces, the buildings people actually lived in, are just {{uses.domestic.share|pct0}}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A health warning before going further. Wikidata is uneven: Japan ({{headline.japan_n|int}}), Italy ({{headline.italy_n|int}}) and the United Kingdom ({{headline.uk_n|int}}) hold {{top3_share|pct0}} of the records, and much of the world is thin. So everything below is about shares within the data, not a census of the planet's old buildings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_eras.png|Stacked bars of original use by era. Before 1000 BC tombs are 46%. From 1000 BC to 1 BC houses, forts and temples are mixed. From AD 500 onwards religious buildings are 76 to 82%. Paler comparison rows for 1100 to 1599 show religious shares falling to 40% by the 16th century and houses rising.|What each era's survivors were built for. The pale rows are the comparison set from 1100 to 1599.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The mix changes with age. The very oldest survivors are mostly tombs and monuments: pyramids, mastabas, obelisks. In the last thousand years before Christ, houses, palaces and forts appear, most of them now ruins. From AD 500 onwards, three quarters or more of everything that survives from each century is religious.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Still doing the job</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>{{today.original.share|pct0}} of the survivors still seem to do the job they were built for, and almost all of those ({{religious_share_of_original|pct0}}) are places of worship. {{by_use.religious.original|pct0}} of religious buildings are still in religious use, and only {{by_use.religious.ruin_any|pct0}} are ruins. Castles almost never still defend anything: {{by_use.defensive.ruin_any|pct0}} are ruins. Houses and palaces fare worst: {{by_use.domestic.ruin_any|pct0}} are ruins or excavated sites.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_fare.png|Bars for each original use split by condition today. Religious buildings: 88% still in original use. Defensive: half standing with no recorded use, 30% ruins. Houses and palaces: 72% ruins. Tombs: 67% earthworks.|What each kind of building is today.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Much of "still in use" is my inference: where Wikidata records no change and no ruin for a religious building, I count it as still in use. A hand check of a random sample, below, supports that for most buildings but not all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The filter of time</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Each older century leaves fewer survivors behind. Wikidata has {{centuries.15.n|int}} structures begun in the 16th century, {{centuries.11.n|int}} from the 12th, {{centuries.10.n|int}} from the 11th and only {{centuries.0.n|int}} from the 1st century AD. Some of that slope is people building more, and later buildings being better documented. But the shape is the shape of attrition.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_curve.png|Bar chart on a log scale of Wikidata structures by century of construction from the 1st to the 16th century, rising from 330 to over 12,000, with a jump at the 11th and 12th centuries.|Structures per century of construction, log scale. Terracotta: before 1100. Grey: 1100 to 1599.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Compare the oldest survivors with the next five centuries and you can see what the filter keeps. Before 1100, {{compare.before.sacred|pct0}} of survivors are religious, funerary or commemorative; for 1100 to 1599 it is {{compare.after.sacred|pct0}}. Houses and palaces fall from {{compare.after.use.domestic|pct0}} of the later set to {{compare.before.use.domestic|pct0}} of the old one. Where a material is recorded, {{compare.before.mat.stone|pct0}} of the old buildings include stone, against {{compare.after.mat.stone|pct0}} of the later ones, though only {{materials.share_recorded|pct0}} of the old set record a material at all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_compare.png|Paired bars comparing buildings from before 1100 with those from 1100 to 1599. Religious 65% against 58%, houses and palaces 4% against 12%, tombs 7% against 0%. Where material is recorded, stone 75% against 62% and brick 21% against 40%.|Strong bars: before 1100. Pale bars: 1100 to 1599.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Indispensable or forgotten</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I can only see survivors, so I cannot prove why anything lasted. But comparing them suggests two routes, and they are opposites.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The first is to keep a job that never ends. A church, temple or mosque has a community that needs it every week, mends its roof and stops anyone carting off its stone. A congregation is the best maintenance plan ever invented.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The second is to be left completely alone, somewhere nobody wants your stone. Ruins sit a median {{remote_summary.ruin_km|km}} km from a modern city of 100,000 people, against {{remote_summary.inuse_km|km}} km for buildings still in use. In the dry belt between 25° and 35° north, from Morocco to Iraq, {{dry.ruin_dry|pct0}} of survivors are ruins or sites, against {{dry.ruin_temperate|pct0}} between 45° and 55° north. (One excavated Syrian city, Dura-Europos, inflates that figure; without it, the share is {{dry.ruin_dry_ex_dura|pct0}}.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_remote.png|Left, share of ruins by latitude band, highest at 26% between 25 and 35 degrees. Right, median distance to a city of 100,000 people: 20 km for buildings in original use, 43 km for ruins, 10 km for earthworks.|Left: share of survivors that are ruins or sites, by latitude. Right: median distance to a city of 100,000 people, by condition today.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The dangerous place is in between: useful enough to be quarried, not useful enough to be repaired. That is where most of the houses, palaces, forts and public buildings of the ancient world went.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p>A building survives a thousand years if it is either indispensable or forgotten.</p></blockquote></figure>
+<!-- /wp:pullquote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Old names, younger walls</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There is a catch. A Wikidata date is often the year a church, monastery or castle was founded, not the date of the walls you can touch. So I drew a random sample of buildings with an English Wikipedia article and checked {{audit.n|int}} of them by hand. {{audit.fabric.pre-1100|int}} still have substantial fabric from before 1100. {{audit.fabric.later|int}} are mostly later buildings standing on an older foundation. For {{audit.fabric.unclear|int}} the article does not say.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_audit.png|Grid of 32 squares, one per checked building, by condition today. Of 16 still in original use, 4 keep pre-1100 fabric, 7 are mostly later and 5 unclear. Ruins, earthworks and monuments are almost all pre-1100 fabric.|The hand check. Green: pre-1100 fabric survives. Terracotta: mostly later. Grey: unclear.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The split is telling. Of the {{audit.inuse_n|int}} buildings still in their original use, only {{audit.inuse_fabric.pre-1100|int}} clearly keep their pre-1100 walls. Of the {{audit.notinuse_n|int}} ruins, earthworks and monuments, {{audit.notinuse_fabric.pre-1100|int}} do. Use keeps a place alive, but often by replacing the building: Japanese temples rebuilt in timber, English parish churches enlarged in every century, abbeys that burned and rose again. Abandonment keeps the original stones, but as a ruin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Closer to home</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The United Kingdom has {{uk.n|int}} records, {{uk.use.religious|int}} of them religious, and {{uk.c11_share|pct0}} dated to the 11th century, most only to the century. In north-west England the map is thin: {{uk.nw.n|int}} records across Lancashire, Cumbria, Merseyside, Greater Manchester and Cheshire, {{uk.nw.lancs|int}} of them in Lancashire. They include the Roman fort at Ribchester, Lancaster Castle, and the two early churches on the headland at Heysham above Morecambe Bay. One of those shows the limits of the data nicely: Wikidata gives no condition for St Patrick's Chapel, so my rules count it as standing, but it is a ruin of the 8th or 9th century.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How I did this</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I pulled from Wikidata every item classed as an architectural structure with a construction date before 1100 and coordinates, plus a comparison set for 1100 to 1599, using the QLever endpoint on {{meta.pull|raw}}. I removed {{n_excluded|int}} items that are objects, places or routes, or have impossible dates. Original use, form, condition and use today come from rules applied to Wikidata's classes, conservation states, current uses and labels, plus two rules of thumb (classical public buildings and buildings from before Christ count as ruins unless a use is recorded; religious buildings with no sign of change count as still in use). Countries come from Natural Earth and distances from GeoNames. {{fuzzy_share|pct0}} of the dates are only to the century or millennium. Every rule, every item and the full hand check are in the data files.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://tristan-hotham.github.io/oldest-buildings/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.23687612">Read the paper</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/Tristan-Hotham/oldest-buildings">Data and code</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Notes and sources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Buildings: <a href="https://www.wikidata.org">Wikidata</a> (CC0), via the <a href="https://qlever.cs.uni-freiburg.de/wikidata">QLever endpoint</a>, pulled on {{meta.pull|raw}}.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Cities: <a href="https://www.geonames.org">GeoNames</a> (CC BY 4.0). Countries: <a href="https://www.naturalearthdata.com">Natural Earth</a> (public domain). UK counties: Office for National Statistics (Open Government Licence v3).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>UK comparison: Wikipedia, <a href="https://en.wikipedia.org/wiki/List_of_oldest_buildings_in_the_United_Kingdom">List of oldest buildings in the United Kingdom</a>, and the Wikipedia articles used in the hand check and for <a href="https://en.wikipedia.org/wiki/St_Patrick%27s_Chapel,_Heysham">St Patrick's Chapel, Heysham</a> (CC BY-SA 4.0).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Paper, data and code: <a href="https://doi.org/10.5281/zenodo.23687612">Zenodo</a> and <a href="https://github.com/Tristan-Hotham/oldest-buildings">GitHub</a>. Text, figures and derived data CC BY 4.0 (two files with Wikipedia material CC BY-SA 4.0); code MIT.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
