@@ -1,0 +1,443 @@
+qid,label,lat,lon,year,prec,date_text,classes,country
+Q21075369,Abarsal,36.1131,38.0009,-2419,9,2419 BC,ancient city,Syria
+Q132527193,Ancient Abdera,40.9337,24.9733,-700,7,7th century BC,archaeological site|polis,Greece
+Q195128,Abu Salabikh,32.2667,45.0833,-3399,9,3399 BC,archaeological site,Iraq
+Q794830,Aşıklı Höyük,38.349,34.23,-8200,7,82nd century BC,archaeological site,Turkey
+Q2822644,Acaray,-11.0667,-77.55,-199,9,199 BC,archaeological site,Peru
+Q378940,Adulis,15.2636,39.6606,-1449,9,1449 BC,archaeological site,Eritrea
+Q380497,Aeculanum,41.054,15.0105,-299,9,299 BC,ancient city|archaeological site,Italy
+Q16963755,Aigai,40.478,22.3228,-749,9,749 BC,ancient city|archaeological site|polis,Greece
+Q2292319,Aetna,37.6167,14.9,-475,9,475 BC,ancient city|polis,Italy
+Q13678,Agrigento,37.3125,13.575,-579,9,579 BC,polis,Italy
+Q1807968,Ain Dara,36.4594,36.8521,-1299,9,1299 BC,archaeological site,Syria
+Q3607380,Akragas,37.2923,13.5936,-580,9,580 BC,ancient city|polis,Italy
+Q944515,Alba Fucens,42.0791,13.4115,-303,9,303 BC,Roman city|Roman colony|archaeological site,Italy
+Q335070,Alba Longa,41.7469,12.6503,-1200,7,12th century BC,ancient city,Italy
+Q87,Alexandria,31.1975,29.8925,-330,9,330 BC,polis,Egypt
+Q449639,Alodia,17.65,33.9833,600,7,6th century,archaeological site,Sudan
+Q217414,Amphipolis,40.8236,23.8466,-436,9,436 BC,polis,Greece
+Q2647314,Amsa-dong,37.5605,127.1302,-5000,6,5th millennium BC,archaeological site,South Korea
+Q2830711,Roman baths of Alauna,49.5072,-1.4553,100,7,1st century,archaeological site,France
+Q1363688,Ancient Corinth,37.9058,22.8787,-899,9,899 BC,ancient city|polis,Greece
+Q104870488,Ancient Cotta,35.7551,-5.936,40,9,AD 40,ancient city|archaeological site,Morocco
+Q13533316,Rhodes,36.44,28.2111,-407,9,407 BC,ancient city|polis,Greece
+Q4420718,Syracuse,37.0833,15.2833,-734,9,734 BC,ancient city|archaeological site|polis,Italy
+Q2403368,Anfa,33.5883,-7.6419,-999,9,999 BC,ancient city,Morocco
+Q569107,Anshan Persia,30.0117,52.4078,-3999,9,3999 BC,ancient city|archaeological site,Iran
+Q200441,Antioch,36.2,36.15,-299,10,299 BC,ancient city,Turkey
+Q42434557,Antissa,39.2867,26.0179,-800,7,8th century BC,ancient city|polis,Greece
+Q617550,Apamea,35.4167,36.4,-299,9,299 BC,Samian Ware Discovery Site|ancient city|archaeological site|polis,Syria
+Q200200,Assur,35.4567,43.2625,-2499,9,2499 BC,ancient city|archaeological site,Iraq
+Q4810504,Astacus in Bithynia,40.7146,29.9288,-711,9,711 BC,ancient city|polis,Turkey
+Q29962,Asyut,27.1869,31.1714,-3099,9,3099 BC,archaeological site,Egypt
+Q1156421,Atacama Giant,-19.9489,-69.6331,1001,7,11th century,archaeological site,Chile
+Q1524,Athens,37.9842,23.7281,-7000,6,7th millennium BC,free city,Greece
+Q2896085,Atlit Yam,32.7108,34.9352,-6899,9,6899 BC,prehistoric archaeological site,Israel
+Q3629036,Atrium Libertatis,41.8951,12.4838,-300,7,3rd century BC,archaeological site,Italy
+Q1583842,Augusta Emerita,38.9167,-6.3333,-24,9,24 BC,Roman colony|archaeological site|colonia augusta,Spain
+Q423625,Ayn Ghazal,31.988,35.976,-7300,7,73rd century BC,archaeological site,Jordan
+Q797417,Ba'ja,30.4136,35.4614,-7400,7,74th century BC,ancient city|archaeological site,Jordan
+Q797529,Bab edh-Dhra,31.2539,35.5342,-3499,9,3499 BC,archaeological site,Jordan
+Q797692,Babilonie,52.2767,8.5767,300,9,AD 300,archaeological site,Germany
+Q5684,Babylon,32.5425,44.4211,-2200,6,3rd millennium BC,ancient city|archaeological site,Iraq
+Q29317,Bagan,21.1725,94.86,200,7,2nd century,ancient city|archaeological site,Myanmar
+Q65006224,Bajo de la Campana shipwreck,37.7364,-0.6925,-700,7,7th century BC,shipwreck,Spain
+Q788982,Bakong,13.336,103.9741,881,9,AD 881,archaeological site,Cambodia
+Q807913,Barca,32.4945,20.8745,-539,9,539 BC,ancient city,Libya
+Q15785757,Basta,30.2333,35.5333,-7000,6,7th millennium BC,archaeological site,Jordan
+Q170244,Berat,40.7049,19.9497,-313,9,313 BC,Ancient Greek archaeological site,Albania
+Q2904503,Birka and Hovgården,59.335,17.5425,800,7,8th century,archaeological site,Sweden
+Q477898,Bishapur,29.7778,51.5708,226,9,AD 226,archaeological site,Iran
+Q786725,Alexandria Bucephalous,32.9311,73.7308,-325,10,325 BC,ancient city,Pakistan
+Q339489,Brú na Bóinne,53.6928,-6.4493,-3499,9,3499 BC,archaeological site,Ireland
+Q4854786,Burnt House,31.7756,35.2326,50,7,1st century,archaeological site,Israel
+Q173532,Byblos,34.1195,35.6468,-8000,6,8th millennium BC,archaeological site,Lebanon
+Q23725,Byzantium,41.0134,28.9836,-666,9,666 BC,ancient city|polis,Turkey
+Q319242,Caesarea Maritima,32.5011,34.8923,-12,9,12 BC,Roman archaeological site|Roman colony,Israel
+Q1025512,Cafer Höyük,38.4166,38.75,-7109,9,7109 BC,archaeological site,Turkey
+Q333661,Cahokia,38.6539,-90.0644,1050,9,AD 1050,ancient city|archaeological site,United States
+Q85,Cairo,30.0444,31.2358,969,11,AD 969,ancient city,Egypt
+Q59174,Capernaum,32.8811,35.575,-200,7,2nd century BC,ancient city|archaeological site,Israel
+Q283680,Carchemish,36.8297,38.015,-1900,7,19th century BC,archaeological site,Turkey
+Q1043847,Carn Euny,50.1023,-5.6345,-199,9,199 BC,archaeological site,United Kingdom
+Q261318,Carrowkeel Megalithic Cemetery,54.0533,-8.3778,-4000,6,4th millennium BC,archaeological site,Ireland
+Q6343,Carthage,36.847,10.3129,-801,7,9th century BC,ancient city|emporium,Tunisia
+Q2727884,Carthago Nova,37.6,-0.9833,-226,9,226 BC,Roman colony|ancient city,Spain
+Q13554032,Karystos,38.0165,24.4204,-900,7,9th century BC,ancient city|polis,Greece
+Q3663959,Cave di Cusa,37.6194,12.7225,-558,9,558 BC,archaeological site,Italy
+Q4120161,Chagar Bazar,36.8745,40.8982,-5999,6,6th millennium BC,archaeological site,Syria
+Q337381,Chalcedon,40.9834,29.0258,-679,9,679 BC,ancient city|polis,Turkey
+Q277540,Chan Chan,-8.1106,-79.075,850,9,AD 850,archaeological site,Peru
+Q5071385,Chandraketugarh,22.6811,88.6899,-399,9,399 BC,archaeological site,India
+Q5859,Chichen Itza,20.6831,-88.5686,455,9,AD 455,ancient city|archaeological site,Mexico
+Q5103835,Chogha Bonut,32.2222,48.505,-7200,7,72nd century BC,archaeological site,Iran
+Q5103701,Choquepuquio,-13.6194,-71.7222,-399,9,399 BC,archaeological site,Peru
+Q1090235,Chysauster Ancient Village,50.1611,-5.5397,-99,9,99 BC,archaeological site,United Kingdom
+Q844930,Classical Athens,37.9722,23.7222,-700,7,7th century BC,polis,Greece
+Q1142488,Colophon,38.1156,27.1422,-1100,7,11th century BC,archaeological site|polis,Turkey
+Q17674926,Neolithic causewayed enclosure on Combe Hill,50.7981,0.2334,-3001,6,4th millennium BC,archaeological site|causewayed enclosure,United Kingdom
+Q16869,Constantinople,41.0122,28.976,330,9,AD 330,ancient city,Turkey
+Q59314203,Corone,36.9541,21.9211,-364,9,364 BC,ancient city|polis,Greece
+Q192541,Ctesiphon,33.0936,44.5806,-120,8,120s BC,ancient city|archaeological site,Iraq
+Q2246183,Cures,42.1825,12.6866,-900,7,9th century BC,ancient city,Italy
+Q44112,Cyrene,32.8167,21.85,-629,9,629 BC,Greek colony|archaeological site|emporium|polis,Libya
+Q3766,Damascus,33.5131,36.2919,-2000,6,2nd millennium BC,ancient city,Syria
+Q585145,Dara,37.1833,40.9333,505,9,AD 505,archaeological site,Turkey
+Q1150349,Demetrias,39.3435,22.9242,-293,9,293 BC,ancient city,Greece
+Q776765,Derby Racecourse Roman settlement,52.9347,-1.4635,120,9,AD 120,archaeological site,United Kingdom
+Q262432,Der,33.1236,45.9314,-4000,6,4th millennium BC,archaeological site,Iraq
+Q18285862,Dicaea (Macedonia),40.4605,22.9471,-729,9,729 BC,ancient city|polis,Greece
+Q1226902,Diolkos,37.9491,22.9624,-600,7,6th century BC,Ancient Greek archaeological site,Greece
+Q5291392,Domvs Romana,35.8853,14.4003,-99,9,99 BC,archaeological site,Malta
+Q1169725,Doriskos,40.8669,26.1181,-600,7,6th century BC,ancient city,Greece
+Q909286,Dos Pilas,16.4458,-90.2958,629,9,AD 629,archaeological site,Guatemala
+Q464266,Dura-Europos,34.747,40.73,-299,9,299 BC,ancient city|archaeological site,Syria
+Q253208,Dur-Sharrukin,36.5095,43.2293,-705,9,705 BC,archaeological site,Iraq
+Q429059,Dvin,40.0044,44.5783,335,9,AD 335,archaeological site,Armenia
+Q4161504,Dykyi Sad,46.981,31.983,-1249,9,1249 BC,archaeological site,Ukraine
+Q1190403,Edessa,37.1764,38.7761,-301,9,301 BC,ancient city|archaeological site|polis,Turkey
+Q5350993,El Cerrito,20.5508,-100.4425,-299,9,299 BC,archaeological site,Mexico
+Q2608946,Eleutheropolis,31.6067,34.8963,-1000,6,1st millennium BC,archaeological site,Israel
+Q217667,Elis,37.8922,21.3744,-1099,9,1099 BC,ancient city|archaeological site|polis,Greece
+Q47611,Ephesus,37.9406,27.3394,-1000,7,10th century BC,Ancient Greek archaeological site|polis|settlement site,Turkey
+Q2989678,Epidaurum,42.5822,18.2175,-499,9,499 BC,ancient city,Croatia
+Q2275983,Eryx,38.0407,12.5881,-1,6,1st millennium BC,ancient city,Italy
+Q275515,Fenghao,34.21,108.72,-1050,7,11th century BC,archaeological site,China
+Q158491,Feodosiia,45.0461,35.3788,-600,7,6th century BC,polis,Russia
+Q85761285,Flaviopolis,37.3665,36.1016,74,9,AD 74,ancient city,Turkey
+Q1441331,Franchthi Cave,37.4224,23.1313,-38000,4,38th millennium BC,archaeological site,Greece
+Q839456,El-Fustat,30.005,31.2375,641,9,AD 641,archaeological site,Egypt
+Q56322109,Gadara,32.6555,35.6778,-300,7,3rd century BC,ancient city|archaeological site|polis,Jordan
+Q2576851,Ganj Dareh,34.2721,47.4758,-7500,7,75th century BC,archaeological site,Iran
+Q39971,Gela,37.0667,14.25,-688,9,688 BC,polis,Italy
+Q1817134,Giants of Mont'e Prama,39.9658,8.4483,-1000,7,10th century BC,archaeological site,Italy
+Q202873,Gibelacar,34.525,36.2417,1000,9,AD 1000,archaeological site,Lebanon
+Q3120596,Guilá Naquitz Cave,16.9753,-96.3089,-10750,4,11th millennium BC,archaeological site,Mexico
+Q1302971,Gundeshapur,32.2833,48.5167,271,9,AD 271,ancient city|archaeological site,Iran
+Q3120910,Gunung Padang Megalithic Site,-6.9939,107.0561,500,9,AD 500,archaeological site|megalithic site,Indonesia
+Q908860,Hacılar Mound,37.5843,30.0845,-7040,8,7040s BC,archaeological site,Turkey
+Q903630,Halabiye,35.6894,39.8225,300,7,3rd century,ancient city|archaeological site,Syria
+Q5843680,Halicarnassus,37.0352,27.4172,-1099,9,1099 BC,ancient city|archaeological site|polis,Turkey
+Q93806860,Hebbal Kittaya Inscription,13.0404,77.5914,750,9,AD 750,archaeological site,India
+Q302511,Heraclea Pontica,41.2847,31.4147,-557,9,557 BC,archaeological site|polis,Turkey
+Q1607763,Heraclea Sintica,41.4334,23.2501,-355,9,355 BC,ancient city|archaeological site,Bulgaria
+Q913099,Herodium,31.6658,35.2414,-14,9,14 BC,archaeological site,Palestine
+Q18338980,Hitachi Kokufu,36.1897,140.2688,700,7,7th century,kokufu,Japan
+Q11147514,Huanbei,36.13,114.34,-1349,9,1349 BC,archaeological site,China
+Q1656624,Idalion,35.02,33.413,-1200,7,12th century BC,ancient city|archaeological site|polis,Cyprus
+Q3068185,Illiturgis,37.9718,-3.774,-178,9,178 BC,Roman city|ancient city,Spain
+Q1665908,Interamna Lirenas,41.4277,13.7539,-324,9,324 BC,archaeological site,Italy
+Q658893,Italica,37.4412,-6.0445,-205,9,205 BC,archaeological site,Spain
+Q733798,Iulia Valentia Banasa,34.6017,-6.1156,-399,9,399 BC,ancient city|archaeological site,Morocco
+Q16653067,Zamakhshar,41.7317,59.7181,-300,7,3rd century BC,ancient city|lost city,Turkmenistan
+Q6109935,Jabal es Saaïdé,34.0344,36.0578,-9999,9,9999 BC,archaeological site,Lebanon
+Q1000577,Jarmo,35.5558,44.9303,-7090,8,7090s BC,archaeological site,Iraq
+Q1688860,Jiahu,33.6144,113.6614,-7000,6,7th millennium BC,archaeological site,China
+Q1496143,Jiskairumoko,-16.2111,-69.7639,-2999,9,2999 BC,archaeological site,Peru
+Q55887438,Kabul hoard,34.5148,69.195,-349,9,349 BC,archaeological site,Afghanistan
+Q854843,Kamarina,36.8721,14.4477,-598,9,598 BC,archaeological site|polis,Italy
+Q6378708,Kaukaba,33.3956,35.6383,-6199,9,6199 BC,archaeological site,Lebanon
+Q1739282,Kerma kingdom,19.6008,30.4097,-3499,9,3499 BC,archaeological site,Sudan
+Q385086,Khirokitia,34.7967,33.3437,-7000,6,7th millennium BC,archaeological site,Cyprus
+Q132272,Kish,32.5403,44.6047,-3099,9,3099 BC,ancient city,Iraq
+Q1743884,Kition,34.9296,33.6295,-449,9,449 BC,polis,Cyprus
+Q1776885,Knap of Howar,59.3493,-2.9108,-3699,9,3699 BC,archaeological site,United Kingdom
+Q690575,Knidos,36.6902,27.3716,-1099,9,1099 BC,archaeological site|polis,Turkey
+Q173527,Knossos,35.298,25.1632,-6999,9,6999 BC,organized archaeological site|polis,Greece
+Q1785592,Kourion,34.6642,32.8877,-1050,8,1050s BC,polis,Akrotiri Sovereign Base Area
+Q3825160,Labyrinth of Egypt,29.2725,30.899,-1800,8,1800s BC,archaeological site,Egypt
+Q3559159,La Fonteta Ancient Phoenician Port City,38.1015,-0.6503,700,7,7th century,ancient city|archaeological site,Spain
+Q24907868,Lahuradewa,26.7667,82.95,-6000,6,6th millennium BC,archaeological site,India
+Q1329990,Lapathus,35.3558,33.1956,-1000,6,1st millennium BC,archaeological site|polis,Northern Cyprus
+Q6488833,Lardea,42.6581,26.7286,300,9,AD 300,archaeological site,Bulgaria
+Q906669,Lepenski Vir,44.5611,22.0242,-7500,7,75th century BC,archaeological site,Serbia
+Q191504,Leptis Magna,32.6383,14.2905,-700,7,7th century BC,Roman city|ancient city|archaeological site|emporium,Libya
+Q9443,Lothal,22.5214,72.2494,-2399,9,2399 BC,ancient city|archaeological site,India
+Q665,Lugdunum,45.7597,4.8194,-42,9,42 BC,Roman city|Roman colony,France
+Q1549278,Machaerus,31.5669,35.6336,-89,9,89 BC,archaeological site,Jordan
+Q51471736,Mamai-Hora,47.4356,34.2753,-600,7,6th century BC,grave field,Ukraine
+Q2143048,Mamre,31.5565,35.1053,-2600,7,26th century BC,archaeological site,Palestine
+Q289618,Al-Mansuriya,35.6581,10.1139,946,9,AD 946,archaeological site|lost city,Tunisia
+Q1466831,Marion,35.0375,32.4333,-448,9,448 BC,polis,Cyprus
+Q2566850,Massalia,43.2963,5.3699,-599,9,599 BC,Greek colony|polis,France
+Q11936633,Metauron,38.4226,15.8798,-700,7,7th century BC,ancient city|archaeological site|polis,Italy
+Q753383,Megalithic Temples of Malta,36.0492,14.2694,-3599,9,3599 BC,archaeological site,Malta
+Q242148,Mehrgarh,29.2125,67.6708,-6999,9,6999 BC,archaeological site,Pakistan
+Q1780329,Merheleva Ridge,48.4036,38.9389,-2999,9,2999 BC,archaeological site,Ukraine
+Q1262502,Merimde culture,30.3208,30.8489,-4800,7,48th century BC,archaeological site,Egypt
+Q5780,Meroë,16.9351,33.7507,-2500,7,25th century BC,ancient city,Sudan
+Q1317936,Mesembria,42.6604,27.7181,-600,7,6th century BC,ancient city|archaeological site|polis,Bulgaria
+Q1022117,Messene,37.175,21.92,-370,9,370 BC,ancient city|archaeological site|polis,Greece
+Q13666,Messina,38.1936,15.5542,-800,7,8th century BC,polis,Italy
+Q169460,Miletus,37.5311,27.2756,-1100,7,11th century BC,archaeological site|polis,Turkey
+Q6858200,Mill Cove Complex,30.3727,-81.569,900,9,AD 900,archaeological site,United States
+Q15813894,Motilla del Azuer,39.0433,-3.4975,-2199,9,2199 BC,archaeological site,Spain
+Q2360763,Myrmekion,45.3528,36.5221,-600,7,6th century BC,archaeological site|polis,Russia
+Q15949493,Nachcharini,34.0775,36.3478,-6199,9,6199 BC,archaeological site,Lebanon
+Q1540418,Nanzhuangtou,39.1266,115.6622,-12600,4,13th millennium BC,archaeological site,China
+Q2620036,Nazca Lines,-14.6975,-75.135,-199,9,199 BC,archaeological site,Peru
+Q6984309,Neapolis,40.9336,24.4131,-700,7,7th century BC,ancient city|polis,Greece
+Q1151606,Nevalı Çori,37.5183,38.6056,-8400,7,84th century BC,archaeological site,Turkey
+Q209349,Nicomedia,40.7625,29.9175,-263,9,263 BC,ancient city|archaeological site,Turkey
+Q943637,Nicopolis,39.008,20.7361,-28,9,28 BC,ancient city|archaeological site,Greece
+Q237614,Nimrud,36.0981,43.3289,-1300,7,13th century BC,ancient city|archaeological site,Iraq
+Q2586542,Nokalakevi,42.3572,42.1939,-1000,6,1st millennium BC,archaeological site,Georgia
+Q2119839,Nuri,18.5667,31.9167,-663,9,663 BC,archaeological site,Sudan
+Q287522,Nymphaion,45.2367,36.4175,-559,9,559 BC,Greek colony|ancient city|archaeological site|polis,Russia
+Q119832660,Ocomtún,18.8381,-89.874,600,9,AD 600,archaeological site,Mexico
+Q1012797,Ostia,41.7542,12.2875,-700,7,7th century BC,ancient city|archaeological site,Italy
+Q1243595,Ounjougou,14.6333,-3.2333,-9500,7,95th century BC,archaeological site,Mali
+Q329967,Paestum,40.42,15.0056,-599,9,599 BC,Ancient Greek archaeological site|ancient city|archaeological site|polis,Italy
+Q7130757,Pandu Rajar Dhibi,23.5814,87.6423,-749,9,749 BC,archaeological site,India
+Q906661,Panticapaeum,45.3386,36.4681,-600,7,6th century BC,Greek colony|ancient city|archaeological site|polis,Russia
+Q20379949,Ancient Paros,37.0847,25.1472,-700,7,7th century BC,ancient city|polis,Greece
+Q389755,Pataliputra,25.611,85.144,-489,9,489 BC,ancient city,India
+Q11940493,Patraeus,45.3149,36.8378,-600,7,6th century BC,ancient city|archaeological site,Russia
+Q817250,Pattadakal Group of Monuments,15.9513,75.8146,800,7,8th century,archaeological site,India
+Q6580884,Pınarbaşı Gölü,37.4939,33.0192,-9000,6,9th millennium BC,archaeological site,Turkey
+Q719815,Perge,36.9604,30.8537,-999,9,999 BC,ancient city|archaeological site|polis,Turkey
+Q18986,Pergamon,39.1167,27.1833,-800,7,8th century BC,Ancient Greek archaeological site|ancient city|polis,Turkey
+Q5788,Petra,30.3289,35.4403,-799,9,799 BC,ancient city|archaeological site,Jordan
+Q249707,Phaistos,35.0513,24.8109,-3000,7,30th century BC,archaeological site|polis,Greece
+Q1344411,Phanagoria,45.189,36.825,-542,9,542 BC,archaeological site,Russia
+Q595329,Phaselis,36.5228,30.549,-699,9,699 BC,archaeological site|polis,Turkey
+Q1535165,Philadelphia,29.4506,31.0842,-258,9,258 BC,archaeological site,Egypt
+Q578075,Phnom Bakheng,13.4238,103.856,900,7,9th century,archaeological site,Cambodia
+Q2884899,Phoenician shipwrecks of Mazarrón,37.5594,-1.2683,-700,7,7th century BC,shipwreck,Spain
+Q7187240,Phong Châu,21.2817,105.442,-2523,9,2523 BC,archaeological site,Vietnam
+Q2665757,Piquillacta,-13.6167,-71.7147,500,9,AD 500,archaeological site,Peru
+Q937930,Pi-Ramesses,30.7994,31.8342,-1277,9,1277 BC,ancient city|archaeological site,Egypt
+Q4251759,Plumpungan Inscription,-7.3069,110.5128,750,11,AD 750,archaeological site,Indonesia
+Q16518701,Pompaelo,42.8195,-1.6418,-73,9,73 BC,Roman city|archaeological site|civitas stipendaria,Spain
+Q43332,Pompeii,40.7506,14.4897,-600,7,6th century BC,ancient city|archaeological site,Italy
+Q1143233,Olbia,46.7,31.9,-700,7,7th century BC,ancient city|archaeological site|emporium|polis,Ukraine
+Q2887175,Underground basilica of Porta Maggiore,41.8911,12.5155,1,7,1st century,archaeological site,Italy
+Q1241207,Porticus Octaviae,41.8924,12.4785,-26,9,26 BC,archaeological site,Italy
+Q142819,Priene,37.6597,27.2978,-999,9,999 BC,archaeological site|polis,Turkey
+Q7374789,Royal Saxon tomb in Prittlewell,51.5545,0.7086,580,9,AD 580,archaeological site,United Kingdom
+Q41314028,Qalatga Darband,36.2135,44.9773,-330,9,330 BC,archaeological site,Iraq
+Q3412434,Qart Hadasht,37.603,-0.9854,-226,9,226 BC,ancient city,Spain
+Q25404315,Qasr Shemamok,36.1056,43.7525,-2000,6,2nd millennium BC,archaeological site,Iraq
+Q223399,Qumran,31.7419,35.4599,-103,9,103 BC,archaeological site,Palestine
+Q7294654,Ras El Kelb,33.9186,35.5861,-50000,5,50th millennium BC,archaeological site,Lebanon
+Q43048,Rhodes,36.17,27.92,-1600,7,16th century BC,polis,Greece
+Q7362141,"Roman Provincial Forum, Augusta Emerita",38.917,-6.3431,1,7,1st century,archaeological site,Spain
+Q1822057,Sa Caleta Phoenician Settlement,38.8678,1.3297,-653,9,653 BC,settlement site,Spain
+Q672752,Saepta Julia,41.8983,12.478,-25,9,25 BC,archaeological site,Italy
+Q767089,Salamis,35.1833,33.9,-1100,7,11th century BC,ancient city|polis,Northern Cyprus
+Q3947025,San Estevan,18.1425,-88.505,-299,9,299 BC,Maya site in Belize,Belize
+Q19364749,Santa Verna,36.0456,14.2586,-5000,6,5th millennium BC,archaeological site,Malta
+Q1068190,Sarkel,47.705,42.2731,834,9,AD 834,archaeological site,Russia
+Q2621094,Scythian Neapolis,44.9428,34.1206,-200,7,2nd century BC,ancient city|archaeological site,Russia
+Q1136681,Seleucia,33.1372,44.5172,-304,9,304 BC,ancient city|archaeological site,Iraq
+Q38281192,Sesklo archaeological site,39.3557,22.8412,-7000,6,7th millennium BC,archaeological site,Greece
+Q15847685,Setifis,36.1833,5.4,97,9,AD 97,Roman city|archaeological site,Algeria
+Q105202124,Shatby Necropolis,31.2116,29.9169,-310,7,4th century BC,archaeological site,Egypt
+Q7494260,Shengavit Settlement,40.1569,44.4769,-2999,9,2999 BC,archaeological site,Armenia
+Q368628,Sicyon,37.9841,22.7111,-2000,6,2nd millennium BC,archaeological site|polis,Greece
+Q1334331,Sijilmasa,31.28,-4.28,757,9,AD 757,archaeological site,Morocco
+Q1309687,Singidunum,44.82,20.46,-6000,6,6th millennium BC,archaeological site,Serbia
+Q1349926,Sinuessa,41.1539,13.8476,-295,9,295 BC,ancient city|archaeological site,Italy
+Q816437,Skara Brae,59.0487,-3.3418,-3179,9,3179 BC,Neolithic settlement|archaeological site,United Kingdom
+Q1757296,Soli,35.1404,32.8126,-1100,7,11th century BC,polis,Northern Cyprus
+Q3489535,Solnitsata,43.1284,27.4725,-4700,6,5th millennium BC,ancient city|archaeological site,Bulgaria
+Q5690,Sparta,37.0819,22.4236,-900,8,900s BC,Ancient Greek archaeological site|ancient city|polis,Greece
+Q372696,"Spirit Cave, Thailand",19.5678,98.2811,-9000,6,9th millennium BC,archaeological site,Thailand
+Q846127,Stageira,40.5908,23.7942,-654,9,654 BC,ancient city|archaeological site|polis,Greece
+Q3485397,Starčevo site,44.8103,20.7128,-6200,4,7th millennium BC,archaeological site,Serbia
+Q2299200,Star Carr,54.2143,-0.4237,-8770,8,8770s BC,settlement site,United Kingdom
+Q136327343,Strikçan Roman burial,41.4886,20.4075,300,7,3rd century,archaeological site,Albania
+Q13670,Syracuse,37.0692,15.2875,-732,9,732 BC,polis,Italy
+Q568342,Tabularium,41.8928,12.4836,-77,9,77 BC,archaeological site,Italy
+Q7679481,Talianki,48.805,30.535,-3849,9,3849 BC,archaeological site,Ukraine
+Q1153416,Tanais,47.2706,39.3414,-300,7,3rd century BC,archaeological site,Russia
+Q13498,Taranto,40.4711,17.2431,-705,9,705 BC,polis,Italy
+Q1068171,Tarḫuntašša,36.8667,33.1667,-1294,9,1294 BC,ancient city,Turkey
+Q1677131,Túcume,-6.5158,-79.8442,800,9,AD 800,archaeological site,Peru
+Q4120177,Tell Arbid,36.8725,41.0219,-2749,9,2749 BC,archaeological site,Syria
+Q2402267,Tell es-Sultan,31.8717,35.4446,-9600,7,96th century BC,Bronze Age settlement|Neolithic settlement|proto-city,Palestine
+Q4178402,Tell Qaramel,36.378,37.275,-10900,6,11th millennium BC,archaeological site,Syria
+Q1147286,Tell Sabi Abyad,36.504,39.093,-7550,8,7550s BC,archaeological site,Syria
+Q2518014,Terina,38.9394,16.2339,-469,9,469 BC,archaeological site|polis,Italy
+Q101583,Thebes,25.7206,32.6103,-3199,9,3199 BC,ancient city|archaeological site|emporium,Egypt
+Q628768,Therma,40.55,23.0166,-650,7,7th century BC,ancient city|polis,Greece
+Q1153959,Thinis,26.3333,31.9,-3999,9,3999 BC,lost city,Egypt
+Q720583,Tigranocerta,38.1422,41.0014,-77,9,77 BC,ancient city|archaeological site,Turkey
+Q3529269,Tipasa,36.5951,2.4408,-600,7,6th century BC,Roman colony|ancient city|archaeological site,Algeria
+Q910505,Tmutarakan,45.2191,36.7141,600,7,6th century,archaeological site,Russia
+Q122664,Tomb of the Leopards,42.2486,11.7716,-479,9,479 BC,archaeological site,Italy
+Q60305,Tower of Jericho,31.8708,35.4439,-8000,6,8th millennium BC,archaeological site,Palestine
+Q3138,Trier,49.7557,6.6394,-15,9,15 BC,ancient city,Germany
+Q22647,Troy,39.9575,26.2389,-2999,9,2999 BC,Bronze Age settlement|polis|settlement site,Turkey
+Q1189077,Tututepec,16.1167,-97.6,1063,9,AD 1063,archaeological site,Mexico
+Q2019115,Tyras,46.2009,30.3505,-599,9,599 BC,archaeological site|polis,Ukraine
+Q82070,Tyre,33.2667,35.2,-2749,9,2749 BC,ancient city,Lebanon
+Q7861533,Tyritake,45.3508,36.4686,-600,7,6th century BC,ancient city|archaeological site|polis,Russia
+Q1056493,Uffington White Horse,51.5777,-1.5668,-1000,6,1st millennium BC,archaeological site,United Kingdom
+Q191369,Ugarit,35.6019,35.7856,-6000,6,6th millennium BC,ancient city,Syria
+Q1351318,Uplistsikhe,41.9667,44.2075,-2000,6,2nd millennium BC,ancient city|archaeological site,Georgia
+Q5699,Ur,30.9622,46.1044,-3799,9,3799 BC,ancient city|archaeological site,Iraq
+Q168518,Uruk,31.3259,45.6374,-3199,9,3199 BC,ancient city|archaeological site|type site,Iraq
+Q166523,Utica,37.055,10.0611,-1101,7,12th century BC,archaeological site,Tunisia
+Q4103696,Vardanzi,40.1603,64.4356,500,7,5th century,ancient city|lost city,Uzbekistan
+Q272968,Velia,40.1594,15.1544,-537,9,537 BC,Ancient Greek archaeological site|polis,Italy
+Q15932056,Venta Silurum,51.6111,-2.7687,350,9,AD 350,ancient city,United Kingdom
+Q3560333,Vinča-Belo Brdo,44.7557,20.6286,-5699,9,5699 BC,archaeological site,Serbia
+Q391215,Volubilis,34.04,-5.5627,-399,9,399 BC,Carthaginian archaeological site|Roman archaeological site|ancient city,Morocco
+Q10565818,Wangcheng,34.6677,112.4145,-1020,9,1020 BC,ancient city,China
+Q3049225,Wauwilermoos pile dwelling settlement,47.1829,8.0165,-4500,7,45th century BC,archaeological site,Switzerland
+Q20949769,Xrobb l-Għaġin Temple,35.8441,14.568,-3999,9,3999 BC,archaeological site,Malta
+Q8049270,"Khirbet, Yarda",33.0167,35.5669,-1299,9,1299 BC,archaeological site,Israel
+Q529923,Yazılıkaya,40.025,34.6328,-1300,7,13th century BC,archaeological site,Turkey
+Q1049645,Yoshinogari site,33.325,130.384,-400,7,4th century BC,archaeological site,Japan
+Q196987,Zeugma,37.0586,37.8658,-300,7,3rd century BC,ancient city|archaeological site,Turkey
+Q100707303,Washka,42.1409,-0.4111,714,9,AD 714,ancient city,Spain
+Q102210746,Khirbet ed-Dawwara,31.8663,35.2922,-901,7,10th century BC,archaeological site,Palestine
+Q104214562,Poblat ibèric de Puiggraciós,41.7033,2.2417,-300,7,3rd century BC,iberian settlement,Spain
+Q106129256,Bū Shu‘ayfah,30.2564,19.0959,-299,9,299 BC,ancient city,Libya
+Q106133589,Bi’r aş Şuhbīyah,30.9162,17.2222,-29,9,29 BC,archaeological site,Libya
+Q106154620,Tincausari,30.6204,19.8822,30,9,AD 30,archaeological site,Libya
+Q106154751,Tiniodiri,30.3409,19.4939,-29,9,29 BC,archaeological site,Libya
+Q106156832,Umm el-Gbur,30.5,16.5,-29,9,29 BC,archaeological site,Libya
+Q106162068,Qaşr al ‘Urayyiḑ,31.9311,20.0319,-29,9,29 BC,archaeological site,Libya
+Q106162547,Casa Rimoniana,32.1379,14.9464,-29,9,29 BC,archaeological site,Libya
+Q106181869,Tibuda,32.9573,12.0029,-29,9,29 BC,archaeological site,Libya
+Q106182547,Ras Sidi Giogghig,32.9166,12.1113,-299,9,299 BC,archaeological site,Libya
+Q106182955,Marsá Dzeira,32.4167,15.0167,-549,9,549 BC,archaeological site,Libya
+Q106188381,Bi’r Sīlīn,32.4333,14.7667,-29,9,29 BC,archaeological site,Libya
+Q106298466,Tabuinati,31.8705,10.9947,-29,9,29 BC,archaeological site,Libya
+Q106298507,Aş Şāliḩāt,32.1272,13.1,-29,9,29 BC,archaeological site,Libya
+Q106298698,Thramusdusim,31.8038,11.3375,-29,9,29 BC,archaeological site,Libya
+Q106407158,‘Ayn Zayyānah,32.2167,20.1667,-29,9,29 BC,archaeological site,Libya
+Q106407332,Amastor,31.58,19.9784,-329,9,329 BC,archaeological site,Libya
+Q106407985,Ausigda,32.7833,21.4167,-329,9,329 BC,ancient city|archaeological site,Libya
+Q106409320,Bratis,32.7413,21.4994,-29,9,29 BC,archaeological site,Libya
+Q106411170,Qaşr Khuraybah,32.8439,21.9306,-29,9,29 BC,archaeological site,Libya
+Q106418410,Sīrat Rālis,32.7894,21.7144,-29,9,29 BC,archaeological site,Libya
+Q106421582,Theotimaion,32.0314,20.0566,-329,9,329 BC,archaeological site,Libya
+Q106421725,ez-Zauani,32.8459,22.161,-549,9,549 BC,archaeological site,Libya
+Q106421781,Zau Taberna ?,31.706,20.093,-29,9,29 BC,archaeological site,Libya
+Q106494849,Al Qardabah,32.1375,23.4806,-749,9,749 BC,archaeological site,Libya
+Q106530429,Tumulus field Lohheide,52.8898,9.6273,-1349,9,1349 BC,grave field,Germany
+Q106841551,Colonia Laus Iulia Corinthiensis,37.9055,22.881,-43,9,43 BC,Roman city|Roman colony,Greece
+Q106987190,Boitsfort-Etangs - Bosvoorde-Vijvers,50.7904,4.4115,-2999,9,2999 BC,Neolithic settlement,Belgium
+Q107565237,Agrileza ancient marble quarries,37.6794,24.0252,-450,7,5th century BC,archaeological site,Greece
+Q11142035,Hemudu Site,29.9626,121.3457,-5500,4,6th millennium BC,archaeological site,China
+Q111985722,,43.8711,7.7383,-500,7,5th century BC,archaeological site,Italy
+Q112062731,Roman Verona,45.4389,10.9944,-48,9,48 BC,Roman city,Italy
+Q11225429,Thebes,38.3239,23.3172,-2000,7,20th century BC,polis,Greece
+Q114784794,Burglay,49.8819,6.9428,400,7,4th century,archaeological site,Germany
+Q115410980,,41.6517,-0.93,-200,7,2nd century BC,ancient city,Spain
+Q11630216,Mitakata Site,35.8777,139.8215,600,7,6th century,archaeological site,Japan
+Q116321441,Monumental church Memleben Monastery,51.2661,11.4962,1000,7,10th century,archaeological site,Germany
+Q117327834,Hongō Site,36.7261,137.3752,300,7,3rd century,archaeological site,Japan
+Q117337457,,34.6906,133.9267,-4000,6,4th millennium BC,Shell midden,Japan
+Q118842124,Anu District,31.3233,45.6351,-2999,9,2999 BC,archaeological site,Iraq
+Q11938382,Narbo Martius,43.1836,3.0042,-117,9,117 BC,Roman colony,France
+Q11948139,Seleuceia in Cilicia,36.3765,33.9165,-299,9,299 BC,ancient city|archaeological site,Turkey
+Q123348542,Batalyaws,38.8756,-6.9697,875,9,AD 875,ancient city,Spain
+Q123943520,,56.1255,40.3991,990,9,AD 990,Historical city of Russia,Russia
+Q124867091,"Bath E3 Phase 1, Dura-Europos",34.7508,40.7282,165,9,AD 165,archaeological site,Syria
+Q12575359,Kakpatas Fortified Village,43.2272,74.3835,1000,7,10th century,archaeological site,Kazakhstan
+Q129585334,Pietra di Issel,44.4828,8.7694,-2999,9,2999 BC,petroglyphic site,Italy
+Q130261035,Salmistonmäki,60.8031,23.669,-1400,7,14th century BC,archaeological site|settlement site,Finland
+Q130611895,Inscription of Lantz,43.0093,-1.59,-100,7,1st century BC,archaeological site,Spain
+Q130744645,Tarrakuna,41.1165,1.2552,719,9,AD 719,ancient city,Spain
+Q130744668,Visigothic Tarragona,41.1165,1.2552,475,9,AD 475,ancient city,Spain
+Q131572238,Albium Ingaunum,44.0436,8.212,-500,7,5th century BC,ancient city,Italy
+Q131784597,,42.5516,-2.5844,-99,9,99 BC,archaeological site,Spain
+Q133274312,Morruttajankangas,63.8977,23.6733,-1999,9,1999 BC,open air site,Finland
+Q133607492,Weycock Hill,51.4929,-0.8179,100,9,AD 100,archaeological site,United Kingdom
+Q133616810,Bourton Grounds,51.9916,-0.9392,200,9,AD 200,archaeological site,United Kingdom
+Q133804269,Jaciment de l'Horta d'en Puig,41.4818,2.3308,-999,9,999 BC,archaeological site,Spain
+Q133818447,Jaciment de la desembocadura Torrent de l'Ase,41.48,2.3249,-99,9,99 BC,archaeological site,Spain
+Q133822279,Jaciment de Can Teixidor,41.4759,2.3021,-899,9,899 BC,archaeological site,Spain
+Q133822411,Jaciment de la Riera de Teià,41.4841,2.3375,-1999,9,1999 BC,archaeological site,Spain
+Q133822421,Jaciment arqueològic de Cal Perdut de Baix,41.4872,2.3404,-199,9,199 BC,archaeological site,Spain
+Q13526919,Kroton,39.0808,17.1271,-749,9,749 BC,polis,Italy
+Q13533353,Argos,37.6306,22.7215,-1499,9,1499 BC,Samian Ware Discovery Site|archaeological site|polis,Greece
+Q13580795,Samos,37.6908,26.9383,-1100,7,11th century BC,ancient city|polis,Greece
+Q136719160,Bishapur Ceremonial Hall,29.7798,51.5761,300,7,3rd century,archaeological site,Iran
+Q137531591,Jeongjisan Relic Site,36.4678,127.1147,475,9,AD 475,archaeological site,South Korea
+Q1375359,Qal’aliqir,41.8008,59.5361,-400,7,4th century BC,ancient city|archaeological site,Turkmenistan
+Q1383830,Parthenope,40.8333,14.25,-800,7,8th century BC,Greek colony|archaeological site,Italy
+Q138938806,Sanctuary of Demeter,38.0421,12.5903,-5,7,1st century BC,archaeological site,Italy
+Q139478283,El Castillico,37.6341,-0.7463,-200,7,2nd century BC,Roman archaeological site,Spain
+Q139829337,Old City of Taiz,13.5719,44.012,1065,9,AD 1065,ancient city,Yemen
+Q140632739,,39.793,-0.3943,-250,7,3rd century BC,archaeological site|iberian settlement,Spain
+Q141446086,Plaza de los Tres Reyes archaeological complex,37.6017,-0.9862,100,7,1st century,archaeological site,Spain
+Q141502205,Aghmacart monastic site,52.8207,-7.51,550,9,AD 550,archaeological site,Ireland
+Q141509580,,53.175,25.1542,901,7,10th century,archaeological site,Belarus
+Q141509585,,53.3836,30.4406,901,7,10th century,archaeological site,Belarus
+Q141517237,,52.9545,29.4411,801,7,9th century,archaeological site,Belarus
+Q141522176,,53.1561,29.3446,901,7,10th century,archaeological site,Belarus
+Q141522276,,53.1326,29.1358,901,7,10th century,archaeological site,Belarus
+Q141522303,,53.0814,29.368,901,7,10th century,archaeological site,Belarus
+Q15122630,Neapolis,40.84,14.2529,-600,7,6th century BC,Greek colony|archaeological site|polis,Italy
+Q1524536,Helü City,31.5139,120.1111,-512,9,512 BC,archaeological site,China
+Q1673859,Isernia la Pineta,41.5915,14.2413,-698000,6,698th millennium BC,archaeological site,Italy
+Q18287233,Roma,41.8922,12.4853,-752,9,752 BC,ancient city|archaeological site,Italy
+Q18635051,Nizhny Arkhyz archaeological site,43.6854,41.4764,901,7,10th century,archaeological site,Russia
+Q1918358,Bu Njem (Gholaia),30.5782,15.413,201,9,AD 201,archaeological site,Libya
+Q20108669,Nea Pleuron,38.4129,21.4072,-233,9,233 BC,ancient city|archaeological site,Greece
+Q2018245,Olbia de Provence,43.0811,6.1225,-324,9,324 BC,ancient city|archaeological site,France
+Q20445222,Ongnyongsa,35.0472,127.6033,864,9,AD 864,archaeological site,South Korea
+Q22975942,Site archéologique du bois de Montbourcher,48.241,-1.7573,1001,7,11th century,archaeological site,France
+Q22976004,,48.0203,-1.1635,1001,7,11th century,archaeological site,France
+Q22976883,Archaeological site of la Bouexière,48.0496,-1.9006,-100,7,1st century BC,archaeological site,France
+Q23742,Gorgippia,44.8962,37.31,-450,7,5th century BC,ancient city|archaeological site|polis,Russia
+Q25381188,Toumba tou Skourou,35.2243,33.0015,-1600,7,16th century BC,Bronze Age settlement|archaeological site|settlement site,Northern Cyprus
+Q2548027,Emesa,34.7232,36.7145,-19,9,19 BC,Byzantine city|Roman city|Roman colony,Syria
+Q25528561,Qurṭubah,37.8833,-4.7667,711,9,AD 711,ancient city,Spain
+Q2585609,Onega petroglyphs,61.673,36.029,-3000,6,3rd millennium BC,archaeological site,Russia
+Q2639651,Albingaunum,44.0493,8.2131,-80,8,80s BC,Roman city,Italy
+Q27243667,Dispilio Neolithic Settlement,40.4855,21.2922,-5600,4,6th millennium BC,Neolithic settlement|archaeological site,Greece
+Q29059190,Villa del Val,40.4916,-3.3416,1,7,1st century,archaeological site,Spain
+Q2935266,Camp de Péran,48.4595,-2.7814,-200,7,2nd century BC,archaeological site,France
+Q29574695,Toletum,39.8581,-4.0226,-191,9,191 BC,ancient city|municipium,Spain
+Q29583982,Zürich–Grosse Stadt Kleiner Hafner,47.3662,8.5441,-4500,7,45th century BC,archaeological site,Switzerland
+Q29905384,San Calocero al Monte,44.0438,8.2092,500,7,5th century,archaeological site,Italy
+Q3025521,Flaviobriga,43.3828,-3.2189,74,9,AD 74,Roman colony,Spain
+Q3429952,Rhegion,38.1093,15.6439,-722,9,722 BC,ancient city|polis,Italy
+Q3542515,Twann Station,47.0942,7.1568,-3839,9,3839 BC,archaeological site,Switzerland
+Q36024972,Megalopolis,37.4138,22.1263,-370,9,370 BC,ancient city|archaeological site|polis,Greece
+Q38810476,Goranxi flint mine,40.0145,20.1854,-7000,6,7th millennium BC,archaeological site,Albania
+Q4173881,,58.0139,56.2489,-15000,6,15th millennium BC,Paleolithic site,Russia
+Q42295059,Mytilene,39.1048,26.5524,-1100,7,11th century BC,ancient city|polis,Greece
+Q42793930,,40.2136,44.4218,-2000,6,2nd millennium BC,grave field,Armenia
+Q42869513,,40.2611,44.3306,-2000,6,2nd millennium BC,grave field,Armenia
+Q42871728,Burial ground of Rössen,51.3268,12.0236,-4600,7,46th century BC,archaeological site|grave field,Germany
+Q47007672,,56.0533,26.1756,1001,7,11th century,settlement site,Latvia
+Q47007678,,56.0693,26.1923,-3400,7,34th century BC,settlement site,Latvia
+Q47007680,,56.0703,26.1878,-2300,7,23rd century BC,settlement site,Latvia
+Q48075573,Ankon,43.6254,13.5101,-386,9,386 BC,ancient city,Italy
+Q48748382,Hōenzaka Site,34.6822,135.5209,500,7,5th century,archaeological site,Japan
+Q48956525,Chashin Kugran,53.2831,34.3336,1000,7,10th century,archaeological site,Russia
+Q5115696,Madinat Gharnāṭah,37.1886,-3.5908,1010,9,AD 1010,ancient city,Spain
+Q54914133,,53.17,6.04,-5500,7,55th century BC,archaeological site,Netherlands
+Q55098124,Yacimiento del Ecce Homo,40.4834,-3.3238,700,7,7th century,Celtic archaeological site,Spain
+Q55435195,,57.1422,21.4443,-5600,7,56th century BC,settlement site,Latvia
+Q55660921,,56.9724,23.9047,-3400,7,34th century BC,settlement site,Latvia
+Q56367900,,56.8939,53.8892,400,7,4th century,archaeological site,Russia
+Q56399450,Chios,38.3736,26.1369,-899,9,899 BC,ancient city|polis,Greece
+Q56399452,Iulis,37.6405,24.3404,-1099,9,1099 BC,polis,Greece
+Q5661720,,36.1305,-5.4474,711,9,AD 711,ancient city,Spain
+Q5794127,Arlanpe,43.1928,-2.7628,-115000,6,115th millennium BC,archaeological site,Spain
+Q61465927,Thermai Himeraiai,37.984,13.6961,-408,9,408 BC,ancient city|polis,Italy
+Q61676789,Yacimiento arqueológico de La Cava,40.2438,-2.7633,-500,7,5th century BC,archaeological site,Spain
+Q63256193,Tulaytula,39.8581,-4.0226,711,9,AD 711,ancient city,Spain
+Q639644,Roman inscription in Trenčín,48.8958,18.0447,1000,6,1st millennium,archaeological monument,Slovakia
+Q65241144,,53.124,13.7967,-6400,7,64th century BC,archaeological site|grave field,Germany
+Q65455936,Archaeological site of La Poza,41.9403,-4.2669,600,7,6th century,archaeological site,Spain
+Q6853510,Metsad Saharonim,30.6039,34.9383,1,7,1st century,archaeological site,Israel
+Q80661780,Prasat Prei Kmeng,13.4281,103.7573,700,9,AD 700,archaeological site,Cambodia
+Q82268152,Mentesh Tepe,41.0919,45.8328,-6000,4,6th millennium BC,archaeological site,Azerbaijan
+Q84027094,Pengtoushan,29.6822,111.6789,-7500,7,75th century BC,archaeological site,China
+Q85992819,A villa with a peristyle,43.3098,21.9485,400,7,4th century,archaeological site,Serbia
+Q87392861,,39.5479,-0.8044,-500,8,500s BC,archaeological site,Spain
+Q88212304,,40.5066,0.4312,-699,9,699 BC,archaeological site|iberian settlement,Spain
+Q92721394,Aqua Augusta - Bridges on arches in via Arena alla Sanità,40.8574,14.2528,0,9,AD 0,archaeological site,Italy
+Q93335483,Emporiae,42.1347,3.1206,-194,9,194 BC,municipium,Spain
+Q93335904,Emporion,42.1347,3.1206,-574,9,574 BC,emporium,Spain
+Q96074695,Phasaelis,32.029,35.4417,-7,9,7 BC,archaeological site,Palestine
+Q96107514,Jingtoushan Site,30.0266,121.3605,-6300,7,63rd century BC,archaeological site,China
