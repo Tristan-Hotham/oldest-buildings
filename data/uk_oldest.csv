@@ -1,0 +1,633 @@
+category,qid,label,date_text,year_rep,fuzzy,county,nation,use,state,today,classes,enwiki
+churches,Q2942532,"St Patrick's Cathedral, Armagh",AD 445,445,0,,,religious,standing,original,Anglican or Episcopal cathedral,"St_Patrick%27s_Cathedral,_Armagh_(Church_of_Ireland)"
+churches,Q1260042,Candida Casa,5th century,450,1,Dumfries and Galloway,Scotland,religious,ruin,ruin,church ruin,Candida_Casa
+churches,Q13125318,Bardsey Abbey,5th century,450,1,Gwynedd,Wales,religious,standing,original,abbey,"St_Mary%27s_Abbey_ruins,_Bardsey_Island"
+churches,Q13130875,Caldey Priory,5th century,450,1,Dyfed,Wales,religious,standing,original,benedictine abbey|priory,Caldey_Priory
+churches,Q3367688,Movilla Abbey,AD 540,540,0,,,religious,standing,original,abbey,Movilla_Abbey
+churches,Q840462,St Martin's Church,6th century,550,1,Kent,England,religious,standing,original,Church of England parish church,"St_Martin%27s_Church,_Canterbury"
+churches,Q1991360,Bangor Cathedral,6th century,550,1,Gwynedd,Wales,religious,standing,original,Anglican or Episcopal cathedral,Bangor_Cathedral
+churches,Q591192,Bangor Abbey,6th century,550,1,,,religious,standing,original,abbey,Bangor_Abbey
+churches,Q17737306,"St Saeran's Church, Llanynys",6th century,550,1,Clwyd,Wales,religious,standing,original,church building,"St_Saeran%27s_Church,_Llanynys"
+churches,Q7595030,St Padarn's Church,6th century,550,1,Dyfed,Wales,religious,standing,original,church building,"St_Padarn%27s_Church,_Llanbadarn_Fawr"
+churches,Q141818398,Dromore Abbey,6th century,550,1,,,religious,standing,original,monastery,
+churches,Q198409,Iona Abbey,AD 563,563,0,Argyll and Bute,Scotland,religious,standing,original,abbey,Iona_Abbey
+churches,Q29265,Canterbury Cathedral,AD 597,597,0,Kent,England,religious,standing,original,Anglican or Episcopal cathedral,Canterbury_Cathedral
+churches,Q262500,Gloucester Cathedral,7th century,650,1,Gloucestershire,England,religious,standing,original,Anglican or Episcopal cathedral,Gloucester_Cathedral
+churches,Q2635720,Rochester Cathedral,7th century,650,1,Kent,England,religious,standing,original,Anglican or Episcopal cathedral,Rochester_Cathedral
+churches,Q1630367,Worcester Cathedral,7th century,650,1,Worcestershire,England,religious,standing,original,Anglican or Episcopal cathedral,Worcester_Cathedral
+churches,Q550064,Malmesbury Abbey,7th century,650,1,Wiltshire,England,religious,standing,original,abbey|church building,Malmesbury_Abbey
+churches,Q2101170,Monkwearmouth-Jarrow Abbey,7th century,650,1,Tyne and Wear,England,religious,standing,original,abbey,Monkwearmouth%E2%80%93Jarrow_Abbey
+churches,Q638466,Ripon Cathedral,7th century,650,1,North Yorkshire,England,religious,standing,original,Anglican or Episcopal cathedral,Ripon_Cathedral
+churches,Q5397373,Escomb Church,7th century,650,1,Durham,England,religious,standing,original,church building,Escomb_Church
+churches,Q4479799,Wenlock Priory,7th century,650,1,Shropshire,England,religious,standing,original,priory,Wenlock_Priory
+churches,Q7170186,Pershore Abbey,7th century,650,1,Worcestershire,England,religious,standing,original,church building,Pershore_Abbey
+churches,Q7594721,St Melangell's Church,7th century,650,1,Powys,Wales,religious,standing,original,church building,St_Melangell%27s_Church
+churches,Q4860175,Bardney Abbey,7th century,650,1,Lincolnshire,England,religious,ruin,ruin,abbey|ruins,Bardney_Abbey
+churches,Q7245226,Prinknash Abbey,7th century,650,1,Gloucestershire,England,religious,standing,original,monastery,Prinknash_Abbey
+churches,Q15179394,"All Saints' Church, Brixworth",7th century,650,1,Northamptonshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Brixworth"
+churches,Q16932718,"St Mary's Church, Reculver",7th century,650,1,Kent,England,religious,ruin,ruin,church building|ruins,"St_Mary%27s_Church,_Reculver"
+churches,Q5142535,Coldingham Priory,7th century,650,1,Scottish Borders,Scotland,religious,standing,original,priory,Coldingham_Priory
+churches,Q7448805,Selsey Abbey,7th century,650,1,,,religious,standing,original,abbey,Selsey_Abbey
+churches,Q7593308,"St Helen's Church, Abingdon",7th century,650,1,Oxfordshire,England,religious,standing,original,church building,"St_Helen%27s_Church,_Abingdon"
+churches,Q7594625,"St Mary sub Castro, Dover",7th century,650,1,Kent,England,religious,standing,original,castle chapel|church building,"St_Mary_sub_Castro,_Dover"
+churches,Q15979378,"St John the Evangelist's Church, Carlton in Lindrick",7th century,650,1,Nottinghamshire,England,religious,standing,original,church building,"St_John_the_Evangelist%27s_Church,_Carlton_in_Lindrick"
+churches,Q2820597,Gilling Abbey,7th century,650,1,North Yorkshire,England,religious,standing,original,abbey,Gilling_Abbey
+churches,Q7593999,"St Leonard's Priory, Stamford",7th century,650,1,Lincolnshire,England,religious,standing,original,priory,"St_Leonard%27s_Priory,_Stamford"
+churches,Q17527479,"Church of St Mary, Stoke d'Abernon",7th century,650,1,Surrey,England,religious,standing,original,church building,"St_Mary%27s_Church,_Stoke_d%27Abernon"
+churches,Q17533940,Church of All Hallows,7th century,650,1,East Riding of Yorkshire,England,religious,standing,original,church building,"All_Hallows%27_Church,_Goodmanham"
+churches,Q17540695,Church of St Mary,7th century,650,1,Essex,England,religious,standing,original,church building,"St_Mary%27s_Church,_Prittlewell"
+churches,Q17737961,Church of St Beuno and St Mary,7th century,650,1,Clwyd,Wales,religious,standing,original,church building,Church_of_St_Beuno_and_St_Mary
+churches,Q5464526,Folkestone Priory,7th century,650,1,Kent,England,religious,standing,original,priory,Folkestone_Priory
+churches,Q7314363,Repton Abbey,7th century,650,1,Derbyshire,England,religious,standing,original,abbey,Repton_Abbey
+churches,Q7595250,"St Peter's Church, Heysham",7th century,650,1,Lancashire,England,religious,standing,original,church building,"St_Peter%27s_Church,_Heysham"
+churches,Q1516379,Worcester Priory,7th century,650,1,Worcestershire,England,religious,standing,original,monastery|priory,
+churches,Q15223125,Hartlepool Abbey,7th century,650,1,Durham,England,religious,standing,original,abbey,Hartlepool_Abbey
+churches,Q17527720,Church of St Andrew,7th century,650,1,Northumberland,England,religious,standing,original,church building,
+churches,Q5887234,Holywood Priory,7th century,650,1,,,religious,standing,original,priory,Holywood_Priory
+churches,Q7554639,Soham Abbey,7th century,650,1,Cambridgeshire,England,religious,standing,original,abbey,Soham_Abbey
+churches,Q7969277,Wareham Priory,7th century,650,1,Dorset,England,religious,standing,changed,former monastery|priory,Wareham_Priory
+churches,Q5073092,Chapel of St Peter-on-the-Wall,AD 654,654,0,Essex,England,religious,standing,original,chapel|church building,Chapel_of_St_Peter-on-the-Wall
+churches,Q1469493,Whitby Abbey,AD 657,657,0,North Yorkshire,England,religious,standing,original,abbey,Whitby_Abbey
+churches,Q751674,Chertsey Abbey,AD 666,666,0,Surrey,England,religious,standing,original,abbey|benedictine abbey,Chertsey_Abbey
+churches,Q950037,Hexham Abbey,AD 674,674,0,Northumberland,England,religious,standing,original,church building,Hexham_Abbey
+churches,Q7595266,St Peter's Church,AD 674,674,0,Tyne and Wear,England,religious,standing,original,church building,"St_Peter%27s_Church,_Monkwearmouth"
+churches,Q579381,All Hallows-by-the-Tower,AD 675,675,0,Greater London,England,religious,standing,original,church building,All_Hallows-by-the-Tower
+churches,Q2820496,Abingdon Abbey,AD 675,675,0,Oxfordshire,England,religious,standing,original,abbey,Abingdon_Abbey
+churches,Q33401907,Bath Cathedral Priory,AD 675,675,0,Somerset,England,religious,standing,original,cathedral|priory,
+churches,Q5572012,Gloucester Abbey,AD 680,680,0,Gloucestershire,England,religious,standing,original,abbey,Gloucester_Abbey
+churches,Q17540662,"Parish Church of St Paul, Jarrow",AD 681,681,0,Tyne and Wear,England,religious,standing,original,church building,"St_Paul%27s_Church,_Jarrow"
+churches,Q544113,Glastonbury Abbey,AD 712,712,0,Somerset,England,religious,standing,original,abbey,Glastonbury_Abbey
+churches,Q3405514,Tewkesbury Abbey,8th century,750,1,Gloucestershire,England,religious,standing,original,Church of England parish church|abbey|church building,Tewkesbury_Abbey
+churches,Q2564352,Evesham Abbey,8th century,750,1,Worcestershire,England,religious,standing,original,abbey,Evesham_Abbey
+churches,Q549614,Crowland Abbey,8th century,750,1,Lincolnshire,England,religious,standing,original,abbey,Crowland_Abbey
+churches,Q2323982,"St Laurence's Church, Bradford-on-Avon",8th century,750,1,Wiltshire,England,religious,standing,original,church building,"St_Laurence%27s_Church,_Bradford-on-Avon"
+churches,Q6470546,"Lady St. Mary Church, Wareham",8th century,750,1,Dorset,England,religious,standing,original,church building,"Lady_St_Mary_Church,_Wareham"
+churches,Q7593259,"St Giles' Church, Barrow",8th century,750,1,Shropshire,England,religious,standing,original,church building,"St_Giles%27_Church,_Barrow"
+churches,Q7595057,"St Patrick's Chapel, Heysham",8th century,750,1,Lancashire,England,religious,standing,original,church building,"St_Patrick%27s_Chapel,_Heysham"
+churches,Q17529878,"Church of St Mary, Seaham",8th century,750,1,Durham,England,religious,standing,original,church building,"St_Mary%27s_Church,_Seaham"
+churches,Q17530801,Church of St Peter,8th century,750,1,South Yorkshire,England,religious,standing,original,church building,"St_Peter%27s_Church,_Conisbrough"
+churches,Q8023745,Winchcombe Abbey,8th century,750,1,Gloucestershire,England,religious,ruin,ruin,abbey|benedictine abbey|monastery ruins,Winchcombe_Abbey
+churches,Q17527519,Church of St Peter,8th century,750,1,Northumberland,England,religious,standing,original,church building,
+churches,Q17528350,"Church of St Peter, Titchfield",8th century,750,1,Hampshire,England,religious,standing,original,church building,
+churches,Q17531615,"Church of St Michael and All Angels, Edenham",8th century,750,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532497,"St Peter's Church, Henfield",AD 770,770,0,West Sussex,England,religious,standing,original,church building,"St_Peter%27s_Church,_Henfield"
+churches,Q17556167,Parish Church of St Peter,AD 772,772,0,East Sussex,England,religious,standing,original,church building,
+churches,Q17645367,St Albans Abbey,AD 793,793,0,Hertfordshire,England,religious,standing,original,abbey,
+churches,Q10720238,Wilton Abbey,9th century,850,1,Wiltshire,England,religious,standing,original,abbey,Wilton_Abbey
+churches,Q3402932,"St Oswald's Priory, Gloucester",9th century,850,1,Gloucestershire,England,religious,standing,original,church building|priory,"St_Oswald%27s_Priory,_Gloucester"
+churches,Q7594277,"St Mary's Church, Battersea",9th century,850,1,,,religious,standing,original,church building,"St_Mary%27s_Church,_Battersea"
+churches,Q13414750,St Benet's Abbey,9th century,850,1,Norfolk,England,religious,standing,original,abbey|windmill,St_Benet%27s_Abbey
+churches,Q17530497,Church of All Hallows,AD 850,850,0,West Yorkshire,England,religious,standing,original,church building,"All_Hallows_Church,_Bardsey"
+churches,Q7594928,"St Nicholas' Church, Leicester",9th century,850,1,Leicestershire,England,religious,standing,original,church building,"St_Nicholas_Church,_Leicester"
+churches,Q5117400,Church of St Editha,9th century,850,1,Staffordshire,England,religious,standing,original,church building,"Church_of_St_Editha,_Tamworth"
+churches,Q7594237,"St Mary's Abbey, Winchester",9th century,850,1,Hampshire,England,religious,standing,original,abbey,"St_Mary%27s_Abbey,_Winchester"
+churches,Q7594519,"St Mary's Priory Church, Deerhurst",9th century,850,1,Gloucestershire,England,religious,standing,original,church building,"St_Mary%27s_Priory_Church,_Deerhurst"
+churches,Q7595214,"St Peter's Church, Barton-upon-Humber",9th century,850,1,Lincolnshire,England,religious,standing,original,church building,"St_Peter%27s_Church,_Barton-upon-Humber"
+churches,Q12066084,Polesworth Abbey,9th century,850,1,Warwickshire,England,religious,standing,original,abbey,Polesworth_Abbey
+churches,Q1128802,Shaftesbury Abbey,AD 888,888,0,Dorset,England,religious,standing,original,abbey,Shaftesbury_Abbey
+churches,Q17526847,Parish Church of St Mary the Virgin,AD 925,925,0,Devon,England,religious,standing,original,church building,"Church_of_St_Mary_the_Virgin,_Pilton"
+churches,Q5933,Westminster Abbey,10th century,950,1,Greater London,England,religious,standing,original,Anglican church building|Anglican or Episcopal cathedral|Royal Peculiar|abbey church|collegiate church,Westminster_Abbey
+churches,Q1262119,Sherborne Abbey,10th century,950,1,Dorset,England,religious,standing,original,Church of England parish church,Sherborne_Abbey
+churches,Q6137344,Romsey Abbey,10th century,950,1,Hampshire,England,religious,standing,original,church building,Romsey_Abbey
+churches,Q2032575,"New Minster, Winchester",10th century,950,1,Hampshire,England,religious,standing,original,benedictine abbey,"New_Minster,_Winchester"
+churches,Q5117216,"Church of St. Dunstan, Mayfield",10th century,950,1,East Sussex,England,religious,standing,original,church building,"St_Dunstan%27s_Church,_Mayfield"
+churches,Q514750,Church of St Mary Bishophill Junior,10th century,950,1,North Yorkshire,England,religious,standing,original,church building,"St_Mary_Bishophill_Junior,_York"
+churches,Q1272948,"All Saints' Church, Wing",10th century,950,1,Buckinghamshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Wing"
+churches,Q133400,St Martin's Church,10th century,950,1,Lincolnshire,England,religious,standing,original,church building,"St_Martin%27s_Church,_Waithe"
+churches,Q2820734,Tavistock Abbey,10th century,950,1,Devon,England,religious,standing,original,abbey,Tavistock_Abbey
+churches,Q4729314,"All Saints' Church, Earls Barton",10th century,950,1,Northamptonshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Earls_Barton"
+churches,Q17529272,St Sampson's Church,10th century,950,1,Wiltshire,England,religious,standing,original,church building,"St_Sampson%27s_Church,_Cricklade"
+churches,Q17530685,"Church of St Michael, Heighington",10th century,950,1,Durham,England,religious,standing,original,church building,"St_Michael%27s_Church,_Heighington"
+churches,Q4729328,"All Saints' Church, Huntingdon",10th century,950,1,Cambridgeshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Huntingdon"
+churches,Q4729439,"All Saints Church, Bakewell",10th century,950,1,Derbyshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Bakewell"
+churches,Q4745900,Amesbury Abbey,10th century,950,1,Wiltshire,England,religious,standing,original,abbey,Amesbury_Abbey
+churches,Q5117491,"Church of St Margaret of Antioch, Darenth",10th century,950,1,Kent,England,religious,standing,original,church building,"Church_of_St_Margaret_of_Antioch,_Darenth"
+churches,Q7594301,"St Mary's Church, Chickney",10th century,950,1,Essex,England,religious,standing,original,church building,"St_Mary%27s_Church,_Chickney"
+churches,Q7594968,"St Nicolas' Church, Shoreham-by-Sea",10th century,950,1,West Sussex,England,religious,standing,original,church building,"St_Nicolas_Church,_Shoreham-by-Sea"
+churches,Q15978794,"St Nicholas' Church, Fulbeck",10th century,950,1,Lincolnshire,England,religious,standing,original,church building,"St_Nicholas%27_Church,_Fulbeck"
+churches,Q17527826,Church of St Helen,10th century,950,1,South Yorkshire,England,religious,standing,original,church building,
+churches,Q17529279,"Church of St Mary, Bampton",10th century,950,1,Oxfordshire,England,religious,standing,original,church building,"St_Mary%27s_Church,_Bampton"
+churches,Q17530107,Church of St John the Baptist,10th century,950,1,Wiltshire,England,religious,standing,original,church building,
+churches,Q17538220,Church of All Saints,10th century,950,1,North Yorkshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Kirby-on-the-Moor"
+churches,Q5117732,"Church of St Thomas of Canterbury, Clapham, Bedfordshire",10th century,950,1,Bedfordshire,England,religious,standing,original,church building,"Church_of_St_Thomas_of_Canterbury,_Clapham,_Bedfordshire"
+churches,Q5181925,Cranborne Priory,10th century,950,1,Dorset,England,religious,standing,original,priory,Cranborne_Priory
+churches,Q7594936,"St Nicholas' Church, Worth",10th century,950,1,West Sussex,England,religious,standing,original,church building,"St_Nicholas_Church,_Worth"
+churches,Q17526376,Church of St Mary,10th century,950,1,Bedfordshire,England,religious,standing,original,church building,
+churches,Q17526575,Church of St Michael,10th century,950,1,Northamptonshire,England,religious,standing,original,church building,
+churches,Q17526917,Church of St Andrew,10th century,950,1,Northamptonshire,England,religious,standing,original,church building,
+churches,Q17527107,Church of St Bartholomew,10th century,950,1,Northamptonshire,England,religious,standing,original,church building,
+churches,Q17527916,Church of All Saints,10th century,950,1,Nottinghamshire,England,religious,standing,original,church building,
+churches,Q17528433,Church of St Mary,10th century,950,1,Hampshire,England,religious,standing,original,church building,
+churches,Q17528935,Church of St Mary,10th century,950,1,Oxfordshire,England,religious,standing,original,church building,
+churches,Q17529602,Church of St James,10th century,950,1,Wiltshire,England,religious,standing,original,church building,
+churches,Q17529934,"Church of St Martin, Cheriton",10th century,950,1,Kent,England,religious,standing,original,church building,
+churches,Q17530104,Church of St Mary,10th century,950,1,Wiltshire,England,religious,standing,original,church building,
+churches,Q17530227,Church of St Dunstan,10th century,950,1,Kent,England,religious,standing,original,church building,
+churches,Q17536072,Church of St Mary and All Saints,10th century,950,1,Essex,England,religious,standing,original,church building,
+churches,Q17537665,Church of St Peter,10th century,950,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17541480,Church of St Cuthbert,10th century,950,1,Durham,England,religious,standing,original,church building,
+churches,Q4879100,Bedford Abbey,10th century,950,1,Bedfordshire,England,religious,standing,original,abbey,Bedford_Abbey
+churches,Q5049627,Cholsey Abbey,10th century,950,1,Oxfordshire,England,religious,standing,original,abbey,Cholsey_Abbey
+churches,Q7594907,St Neots Priory,10th century,950,1,Cambridgeshire,England,religious,standing,original,monastery,St_Neots_Priory
+churches,Q8023785,Winchester Cathedral Priory,10th century,950,1,Hampshire,England,religious,standing,original,monastery,Winchester_Cathedral_Priory
+churches,Q2480691,Ramsey Abbey,AD 969,969,0,Cambridgeshire,England,religious,standing,original,abbey,Ramsey_Abbey
+churches,Q7796399,Thorney Abbey,AD 970,970,0,Cambridgeshire,England,religious,standing,original,abbey,Thorney_Abbey
+churches,Q2820556,Cerne Abbey,AD 987,987,0,Dorset,England,religious,standing,original,abbey,Cerne_Abbey
+churches,Q7085073,"Old St Mary's Church, West Bergholt",AD 1000,1000,0,Essex,England,religious,standing,original,church building,"Old_St_Mary%27s_Church,_West_Bergholt"
+churches,Q7594395,"St Mary's Church, North Leigh",AD 1000,1000,0,Oxfordshire,England,religious,standing,original,church building,"St_Mary%27s_Church,_North_Leigh"
+churches,Q17530279,Parish Church of St Mary,AD 1000,1000,0,Gloucestershire,England,religious,standing,original,church building,
+churches,Q334286,Bury St Edmunds Abbey,AD 1020,1020,0,Suffolk,England,religious,ruin,ruin,abbey|ruins,Bury_St_Edmunds_Abbey
+churches,Q17528724,Corhampton Church,AD 1020,1020,0,Hampshire,England,religious,standing,original,church building,Corhampton_Church
+churches,Q17646325,Waltham Abbey,AD 1030,1030,0,Essex,England,religious,standing,original,abbey,
+churches,Q17528436,"Church of St Peter, Wootton Wawen",AD 1035,1035,0,Warwickshire,England,religious,standing,original,church building,
+churches,Q17527589,"St Mary's Church, Guildford",AD 1040,1040,0,Surrey,England,religious,standing,original,church building,"St_Mary%27s_Church,_Guildford"
+churches,Q476529,Winchester Cathedral,11th century,1050,1,Hampshire,England,religious,standing,original,Anglican or Episcopal cathedral,Winchester_Cathedral
+churches,Q823412,"St Margaret's Church, Westminster",11th century,1050,1,Greater London,England,religious,standing,original,Church of England parish church,"St_Margaret%27s,_Westminster"
+churches,Q334377,St Albans Cathedral,11th century,1050,1,Hertfordshire,England,religious,standing,original,Anglican or Episcopal cathedral,St_Albans_Cathedral
+churches,Q2507390,Shrewsbury Abbey,11th century,1050,1,Shropshire,England,religious,standing,original,abbey|church building,Shrewsbury_Abbey
+churches,Q2294625,Greensted Church,11th century,1050,1,Essex,England,religious,standing,original,church building|wooden church,Greensted_Church
+churches,Q999611,Buckfast Abbey,11th century,1050,1,Devon,England,religious,standing,original,abbey,Buckfast_Abbey
+churches,Q1703400,Selby Abbey,11th century,1050,1,North Yorkshire,England,religious,standing,original,Church of England parish church,Selby_Abbey
+churches,Q338619,Newport Cathedral,11th century,1050,1,Gwent,Wales,religious,standing,original,Anglican or Episcopal cathedral,Newport_Cathedral
+churches,Q2403338,"St John's Chapel, Tower of London",11th century,1050,1,Greater London,England,religious,standing,original,Royal Peculiar|chapel|proprietary church,"St_John%27s_Chapel,_London"
+churches,Q7620667,Stow Minster,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,Stow_Minster
+churches,Q5599531,Great Malvern Priory,11th century,1050,1,Worcestershire,England,religious,standing,original,church building,Great_Malvern_Priory
+churches,Q6536133,Lewes Priory,11th century,1050,1,East Sussex,England,religious,ruin,ruin,priory|ruins,Lewes_Priory
+churches,Q7592896,St Cross Church,11th century,1050,1,Oxfordshire,England,religious,standing,original,church building,"St_Cross_Church,_Oxford"
+churches,Q7808487,Tintagel Parish Church,11th century,1050,1,Cornwall,England,religious,standing,original,church building,"St_Materiana%27s_Church,_Tintagel"
+churches,Q128404,St Bene't's Church,11th century,1050,1,Cambridgeshire,England,religious,standing,original,church building,St_Bene%27t%27s_Church
+churches,Q17529018,"The Parish Church of the Holy Trinity, Bosham",11th century,1050,1,West Sussex,England,religious,standing,original,church building,"Holy_Trinity_Church,_Bosham"
+churches,Q4914352,Binham Priory,11th century,1050,1,Norfolk,England,religious,standing,original,priory,Binham_Priory
+churches,Q5109088,Christchurch Priory,11th century,1050,1,Dorset,England,religious,standing,original,church building,Christchurch_Priory
+churches,Q7593293,St Gregory's Minster,11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"St_Gregory%27s_Minster,_Kirkdale"
+churches,Q7594875,St Michael at the North Gate,11th century,1050,1,Oxfordshire,England,religious,standing,original,church building,St_Michael_at_the_North_Gate
+churches,Q822030,Bermondsey Abbey,11th century,1050,1,Greater London,England,religious,standing,original,abbey|priory,Bermondsey_Abbey
+churches,Q15179410,"All Saints' Church, Stanton on the Wolds",11th century,1050,1,Nottinghamshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Stanton_on_the_Wolds"
+churches,Q1532659,"Old Church of St Nicholas, Uphill",11th century,1050,1,Somerset,England,religious,standing,original,church building,"Old_Church_of_St_Nicholas,_Uphill"
+churches,Q15978792,"St Martin's Church, Chipping Ongar",11th century,1050,1,Essex,England,religious,standing,original,church building,"St_Martin%27s_Church,_Chipping_Ongar"
+churches,Q15979346,St George's Church,11th century,1050,1,West Sussex,England,religious,standing,original,church building,"St_George%27s_Church,_Eastergate"
+churches,Q15979405,"St Mary the Virgin's Church, North Stoke",11th century,1050,1,West Sussex,England,religious,standing,original,church building,"St_Mary_the_Virgin%27s_Church,_North_Stoke"
+churches,Q17529474,Church of St Mildred,11th century,1050,1,Kent,England,religious,standing,original,church building,"St_Mildred%27s_Church,_Canterbury"
+churches,Q17539758,Church of St Mary the Virgin,11th century,1050,1,Essex,England,religious,standing,original,church building,"St_Mary_the_Virgin_Church,_Wendens_Ambo"
+churches,Q263585,"St. George's Church, Arreton",11th century,1050,1,Isle of Wight,England,religious,standing,original,church building,"St_George%27s_Church,_Arreton"
+churches,Q2820517,Eynsham Abbey,11th century,1050,1,Oxfordshire,England,religious,standing,original,abbey,Eynsham_Abbey
+churches,Q4664274,Abbotsbury Abbey,11th century,1050,1,Dorset,England,religious,standing,original,abbey,Abbotsbury_Abbey
+churches,Q4951707,Boxgrove Priory,11th century,1050,1,West Sussex,England,religious,ruin,ruin,monastery ruins|priory,Boxgrove_Priory
+churches,Q4960050,Church of St Margaret,11th century,1050,1,Norfolk,England,religious,standing,original,church building,"Church_of_St_Margaret,_Breckles"
+churches,Q5000801,Burton Abbey,11th century,1050,1,Staffordshire,England,religious,standing,original,abbey,Burton_Abbey
+churches,Q7587341,St. Botolph's Priory,11th century,1050,1,Essex,England,religious,standing,original,priory,St_Botolph%27s_Priory
+churches,Q7587772,"St. Dunstan's, Canterbury",11th century,1050,1,Kent,England,religious,standing,original,church building,"St._Dunstan%27s,_Canterbury"
+churches,Q7590167,"St Mary's Church, Hadlow",11th century,1050,1,Kent,England,religious,standing,original,church building,"St_Mary%27s_Church,_Hadlow"
+churches,Q7593009,St Edward's Church,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"St_Edward%27s_Church,_Stow-on-the-Wold"
+churches,Q7593396,St Illtyd's Church,11th century,1050,1,South Glamorgan,Wales,religious,standing,original,church building,"St_Illtyd%27s_Church,_Llantwit_Major"
+churches,Q7593410,St Ives Priory,11th century,1050,1,Cambridgeshire,England,religious,standing,changed,former monastery|priory,St_Ives_Priory
+churches,Q7593933,"St Laurence's Church, Morland",11th century,1050,1,Cumbria,England,religious,standing,original,church building,"St_Laurence%27s_Church,_Morland"
+churches,Q7594111,"St Margaret's Church, West Hoathly",11th century,1050,1,West Sussex,England,religious,standing,original,church building,"St_Margaret%27s_Church,_West_Hoathly"
+churches,Q7594274,"St Mary's Church, Barnetby",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"St_Mary%27s_Church,_Barnetby"
+churches,Q7594300,St Mary's Church,11th century,1050,1,Gwent,Wales,religious,standing,original,church building,"Priory_Church_of_St_Mary,_Chepstow"
+churches,Q7594367,St Mary's Church,11th century,1050,1,Gwynedd,Wales,religious,standing,original,church building,"St_Mary%27s_Church,_Llanfair-yng-Nghornwy"
+churches,Q7594612,"St Mary and St Cuthbert, Chester-le-Street",11th century,1050,1,Durham,England,religious,standing,original,church building,"St_Mary_and_St_Cuthbert,_Chester-le-Street"
+churches,Q7594696,"St Matthew's Church, Langford",11th century,1050,1,Oxfordshire,England,religious,standing,original,church building,"St_Matthew%27s_Church,_Langford"
+churches,Q7595665,"St Wynwallow's Church, Landewednack",11th century,1050,1,Cornwall,England,religious,standing,original,church building,"St_Wynwallow%27s_Church,_Landewednack"
+churches,Q8035162,Worksop Priory,11th century,1050,1,Nottinghamshire,England,religious,standing,original,church building,Worksop_Priory
+churches,Q14554964,Borley Church,11th century,1050,1,Essex,England,religious,standing,original,church building,Borley_Church
+churches,Q15209086,"Chapel of St Helen, Wicken Bonhunt",11th century,1050,1,Essex,England,religious,standing,original,chapel|church building,Chapel_of_St_Helen
+churches,Q15224719,"Holy Trinity Church, Lambley",11th century,1050,1,Nottinghamshire,England,religious,standing,original,church building,"Holy_Trinity_Church,_Lambley"
+churches,Q15978773,"St Martin's Church, Ancaster",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"St_Martin%27s_Church,_Ancaster"
+churches,Q15979404,"St Mary the Virgin's Church, Cavendish",11th century,1050,1,Suffolk,England,religious,standing,original,church building,"St_Mary_the_Virgin%27s_Church,_Cavendish"
+churches,Q16822406,"St John the Baptist's Church, Barnack",11th century,1050,1,Cambridgeshire,England,religious,standing,original,church building,"St_John_the_Baptist%27s_Church,_Barnack"
+churches,Q17524749,Church of the Holy Rood,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"Church_of_the_Holy_Rood,_Ampney_Crucis"
+churches,Q17525529,Church of St Andrew,11th century,1050,1,Derbyshire,England,religious,standing,original,church building,"St_Andrew%27s_Church,_Cubley"
+churches,Q17525560,Church of St Margaret,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"Church_of_St_Margaret,_Bagendon"
+churches,Q17525561,Church of All Saints,11th century,1050,1,South Yorkshire,England,religious,standing,original,church building,"All_Saints_Church,_Darfield"
+churches,Q17525616,Church of St Michael,11th century,1050,1,Derbyshire,England,religious,standing,original,church building,"St_Michael%27s_Church,_Breaston"
+churches,Q17525635,Church of St Giles,11th century,1050,1,Derbyshire,England,religious,standing,original,church building,"St_Giles%27_Church,_Sandiacre"
+churches,Q17525701,Church of St Michael,11th century,1050,1,Derbyshire,England,religious,standing,original,church building,"St_Michael%27s_Church,_Stanton_by_Bridge"
+churches,Q17525782,Church of the Holy Cross,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"Church_of_the_Holy_Cross,_Avening"
+churches,Q17525789,Church of St James,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"Church_of_St_James,_Chipping_Campden"
+churches,Q17527680,Church of St Peter and St Paul,11th century,1050,1,Surrey,England,religious,standing,original,church building,"Church_of_St_Peter_and_St_Paul,_Chaldon"
+churches,Q17528156,Parish Church of St Mary Magdalen,11th century,1050,1,Cambridgeshire,England,religious,standing,original,church building,"St_Mary_Magdalene_Church,_Ickleton"
+churches,Q17528397,St Thomas à Becket Church,11th century,1050,1,Hampshire,England,religious,standing,original,church building,"St_Thomas_%C3%A0_Becket_Church,_Warblington"
+churches,Q17529349,Church of All Saints,11th century,1050,1,Wiltshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Netheravon"
+churches,Q17529987,"Church of St Martin, Acrise",11th century,1050,1,Kent,England,religious,standing,original,Anglican church building,"St_Martin%27s_Church,_Acrise"
+churches,Q17530487,Church of St Oswald,11th century,1050,1,West Yorkshire,England,religious,standing,original,church building,"St_Oswald%27s_Church,_Guiseley"
+churches,Q17530561,Church of St Cuthbert,11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"St_Cuthbert%27s_Church,_York"
+churches,Q17530600,"Church of St Martin-cum-Gregory, York",11th century,1050,1,North Yorkshire,England,religious,standing,changed,former church building,"St_Martin-cum-Gregory%27s_Church,_Micklegate,_York"
+churches,Q17530687,Church of All Saints,11th century,1050,1,Derbyshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Mugginton"
+churches,Q17530701,"Church of St John the Baptist, Ault Hucknall",11th century,1050,1,Derbyshire,England,religious,standing,original,church building,"St_John_the_Baptist%27s_Church,_Ault_Hucknall"
+churches,Q17531676,"Church of St Mary and St Andrew, Stoke Rochford",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"St_Andrew_and_St_Mary%27s_Church,_Stoke_Rochford"
+churches,Q17533157,Church of St George,11th century,1050,1,Dorset,England,religious,standing,original,church building,"St_George%27s_Church,_Fordington"
+churches,Q17536377,"Church of St Edmund and St Mary, Ingatestone",11th century,1050,1,Essex,England,religious,standing,original,church building,"St_Edmund_and_St_Mary%27s_Church,_Ingatestone"
+churches,Q17537384,Church of St John Baptist,11th century,1050,1,Norfolk,England,religious,standing,original,church building,St_John_Timberhill
+churches,Q17537926,Church of All Saints,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"All_Saints_Church,_Winterton"
+churches,Q17541247,"St Mary the Virgin, East Barnet",11th century,1050,1,Greater London,England,religious,standing,original,church building,"St_Mary_the_Virgin,_East_Barnet"
+churches,Q17555743,"St Lawrence Parish Church, Hunworth",11th century,1050,1,Norfolk,England,religious,standing,original,church building,"St_Lawrence_Parish_Church,_Hunworth"
+churches,Q4729539,"All Saints Church, West Farleigh",11th century,1050,1,Kent,England,religious,standing,original,church building,"All_Saints_Church,_West_Farleigh"
+churches,Q4729541,"All Saints Church, West Stourmouth",11th century,1050,1,Kent,England,religious,standing,original,church building,"All_Saints_Church,_West_Stourmouth"
+churches,Q4729544,"All Saints Church, Wordwell",11th century,1050,1,Suffolk,England,religious,standing,original,church building,"All_Saints_Church,_Wordwell"
+churches,Q5116965,Church of Our Lady of Egmanton,11th century,1050,1,Nottinghamshire,England,religious,standing,original,church building,Church_of_Our_Lady_of_Egmanton
+churches,Q5117017,"Church of SS Quiricus & Julietta, Tickenham",11th century,1050,1,Somerset,England,religious,standing,original,church building,"Church_of_SS_Quiricus_%26_Julietta,_Tickenham"
+churches,Q5117283,"Church of St. Mary & St. Nicholas, Leatherhead",11th century,1050,1,Surrey,England,religious,standing,original,church building,"Church_of_St_Mary_%26_St_Nicholas,_Leatherhead"
+churches,Q5117419,"Church of St Gregory, Weare",11th century,1050,1,Somerset,England,religious,standing,original,church building,"St_Gregory%27s_Church,_Weare"
+churches,Q5117461,"Church of St John the Evangelist, Milborne Port",11th century,1050,1,Somerset,England,religious,standing,original,church building,"Church_of_St_John_the_Evangelist,_Milborne_Port"
+churches,Q5117467,"Church of St Lawrence, Alton",11th century,1050,1,Hampshire,England,religious,standing,original,church building,"Church_of_St_Lawrence,_Alton"
+churches,Q5117507,Church of St Mary,11th century,1050,1,Bedfordshire,England,religious,standing,original,church building,"Church_of_St_Mary,_Carlton,_Bedfordshire"
+churches,Q5117548,"Church of St Mary, Woolavington",11th century,1050,1,Somerset,England,religious,standing,original,church building,"Church_of_St_Mary,_Woolavington"
+churches,Q5117574,"Church of St Mary the Blessed Virgin, Sompting",11th century,1050,1,West Sussex,England,religious,standing,original,church building,"Church_of_St_Mary_the_Blessed_Virgin,_Sompting"
+churches,Q5117593,"Church of St Mary the Virgin, Fordwich",11th century,1050,1,Kent,England,religious,standing,original,church building,"Church_of_St_Mary_the_Virgin,_Fordwich"
+churches,Q5117614,"Church of St Michael, Brent Knoll",11th century,1050,1,Somerset,England,religious,standing,original,church building,"St_Michael%27s_Church,_Brent_Knoll"
+churches,Q5117688,"Church of St Peter, Portishead",11th century,1050,1,Somerset,England,religious,standing,original,church building,"St_Peter%27s_Church,_Portishead"
+churches,Q5167615,Coombes Church,11th century,1050,1,West Sussex,England,religious,standing,original,church building,Coombes_Church
+churches,Q5192866,Culbone Church,11th century,1050,1,Somerset,England,religious,standing,original,Church of England parish church|church building,Culbone_Church
+churches,Q5316469,Durham Priory,11th century,1050,1,Durham,England,religious,standing,original,priory,Durham_Priory
+churches,Q5601478,Greatham Church,11th century,1050,1,West Sussex,England,religious,standing,original,church building,Greatham_Church
+churches,Q5886446,"Holy Trinity Church, Blatherwycke",11th century,1050,1,Northamptonshire,England,religious,standing,original,church building,"Holy_Trinity_Church,_Blatherwycke"
+churches,Q5886548,"Holy Trinity Church, Little Ouseburn",11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"Holy_Trinity_Church,_Little_Ouseburn"
+churches,Q7588297,"St Helen's Church, Brant Broughton",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"St_Helen%27s_Church,_Brant_Broughton"
+churches,Q7590521,"St. Mary and St. Martin’s Church, Blyth",11th century,1050,1,Nottinghamshire,England,religious,standing,original,church building,"St_Mary_and_St_Martin%27s_Church,_Blyth"
+churches,Q7590665,"St. Michael's Church, Southampton",11th century,1050,1,Hampshire,England,religious,standing,original,church building,"St_Michael%27s_Church,_Southampton"
+churches,Q7592339,"St Andrew's Church, Crosby Garrett",11th century,1050,1,Cumbria,England,religious,standing,original,church building,"St_Andrew%27s_Church,_Crosby_Garrett"
+churches,Q7592687,"St Botolph's Church, Hardham",11th century,1050,1,West Sussex,England,religious,standing,original,church building,"St_Botolph%27s_Church,_Hardham"
+churches,Q7592717,"St Bridget's Church, Brigham",11th century,1050,1,Cumbria,England,religious,standing,original,church building,"St_Bridget%27s_Church,_Brigham"
+churches,Q7592785,"St Chad's Church, Harpswell",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"St_Chad%27s_Church,_Harpswell"
+churches,Q7593057,"St Faith, Farmcote",11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"St_Faith,_Farmcote"
+churches,Q7593271,"St Giles, Wormshill",11th century,1050,1,Kent,England,religious,standing,original,church building,"St_Giles%27_Church,_Wormshill"
+churches,Q7593313,"St Helen's Church, Hangleton",11th century,1050,1,East Sussex,England,religious,standing,original,church building,"St_Helen%27s_Church,_Hangleton"
+churches,Q7593320,"St Helen's Church, Wheathampstead",11th century,1050,1,Hertfordshire,England,religious,standing,original,church building|churchyard,"St_Helen%27s_Church,_Wheathampstead"
+churches,Q7593438,"St James' Church, Great Ormside",11th century,1050,1,Cumbria,England,religious,standing,original,church building,"St_James%27_Church,_Great_Ormside"
+churches,Q7593714,"St John the Baptist's Church, Chester",11th century,1050,1,Cheshire,England,religious,standing,original,church building,"St_John_the_Baptist%27s_Church,_Chester"
+churches,Q7593716,"St John the Baptist's Church, Clayton",11th century,1050,1,West Sussex,England,religious,standing,original,church building,"St_John_the_Baptist%27s_Church,_Clayton"
+churches,Q7593757,"St John the Baptist church, Kirk Hammerton",11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"St_John_the_Baptist_Church,_Kirk_Hammerton"
+churches,Q7594192,"St Martin's Church, Wareham",11th century,1050,1,Dorset,England,religious,standing,original,church building,"St_Martin%27s_Church,_Wareham"
+churches,Q7594350,"St Mary's Church, Higham",11th century,1050,1,Kent,England,religious,standing,original,church building,"St_Mary%27s_Church,_Higham"
+churches,Q7594353,"St Mary's Church, Hunton",11th century,1050,1,Kent,England,religious,standing,original,church building,"St_Mary%27s_Church,_Hunton"
+churches,Q7594393,"St Mary's Church, North Cockerington",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"St_Mary%27s_Church,_North_Cockerington"
+churches,Q7594405,St Mary's Church,11th century,1050,1,Hampshire,England,religious,standing,original,church building,"St_Mary%27s_Church,_Portsea"
+churches,Q7594623,"St Mary de Haura Church, Shoreham-by-Sea",11th century,1050,1,West Sussex,England,religious,standing,original,church building,"St_Mary_de_Haura_Church,_Shoreham-by-Sea"
+churches,Q7594646,"St Mary the Virgin's Church, Little Hormead",11th century,1050,1,Hertfordshire,England,religious,standing,original,church building,"St_Mary%27s_Church,_Little_Hormead"
+churches,Q7594759,"St Michael's Church, Duntisbourne Rouse",11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"St_Michael%27s_Church,_Duntisbourne_Rouse"
+churches,Q7594780,"St Michael's Church, Shotwick",11th century,1050,1,Cheshire,England,religious,standing,original,church building,"St_Michael%27s_Church,_Shotwick"
+churches,Q7594900,"St Nectan's Church, Hartland",AD 1050,1050,0,Devon,England,religious,standing,original,church building,"St_Nectan%27s_Church,_Hartland"
+churches,Q7594961,St Nicholas Priory,11th century,1050,1,Devon,England,religious,standing,museum,historic house museum|priory,"St_Nicholas%27_Priory,_Exeter"
+churches,Q7595301,"St Peter's Church, West Blatchington",11th century,1050,1,East Sussex,England,religious,standing,original,church building,"St_Peter%27s_Church,_West_Blatchington"
+churches,Q12060806,Isleham Priory Church,11th century,1050,1,Cambridgeshire,England,religious,standing,original,church building,Isleham_Priory_Church
+churches,Q15244273,Malling Abbey,11th century,1050,1,Kent,England,religious,standing,original,anglican monastery|monastery,Malling_Abbey
+churches,Q15978805,"St Peter's Church, Kingerby",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"St_Peter%27s_Church,_Kingerby"
+churches,Q15978813,"St Peter's Church, Ropsley",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"St_Peter%27s_Church,_Ropsley"
+churches,Q15979482,"St Peter and St Paul's Church, Church Warsop",11th century,1050,1,Nottinghamshire,England,religious,standing,original,church building,"St_Peter_and_St_Paul%27s_Church,_Church_Warsop"
+churches,Q15979490,"St Peter's Church, East Bridgford",11th century,1050,1,Nottinghamshire,England,religious,standing,original,church building,"St_Peter%27s_Church,_East_Bridgford"
+churches,Q16867207,Otterton Priory,11th century,1050,1,Devon,England,religious,standing,original,priory,Otterton_Priory
+churches,Q17524723,Church of St Mary,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"Church_of_St_Mary,_Bibury"
+churches,Q17525540,Church of the Holy Rood,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"Church_of_the_Holy_Rood,_Daglingworth"
+churches,Q17525553,Church of St Martin,11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"St_Martin%27s_Church,_Bulmer"
+churches,Q17525601,Church of St Michael,11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"St_Michael%27s_Church,_Crambe"
+churches,Q17525633,Church of All Saints,11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Appleton-le-Street"
+churches,Q17525735,Church of St Mary,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"Church_of_St_Mary,_Edgeworth"
+churches,Q17525753,Church of St Andrew,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"Church_of_St_Andrew,_Coln_Rogers"
+churches,Q17525901,St Mary's Church,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"St_Mary%27s_Church,_Dymock"
+churches,Q17526038,Church of St Andrew,11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"St_Andrew%27s_Church,_Middleton"
+churches,Q17526043,Church of St Mary the Virgin,11th century,1050,1,Suffolk,England,religious,standing,original,church building,"St_Mary%27s_Church,_Wortham"
+churches,Q17526058,Church of All Saints,11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"Church_of_All_Saints,_Terrington"
+churches,Q17526315,Church of St Mary,11th century,1050,1,Suffolk,England,religious,standing,original,church building,"St_Mary%27s_Church,_Great_Blakenham"
+churches,Q17526317,Church of All Saints,11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Saxton"
+churches,Q17526737,Church of St Mary,11th century,1050,1,Buckinghamshire,England,religious,standing,original,church building,"St_Mary_the_Virgin%27s_Church,_Aylesbury"
+churches,Q17526943,Church of St Mary Magdalen,11th century,1050,1,Northamptonshire,England,religious,standing,original,church building,"St_Mary_Magdalene,_Geddington"
+churches,Q17527405,Church of St Mary,11th century,1050,1,Suffolk,England,religious,standing,original,church building,"St_Mary_the_Virgin%27s_Church,_Blundeston"
+churches,Q17527548,Church of St Nicholas,11th century,1050,1,Surrey,England,religious,standing,original,church building,"St_Nicholas%27_Church,_Compton"
+churches,Q17527603,Church of St John the Evangelist,11th century,1050,1,Surrey,England,religious,standing,original,church building,"Church_of_St_John_the_Evangelist,_Wotton"
+churches,Q17528004,Church of St Mary,11th century,1050,1,Essex,England,religious,standing,original,church building,"St_Mary_the_Virgin_Church,_Corringham"
+churches,Q17528574,Church of All Saints,11th century,1050,1,Berkshire,England,religious,standing,original,church building,"All_Saints_Church,_Farnborough"
+churches,Q17528755,The Parish Church of St Nicholas,11th century,1050,1,West Sussex,England,religious,standing,original,church building,"St_Nicholas_Church,_Poling"
+churches,Q17528881,Parish Church of St Mary the Virgin,11th century,1050,1,Hertfordshire,England,religious,standing,original,church building,"Church_of_St_Mary_the_Virgin,_Walkern"
+churches,Q17529842,"Church of St Peter and St Paul, Edenbridge",11th century,1050,1,Kent,England,religious,standing,original,church building,"Church_of_St_Peter_and_St_Paul,_Edenbridge"
+churches,Q17529912,Church of St Margaret,11th century,1050,1,Wiltshire,England,religious,standing,original,church building,
+churches,Q17531725,"Parish Church of Saint Nicholas, Studland",11th century,1050,1,Dorset,England,religious,standing,original,church building,"St_Nicholas%27_Church,_Studland"
+churches,Q17532397,"St Peter and St Paul Church, Caistor",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"St_Peter_and_St_Paul_Church,_Caistor"
+churches,Q17533438,Parish Church of St Mary,11th century,1050,1,Dorset,England,religious,standing,original,church building,"St_Mary%27s_Church,_Charminster"
+churches,Q17533613,Church of St Michael,11th century,1050,1,East Riding of Yorkshire,England,religious,standing,original,church building,"St_Michael%27s_Church,_Eastrington"
+churches,Q17533838,"Church of St Martin, Burton Agnes",11th century,1050,1,East Riding of Yorkshire,England,religious,standing,original,church building,"St_Martin%27s_Church,_Burton_Agnes"
+churches,Q17533850,Church of All Saints,11th century,1050,1,East Riding of Yorkshire,England,religious,standing,original,church building,"Church_of_All_Saints,_Skipsea"
+churches,Q17533875,"All Saints' Church, Kirby Underdale",11th century,1050,1,East Riding of Yorkshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Kirby_Underdale"
+churches,Q17534085,Church of All Saints,11th century,1050,1,East Riding of Yorkshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Market_Weighton"
+churches,Q17534521,Church of St Peter,11th century,1050,1,Norfolk,England,religious,standing,original,church building,"St_Peter%27s_Church,_Yaxham"
+churches,Q17536348,Church of St Giles,11th century,1050,1,Essex,England,religious,standing,original,church building,"St_Giles%27_Church,_Mountnessing"
+churches,Q17537392,Church of St Mary Coslany,11th century,1050,1,Norfolk,England,religious,standing,original,church building,St_Mary_Coslany
+churches,Q17537561,Church of St Peter,11th century,1050,1,Norfolk,England,religious,standing,original,church building,"St_Peter%27s_Church,_Forncett"
+churches,Q17538276,Church of Saint Oswald,11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"St_Oswald%27s_Church,_Hauxwell"
+churches,Q17538298,"Church of St Agatha, Gilling West",11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"St_Agatha%27s_Church,_Gilling_West"
+churches,Q17538330,Church of All Saints,11th century,1050,1,North Yorkshire,England,religious,standing,original,church building,"All_Saints%27_Church,_Old_Byland"
+churches,Q17540255,Church of St Bartholomew,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"Church_of_St_Bartholomew,_Winstone"
+churches,Q17541324,Church of the Holy Cross,11th century,1050,1,Staffordshire,England,religious,standing,original,church building,"Church_of_the_Holy_Cross,_Ilam"
+churches,Q18160910,"Knights Templar Church, Dover",11th century,1050,1,Kent,England,religious,ruin,ruin,church ruin,"Knights_Templar_Church,_Dover"
+churches,Q26268158,Parish Church,11th century,1050,1,Wiltshire,England,religious,standing,original,church building,"Parish_church,_Foxley,_Wiltshire"
+churches,Q4729346,"All Saints' Church, Sawley",11th century,1050,1,Derbyshire,England,religious,standing,original,parish church,"All_Saints%27_Church,_Sawley"
+churches,Q4979871,Bruton Abbey,11th century,1050,1,Somerset,England,religious,standing,original,abbey,Bruton_Abbey
+churches,Q5116794,"Church of All Saints, Milton Ernest",11th century,1050,1,Bedfordshire,England,religious,standing,original,church building,"Church_of_All_Saints,_Milton_Ernest"
+churches,Q5117452,Church of St John the Baptist,11th century,1050,1,Somerset,England,religious,standing,original,Church of England parish church|church building,"Church_of_St_John_the_Baptist,_Pilton"
+churches,Q5117515,"Church of St Mary, Hardington",11th century,1050,1,Somerset,England,religious,standing,original,church building,"St_Mary%27s_Church,_Hardington"
+churches,Q5117538,St Mary's Church,11th century,1050,1,Somerset,England,religious,standing,original,church building,"St_Mary%27s_Church,_Charlynch"
+churches,Q5117550,"Church of St Mary Magdalene, Chewton Mendip",11th century,1050,1,Somerset,England,religious,standing,original,church building,"Church_of_St_Mary_Magdalene,_Chewton_Mendip"
+churches,Q5117589,"Church of St Mary the Virgin, Chard",11th century,1050,1,Somerset,England,religious,standing,original,church building,"Church_of_St_Mary_the_Virgin,_Chard"
+churches,Q5117642,"Church of St Nicholas, Barton le Clay",11th century,1050,1,Bedfordshire,England,religious,standing,original,church building,"Church_of_St_Nicholas,_Barton_le_Clay"
+churches,Q5261434,Derby Cluniac Priory,11th century,1050,1,Derbyshire,England,religious,standing,original,monastery|priory,"St._James_Priory,_Derby"
+churches,Q6858625,Millbrook Priory,11th century,1050,1,Bedfordshire,England,religious,standing,original,priory,Millbrook_Priory
+churches,Q7077455,Odda's Chapel,11th century,1050,1,Gloucestershire,England,religious,standing,original,chapel,Odda%27s_Chapel
+churches,Q7228175,Pontefract Priory,11th century,1050,1,West Yorkshire,England,religious,standing,original,priory,Pontefract_Priory
+churches,Q7379209,Rumburgh Priory,11th century,1050,1,Suffolk,England,religious,standing,original,priory,Rumburgh_Priory
+churches,Q7588306,"St. Helena's Church, Thoroton",11th century,1050,1,Nottinghamshire,England,religious,standing,original,church building,"St_Helena%27s_Church,_Thoroton"
+churches,Q7590525,"St Mary le Wigford, Lincoln",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,St_Mary_le_Wigford
+churches,Q7591321,"St Peter's Church, Barnburgh",11th century,1050,1,South Yorkshire,England,religious,standing,original,church building,"St_Peter%27s_Church,_Barnburgh"
+churches,Q7591464,"St. Peter at Gowts' Church, Lincoln",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,St_Peter_at_Gowts
+churches,Q7592323,Church of St Andrew,11th century,1050,1,Wiltshire,England,religious,standing,original,church building,"St_Andrew%27s_Church,_Chippenham"
+churches,Q7594782,"St Michael's Church, St Albans",11th century,1050,1,Hertfordshire,England,religious,standing,original,church building,"St_Michael%27s_Church,_St_Albans"
+churches,Q7594924,"St Nicholas' Church, Islip",11th century,1050,1,Oxfordshire,England,religious,standing,original,church building,"St_Nicholas%27_Church,_Islip"
+churches,Q7594927,"St Nicholas' Church, Littleborough",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,"St_Nicholas_Church,_Littleborough"
+churches,Q7595014,St Oswald's Church,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,"St_Oswald%27s_Church,_Lassington"
+churches,Q7595303,"St Peter's Church, Wickham Bishops",11th century,1050,1,Essex,England,religious,standing,original,church building,"St_Peter%27s_Church,_Wickham_Bishops"
+churches,Q8052386,Yenston Priory,11th century,1050,1,Somerset,England,religious,standing,original,priory,Yenston_Priory
+churches,Q17524670,Church of St Peter and St Paul,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17524672,"Church of St Peter, Iver",11th century,1050,1,Buckinghamshire,England,religious,standing,original,church building,
+churches,Q17524711,Church of St.andrew,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17524720,Church of the Holy Trinity and Holy Mary the Virgin,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17524728,Church of St Giles,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17525519,Church of St Leonard,11th century,1050,1,Derbyshire,England,religious,standing,original,church building,
+churches,Q17525557,"Church of St Mary, Gedding",11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17525571,Church of St Andrew,11th century,1050,1,Leicestershire,England,religious,standing,original,church building,
+churches,Q17525909,Church of St John the Baptist,11th century,1050,1,Gloucestershire,England,religious,standing,original,church building,
+churches,Q17526036,Church of St Augustine,11th century,1050,1,Suffolk,England,religious,standing,original,church building|thatched building,
+churches,Q17526075,Church of St Mary Magdalen,11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17526159,Church of St Mary,11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17526227,"Church of St. Swithin, Baumber",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17526254,Church of St Gregory,11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17526303,Church of St Peter,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17526310,Church of St Leonard,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17526480,"Church of St Swithun, Sandford",11th century,1050,1,Devon,England,religious,standing,original,church building,
+churches,Q17526528,Church of All Saints,11th century,1050,1,Suffolk,England,religious,standing,original,church building|thatched building,
+churches,Q17526564,Church of All Saints,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17526664,Church of All Saints,11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17526798,Church of St Mary the Virgin and All Saints,11th century,1050,1,Northamptonshire,England,religious,standing,original,church building,
+churches,Q17526799,Church of St Nicholas,11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17526819,"Church of St Michael, Stragglethorpe",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17526992,Church of St Edmund,11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17527235,"Church of St Margaret, Herringfleet",11th century,1050,1,Suffolk,England,religious,standing,original,church building|thatched building,
+churches,Q17527275,Church of St Andrew,11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17527327,Church of Holy Trinity,11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17527422,Church of All Saints,11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17527613,Church of St Michael,11th century,1050,1,Surrey,England,religious,standing,original,church building,
+churches,Q17527694,Church of St Mary Magdalene,11th century,1050,1,Northumberland,England,religious,standing,original,church building,
+churches,Q17527750,Church of Saints Peter and Paul,11th century,1050,1,Northumberland,England,religious,standing,original,church building,
+churches,Q17527791,Church of St Mary Woodhorn Church Museum,11th century,1050,1,Northumberland,England,religious,standing,original,church building,
+churches,Q17527823,Church of St Michael and All Angels,11th century,1050,1,Surrey,England,religious,standing,original,church building,
+churches,Q17527879,Church of St Michael,11th century,1050,1,Wiltshire,England,religious,standing,original,church building,
+churches,Q17527883,"Church of St Andrew, Kimbolton",11th century,1050,1,Cambridgeshire,England,religious,standing,original,church building,
+churches,Q17527952,Church of Holy Trinity,AD 1050,1050,0,Cambridgeshire,England,religious,standing,original,church building,
+churches,Q17527995,Church of St Michael,11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17528085,Church of St Peter and St Paul,11th century,1050,1,Oxfordshire,England,religious,standing,original,church building,
+churches,Q17528108,"Church of St Edburg, Bicester",11th century,1050,1,Oxfordshire,England,religious,standing,original,church building,
+churches,Q17528331,Church of the Assumption of the Blessed Virgin Mary,11th century,1050,1,Warwickshire,England,religious,standing,original,church building,
+churches,Q17528498,Church of St Laurence,11th century,1050,1,Warwickshire,England,religious,standing,original,church building,
+churches,Q17528579,Church of St Andrew,11th century,1050,1,Hampshire,England,religious,standing,original,church building,
+churches,Q17528621,Church of St Andrew,11th century,1050,1,Berkshire,England,religious,standing,original,church building,
+churches,Q17528678,Church of St Mary the Virgin,11th century,1050,1,Cambridgeshire,England,religious,standing,original,church building,
+churches,Q17528713,Church of St Andrew,11th century,1050,1,Hampshire,England,religious,standing,original,church building,
+churches,Q17528728,Parish Church of All Saints,11th century,1050,1,Cambridgeshire,England,religious,standing,original,church building,
+churches,Q17528737,The Parish Church of St Leonard,11th century,1050,1,West Sussex,England,religious,standing,original,church building,
+churches,Q17528747,Church of Our Lady,11th century,1050,1,Hampshire,England,religious,standing,original,church building,
+churches,Q17528751,Church of St Pega,11th century,1050,1,Cambridgeshire,England,religious,standing,original,church building,
+churches,Q17528766,Church of St Swithin,11th century,1050,1,Hampshire,England,religious,standing,original,church building,
+churches,Q17528775,The Parish Church of St Thomas A Becket,11th century,1050,1,West Sussex,England,religious,standing,original,church building,
+churches,Q17528893,Chithurst Church,11th century,1050,1,West Sussex,England,religious,standing,original,church building,
+churches,Q17528902,The Parish Church of All Hollows,11th century,1050,1,West Sussex,England,religious,standing,original,church building,
+churches,Q17528920,Parish Church of All Saints,11th century,1050,1,Hertfordshire,England,religious,standing,original,church building,
+churches,Q17528931,Church of St Andrew,11th century,1050,1,West Sussex,England,religious,standing,original,church building,
+churches,Q17528945,Church of St James,11th century,1050,1,West Sussex,England,religious,standing,original,church building,
+churches,Q17528961,The Parish Church of St Mary,11th century,1050,1,West Sussex,England,religious,standing,original,church building,
+churches,Q17528989,Church of St Peter,11th century,1050,1,Hertfordshire,England,religious,standing,original,church building,
+churches,Q17528998,The Parish Church of St Mary,11th century,1050,1,West Sussex,England,religious,standing,original,church building,
+churches,Q17529030,The Parish Church of the Blessed Virgin Mary,11th century,1050,1,West Sussex,England,religious,standing,original,church building,
+churches,Q17529041,Church of St Mary,11th century,1050,1,Hertfordshire,England,religious,standing,original,church building,
+churches,Q17529099,Church of St Michael,11th century,1050,1,Oxfordshire,England,religious,standing,original,church building,
+churches,Q17529268,Church of St Mary,11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17529285,Church of St Martin,11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17529419,Church of St Lawrence,11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17529467,Church of St Uvelus,11th century,1050,1,Cornwall,England,religious,standing,original,church building,
+churches,Q17529583,Church of St Gregory,11th century,1050,1,Shropshire,England,religious,standing,original,church building,
+churches,Q17529652,Church of St Mary,11th century,1050,1,Shropshire,England,religious,standing,original,church building,
+churches,Q17529662,Parish Church of St Peter and St Paul,11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17529665,"Church of St Michael, Wilmington",11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17529693,Church of St Peter,11th century,1050,1,Shropshire,England,religious,standing,original,church building,
+churches,Q17529734,Croxdale medieval chapel,11th century,1050,1,Durham,England,religious,standing,original,chapel|churchyard cross,
+churches,Q17529739,Church of St Helen,11th century,1050,1,Durham,England,religious,standing,original,church building,
+churches,Q17529909,Church of St Bartholomew,11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17529926,"Church of St Mary, Sellindge",11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17529950,Church of St Stephen,11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17529963,"Church of St James, Elmsted",11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17530017,Church of St Mary and St Radegund,11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17530050,Church of All Saints,11th century,1050,1,Wiltshire,England,religious,standing,original,church building,
+churches,Q17530096,Church of St Michael and All Angels,11th century,1050,1,Herefordshire,England,religious,standing,original,church building,
+churches,Q17530180,"Church of Saint Mary the Virgin, Minster-in-Thanet",11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17530194,Church of St James,11th century,1050,1,Herefordshire,England,religious,standing,original,church building,
+churches,Q17530207,Parish Church of St John the Baptist,11th century,1050,1,Kent,England,religious,standing,original,church building,
+churches,Q17530429,Church of St Mary,11th century,1050,1,Worcestershire,England,religious,standing,original,church building,
+churches,Q17530433,Church of St Michael,11th century,1050,1,Worcestershire,England,religious,standing,original,church building,
+churches,Q17530779,Church of All Saints,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17530781,Church of St John the Baptist,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17530797,Church of St Andrew,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17530800,Church of St Thomas A Becket,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17530835,Church of Holy Trinity and St Oswald,11th century,1050,1,South Yorkshire,England,religious,standing,original,church building,
+churches,Q17530852,Church of Saint Mary,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17530947,Church of St Mary,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17531187,Church of St Guthlac,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17531249,"Church of St Wilfrid, Honington",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17531481,Church of St Mary Magdalene,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17531535,"Church of All Saints, Hougham",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17531792,Church of St. Mary and All Saints,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17531859,Church of St James,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532014,Church of All Saints,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532108,Church of St. Thomas A Becket,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532243,Church of St Martin,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532297,"Church of St John the Baptist, Colsterworth",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532309,Church of All Saints,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532321,"Church of St Mary, North Witham",11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532410,Church of All Saints,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532507,Church of St Clement,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532528,Church of All Saints,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532597,Church of St Lawrence,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532632,Church of St Lawrence and St George,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532718,Church of St Mary Magdalene,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17532897,Church of St Margaret of Antioch,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17533017,Church of St Michael,11th century,1050,1,Dorset,England,religious,standing,original,church building,
+churches,Q17533781,Church of St Michael,11th century,1050,1,Buckinghamshire,England,religious,standing,original,church building,
+churches,Q17533878,Church of All Saints,11th century,1050,1,Buckinghamshire,England,religious,standing,original,church building,
+churches,Q17534177,Church of St Michael and All Angels,11th century,1050,1,Tyne and Wear,England,religious,standing,original,church building,
+churches,Q17534798,Church of St Mary,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17534917,Church of St John the Baptist,11th century,1050,1,East Sussex,England,religious,standing,original,church building,
+churches,Q17534966,The Parish Church of St Peter and St Paul,11th century,1050,1,East Sussex,England,religious,standing,original,church building,
+churches,Q17535018,Church of St Peter,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17535081,Church of All Saints,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17535311,Church of St Mary,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17535487,The Parish Church of All Saints,11th century,1050,1,East Sussex,England,religious,standing,original,church building,
+churches,Q17536032,Parish Church of St Mary the Virgin,11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536184,Parish Church of St Mary the Virgin,11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536326,"Church of St Mary the Virgin, Fryerning",11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536395,"Church of SS Mary and Laurence, Great Waltham",11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536432,"Church of St Andrew, Boreham",11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536441,Church of St Mary the Virgin,11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536599,Church of St James,11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536603,Parish Church of All Saints (inworth),11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536620,Church of St Peter and St Paul,11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536733,"Church of St Peter, Melton Constable",11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17536851,Church of St Peter,11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536910,Church of St Nicholas,11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17536921,Church of St Mary,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17537014,Church of St Mary,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17537434,Church of All Saints,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17537565,Church of St Mary,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17537595,Church of St Mary,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17537603,Church of St Michael,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17537637,Church of St Mary,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17537690,Church of St Matthias,11th century,1050,1,Norfolk,England,religious,standing,original,church building,
+churches,Q17537864,Church of St Andrew,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17537932,Church of All Saints,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17537937,Church of St Mary,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17537959,Church of Saint John the Baptist,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q17539037,Church of St Botolph,11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17539846,Church of St Mary the Virgin,11th century,1050,1,Essex,England,religious,standing,original,church building,
+churches,Q17540817,Church of All Saints,11th century,1050,1,Staffordshire,England,religious,standing,original,church building,
+churches,Q17542019,"Church of St Mary, Aldham",11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17542569,Church of St Mary Wiston,11th century,1050,1,Suffolk,England,religious,standing,original,church building,
+churches,Q17626600,Church of St Firmin,11th century,1050,1,Lincolnshire,England,religious,standing,original,church building,
+churches,Q29586839,St Leonard's Priory,11th century,1050,1,Greater London,England,religious,standing,original,benedictine nunnery,"St_Leonard%27s_Priory,_London"
+churches,Q4754624,Andover Priory,11th century,1050,1,Hampshire,England,religious,standing,original,priory,Andover_Priory
+churches,Q4884928,Belvoir Priory,11th century,1050,1,Leicestershire,England,religious,standing,original,priory,Belvoir_Priory
+churches,Q5087929,Chatteris Abbey,11th century,1050,1,Cambridgeshire,England,religious,standing,original,abbey,Chatteris_Abbey
+churches,Q5367761,Elstow Abbey,11th century,1050,1,Bedfordshire,England,religious,standing,original,abbey,Elstow_Abbey
+churches,Q5416935,Everdon Priory,11th century,1050,1,Northamptonshire,England,religious,standing,original,priory,Everdon_Priory
+churches,Q5681399,Hatfield Peverel Priory,11th century,1050,1,Essex,England,religious,standing,original,benedictine abbey|priory,Hatfield_Peverel_Priory
+churches,Q5946678,Hurley Priory,11th century,1050,1,Berkshire,England,religious,standing,original,priory,Hurley_Priory
+churches,Q6488290,Lapley Priory,11th century,1050,1,Staffordshire,England,religious,standing,original,priory,Lapley_Priory
+churches,Q6903141,Montacute Priory,11th century,1050,1,Somerset,England,religious,standing,changed,former monastery|priory,Montacute_Priory
+churches,Q7828354,Totnes Priory,11th century,1050,1,Devon,England,religious,standing,original,priory,Totnes_Priory
+churches,Q17743467,St Issui's Church,AD 1060,1060,0,Powys,Wales,religious,standing,original,church building,"St_Issui%27s_Church,_Partrishow"
+churches,Q17530199,"Church of St Laurence, Ramsgate",AD 1062,1062,0,Kent,England,religious,standing,original,church building,"St_Laurence%27s_Church,_Ramsgate"
+churches,Q17528772,Church of St Nicholas,AD 1064,1064,0,Hampshire,England,religious,standing,original,church building,
+churches,Q17527415,"Church of St Michael and St Felix, Rumburgh",AD 1065,1065,0,Suffolk,England,religious,standing,original,church building,
+churches,Q17533373,"Church of St Margaret, Rainham",AD 1066,1066,0,Kent,England,religious,standing,original,church building,
+churches,Q810981,Battle Abbey,AD 1067,1067,0,East Sussex,England,religious,ruin,ruin,monastery ruins,Battle_Abbey
+churches,Q16246351,"St James' Church, Dover",AD 1070,1070,0,Kent,England,religious,ruin,ruin,church ruin,"St_James%27_Church,_Dover"
+churches,Q5117311,"Church of St. Michael the Archangel, Shalfleet",AD 1070,1070,0,Isle of Wight,England,religious,standing,original,church building,"Church_of_St_Michael_the_Archangel,_Shalfleet"
+churches,Q1736182,Chichester Cathedral,AD 1075,1075,0,West Sussex,England,religious,standing,original,Anglican or Episcopal cathedral,Chichester_Cathedral
+churches,Q1070243,Monmouth Priory,AD 1075,1075,0,Gwent,Wales,religious,standing,original,monastery,Monmouth_Priory
+churches,Q1087515,St Mary's Priory Church,AD 1075,1075,0,Gwent,Wales,religious,standing,original,church building,"St_Mary%27s_Priory_Church,_Monmouth"
+churches,Q429379,Hereford Cathedral,AD 1079,1079,0,Herefordshire,England,religious,standing,original,Anglican or Episcopal cathedral,Hereford_Cathedral
+churches,Q7547863,Snizort Cathedral,AD 1079,1079,0,Highland,Scotland,religious,standing,original,cathedral,Snizort_Cathedral
+churches,Q17527482,"Church of St Mary, Addington",AD 1080,1080,0,Greater London,England,religious,standing,original,church building,"St_Mary%27s_Church,_Addington"
+churches,Q17538301,Church of St Mary the Virgin,AD 1080,1080,0,North Yorkshire,England,religious,standing,original,church building,"Church_of_St_Mary_the_Virgin,_Hornby"
+churches,Q17535570,The Parish Church of St Bartholomew,AD 1080,1080,0,East Sussex,England,religious,standing,original,church building,
+churches,Q17527581,Parish Church of St Mary,AD 1082,1082,0,Cambridgeshire,England,religious,standing,original,church building,"St_Mary%27s_Church,_Ely"
+churches,Q579004,Ely Cathedral,AD 1083,1083,0,Cambridgeshire,England,religious,standing,original,Anglican or Episcopal cathedral,Ely_Cathedral
+churches,Q17529545,The Old Leper Church of St Nicholas,AD 1084,1084,0,Kent,England,religious,standing,changed,church building|former hospital|hospital,
+churches,Q17528808,Church of St Mary and St Botolph,AD 1085,1085,0,Cambridgeshire,England,religious,standing,original,church building,
+churches,Q1137832,Leicester Cathedral,AD 1086,1086,0,Leicestershire,England,religious,standing,original,Anglican or Episcopal cathedral,Leicester_Cathedral
+churches,Q17527965,"Church of St Mary Magdalene, Brampton",AD 1086,1086,0,Cambridgeshire,England,religious,standing,original,church building,
+churches,Q17529105,Church of St Ippolyts (church of England),AD 1087,1087,0,Hertfordshire,England,religious,standing,original,church building,
+churches,Q1426965,"St Mary's Abbey, York",AD 1088,1088,0,North Yorkshire,England,religious,ruin,ruin,abbey|church ruin,"St_Mary%27s_Abbey,_York"
+churches,Q4930864,Blyth Priory,AD 1088,1088,0,Nottinghamshire,England,religious,standing,original,priory,Blyth_Priory
+churches,Q5049978,Castle Acre Priory,AD 1089,1089,0,Norfolk,England,religious,standing,original,priory,Castle_Acre_Priory
+churches,Q33101787,"St Werburgh's Abbey, Chester",1090s,1090,0,Cheshire,England,religious,standing,original,abbey,Abbey_of_St_Werburgh
+churches,Q6531691,Lessingham Priory,AD 1090,1090,0,Norfolk,England,religious,standing,original,benedictine abbey|monastic grange|priory,Lessingham_Priory
+churches,Q4862023,Barnwell Priory,AD 1092,1092,0,Cambridgeshire,England,religious,standing,original,priory,Barnwell_Priory
+churches,Q746207,Durham Cathedral,AD 1093,1093,0,Durham,England,religious,standing,original,Anglican or Episcopal cathedral,Durham_Cathedral
+churches,Q354305,Lindisfarne Priory,AD 1093,1093,0,Northumberland,England,religious,standing,original,abbey|priory,
+churches,Q6410996,King's Lynn Minster,AD 1095,1095,0,Norfolk,England,religious,standing,original,church building,King%27s_Lynn_Minster
+churches,Q12067924,St. John's Abbey,AD 1095,1095,0,Essex,England,religious,standing,original,abbey,"St_John%27s_Abbey,_Colchester"
+churches,Q17529379,Church of St Mary,AD 1096,1096,0,Kent,England,religious,standing,original,church building,
+churches,Q17742569,Priory Church of Saint Nicholas,AD 1098,1098,0,Dyfed,Wales,religious,standing,original,church building,"St_Nicholas_%26_St_John,_Monkton"
+castles,Q17643298,Marlborough Mound,3rd millennium BC,-2500,1,Wiltshire,England,funerary,earthwork,earthwork,motte|mound,Marlborough_Mound
+castles,Q12071213,Tomen y Mur,AD 100,100,0,Gwynedd,Wales,defensive,earthwork,earthwork,ancient Roman structure|castrum|motte-and-bailey castle,Tomen_y_Mur
+castles,Q7860523,Tynemouth Castle and Priory,7th century,650,1,Tyne and Wear,England,defensive,standing,museum,castle|fort|historic house museum,Tynemouth_Priory_and_Castle
+castles,Q7594625,"St Mary sub Castro, Dover",7th century,650,1,Kent,England,religious,standing,original,castle chapel|church building,"St_Mary_sub_Castro,_Dover"
+castles,Q8030602,Wolvesey Castle,AD 970,970,0,Hampshire,England,defensive,standing,unknown,castle,Wolvesey_Castle
+castles,Q3939808,Rockingham Castle,1000s,1000,0,Northamptonshire,England,defensive,standing,museum,castle|historic house museum,Rockingham_Castle
+castles,Q1102669,Clough Castle,1000s,1000,0,,,defensive,standing,unknown,castle,Clough_Castle
+castles,Q2060243,Delgatie Castle,AD 1049,1049,0,Aberdeenshire,Scotland,defensive,standing,unknown,castle,Delgatie_Castle
+castles,Q2301986,Halton Castle,11th century,1050,1,Cheshire,England,defensive,ruin,ruin,castle|ruins,Halton_Castle
+castles,Q5583571,Goodrich Castle,11th century,1050,1,Herefordshire,England,defensive,standing,unknown,castle,Goodrich_Castle
+castles,Q2969121,Deganwy Castle,11th century,1050,1,Clwyd,Wales,defensive,standing,unknown,Welsh princes' castles|castle,Deganwy_Castle
+castles,Q8027762,Wiston Castle,11th century,1050,1,Dyfed,Wales,defensive,earthwork,earthwork,motte-and-bailey castle,Wiston_Castle
+castles,Q17678771,Castle Pulverbatch,11th century,1050,1,Shropshire,England,defensive,earthwork,earthwork,motte-and-bailey castle,
+castles,Q525635,Monmouth Castle,1060s,1060,0,Gwent,Wales,defensive,ruin,ruin,castle,Monmouth_Castle
+castles,Q6519156,Leicester Castle,1060s,1060,0,Leicestershire,England,defensive,earthwork,earthwork,motte-and-bailey castle,Leicester_Castle
+castles,Q62378,Tower of London,AD 1066,1066,0,Greater London,England,defensive,standing,unknown,castle,Tower_of_London
+castles,Q576369,Ludlow Castle,AD 1066,1066,0,Shropshire,England,defensive,standing,museum,castle|historic house museum,Ludlow_Castle
+castles,Q1672292,Norwich Castle,AD 1066,1066,0,Norfolk,England,defensive,earthwork,earthwork,motte-and-bailey castle,Norwich_Castle
+castles,Q2970215,Pevensey Castle,AD 1066,1066,0,East Sussex,England,defensive,ruin,ruin,castle,Pevensey_Castle
+castles,Q4892150,Berkhamsted Castle,AD 1066,1066,0,Hertfordshire,England,defensive,earthwork,earthwork,motte-and-bailey castle|ruins,Berkhamsted_Castle
+castles,Q2363520,Hertford Castle,AD 1066,1066,0,Hertfordshire,England,defensive,standing,unknown,castle|city hall,Hertford_Castle
+castles,Q716667,Arundel Castle,AD 1067,1067,0,West Sussex,England,defensive,standing,museum,castle,Arundel_Castle
+castles,Q1704670,Winchester Castle,AD 1067,1067,0,Hampshire,England,defensive,standing,unknown,castle,Winchester_Castle
+castles,Q17642916,Nottingham Castle,AD 1067,1067,0,Nottinghamshire,England,defensive,standing,unknown,castle,Nottingham_Castle
+castles,Q816295,Belvoir Castle,AD 1067,1067,0,Leicestershire,England,funerary,standing,museum,castle|historic house museum|mausoleum,Belvoir_Castle
+castles,Q402848,Launceston Castle,AD 1067,1067,0,Cornwall,England,defensive,standing,unknown,castle,Launceston_Castle
+castles,Q4891993,Berkeley Castle,AD 1067,1067,0,Gloucestershire,England,defensive,standing,museum,castle|historic house museum,Berkeley_Castle
+castles,Q1632423,Wallingford Castle,AD 1067,1067,0,Oxfordshire,England,defensive,standing,unknown,castle|concentric castle,Wallingford_Castle
+castles,Q941276,Warwick Castle,AD 1068,1068,0,Warwickshire,England,defensive,standing,museum,castle|historic house museum,Warwick_Castle
+castles,Q727760,Lincoln Castle,AD 1068,1068,0,Lincolnshire,England,defensive,standing,museum,castle|historic house museum|motte-and-bailey castle,Lincoln_Castle
+castles,Q80637,York Castle,AD 1068,1068,0,North Yorkshire,England,defensive,standing,unknown,castle|motte-and-bailey castle,York_Castle
+castles,Q1419982,Okehampton Castle,AD 1068,1068,0,Devon,England,defensive,earthwork,earthwork,motte-and-bailey castle,Okehampton_Castle
+castles,Q198287,Colchester Castle,AD 1069,1069,0,Essex,England,defensive,standing,museum,castle,Colchester_Castle
+castles,Q505858,Chester Castle,AD 1069,1069,0,Cheshire,England,defensive,standing,unknown,castle,Chester_Castle
+castles,Q8034150,Worcester Castle,AD 1069,1069,0,Worcestershire,England,defensive,standing,unknown,castle,Worcester_Castle
+castles,Q42646,Windsor Castle,AD 1070,1070,0,Berkshire,England,defensive,standing,museum,English country house|Residence of the British Royal Family|castle|château|historic house museum|palace|royal palace,Windsor_Castle
+castles,Q1949590,Pontefract Castle,AD 1070,1070,0,West Yorkshire,England,defensive,standing,unknown,castle|motte-and-bailey castle,Pontefract_Castle
+castles,Q2969165,Dunbar Castle,AD 1070,1070,0,East Lothian,Scotland,defensive,standing,unknown,castle,Dunbar_Castle
+castles,Q2280236,Shrewsbury Castle,AD 1070,1070,0,Shropshire,England,defensive,standing,unknown,castle,Shrewsbury_Castle
+castles,Q5311832,Dudley Castle,AD 1070,1070,0,West Midlands,England,defensive,standing,unknown,castle|motte-and-bailey castle,Dudley_Castle
+castles,Q897538,Bramber Castle,1070s,1070,0,West Sussex,England,defensive,ruin,ruin,castle ruin|motte-and-bailey castle,Bramber_Castle
+castles,Q15114193,Hay Castle,AD 1070,1070,0,Powys,Wales,defensive,ruin,ruin,castle|castle ruin,Hay_Castle
+castles,Q7681908,Tamworth Castle,AD 1070,1070,0,Staffordshire,England,defensive,standing,unknown,castle,Tamworth_Castle
+castles,Q6645746,Richmond Castle,AD 1071,1071,0,North Yorkshire,England,defensive,standing,unknown,castle,Richmond_Castle
+castles,Q5712905,Hen Domen,1070s,1071,0,Powys,Wales,defensive,earthwork,earthwork,motte-and-bailey castle,Hen_Domen
+castles,Q752266,Durham Castle,AD 1072,1072,0,Durham,England,defensive,standing,museum,castle|historic house museum,Durham_Castle
+castles,Q1035742,Cardiff Castle,1080s,1080,0,South Glamorgan,Wales,defensive,standing,unknown,castle,Cardiff_Castle
+castles,Q255574,Peveril Castle,AD 1080,1080,0,Derbyshire,England,defensive,standing,unknown,castle,Peveril_Castle
+castles,Q7721569,Newcastle upon Tyne Castle,AD 1080,1080,0,Tyne and Wear,England,defensive,standing,museum,castle|historic house museum,"The_Castle,_Newcastle"
+castles,Q2275648,Castell Aberlleiniog,AD 1080,1080,0,Gwynedd,Wales,defensive,standing,unknown,castle,Castell_Aberlleiniog
+castles,Q421395,Lympne Castle,1080s,1080,0,Kent,England,defensive,standing,unknown,castle,Lympne_Castle
+castles,Q7057595,Northampton Castle,AD 1084,1084,0,Northamptonshire,England,defensive,standing,unknown,castle,Northampton_Castle
+castles,Q7535837,Skipsea Castle,AD 1086,1086,0,East Riding of Yorkshire,England,defensive,earthwork,earthwork,motte-and-bailey castle,Skipsea_Castle
+castles,Q1125527,Rochester Castle,AD 1087,1087,0,Kent,England,defensive,standing,unknown,castle,Rochester_Castle
+castles,Q4667087,Abergavenny Castle,AD 1087,1087,0,Gwent,Wales,defensive,standing,unknown,castle,Abergavenny_Castle
+castles,Q7535853,Skipton Castle,AD 1090,1090,0,North Yorkshire,England,defensive,standing,museum,castle|historic house museum,Skipton_Castle
+castles,Q2351225,Brough Castle,AD 1092,1092,0,Cumbria,England,defensive,standing,unknown,castle,Brough_Castle
+castles,Q1422235,Pembroke Castle,AD 1093,1093,0,Dyfed,Wales,defensive,standing,unknown,castle,Pembroke_Castle
+castles,Q614836,Carlisle Castle,AD 1093,1093,0,Cumbria,England,defensive,standing,unknown,castle,Carlisle_Castle
+castles,Q2969640,Lancaster Castle,AD 1093,1093,0,Lancashire,England,defensive,standing,changed,castle|debtors' prison|defunct prison,Lancaster_Castle
+castles,Q4667054,Aberedw Castle,AD 1093,1093,0,Powys,Wales,defensive,standing,unknown,castle,Aberedw_Castle
+castles,Q7502621,Shotwick Castle,AD 1093,1093,0,Cheshire,England,defensive,earthwork,earthwork,motte-and-bailey castle,Shotwick_Castle
+castles,Q5464516,Folkestone Castle,AD 1095,1095,0,Kent,England,defensive,standing,unknown,castle,Folkestone_Castle
+castles,Q1320427,Alnwick Castle,AD 1096,1096,0,Northumberland,England,defensive,standing,museum,castle|historic house museum,Alnwick_Castle
+houses,Q29499398,Rhyd-y-Cilgwyn,AD 17,17,0,Clwyd,Wales,domestic,standing,unknown,farmhouse,
+houses,Q1690886,Woodchester Roman Villa,2nd century,150,1,Gloucestershire,England,domestic,ruin,ruin,Roman villa|ancient Roman structure,Woodchester_Roman_Villa
+houses,Q7860523,Tynemouth Castle and Priory,7th century,650,1,Tyne and Wear,England,defensive,standing,museum,castle|fort|historic house museum,Tynemouth_Priory_and_Castle
+houses,Q6931026,Muchelney Abbey,10th century,950,1,Somerset,England,unknown,standing,museum,historic house museum,Muchelney_Abbey
+houses,Q3939808,Rockingham Castle,1000s,1000,0,Northamptonshire,England,defensive,standing,museum,castle|historic house museum,Rockingham_Castle
+houses,Q7594961,St Nicholas Priory,11th century,1050,1,Devon,England,religious,standing,museum,historic house museum|priory,"St_Nicholas%27_Priory,_Exeter"
+houses,Q576369,Ludlow Castle,AD 1066,1066,0,Shropshire,England,defensive,standing,museum,castle|historic house museum,Ludlow_Castle
+houses,Q2363520,Hertford Castle,AD 1066,1066,0,Hertfordshire,England,defensive,standing,unknown,castle|city hall,Hertford_Castle
+houses,Q99632919,Freefolk Manor incl Laverstoke House and gardens,AD 1066,1066,0,Hampshire,England,domestic,standing,unknown,manor estate,
+houses,Q816295,Belvoir Castle,AD 1067,1067,0,Leicestershire,England,funerary,standing,museum,castle|historic house museum|mausoleum,Belvoir_Castle
+houses,Q4891993,Berkeley Castle,AD 1067,1067,0,Gloucestershire,England,defensive,standing,museum,castle|historic house museum,Berkeley_Castle
+houses,Q941276,Warwick Castle,AD 1068,1068,0,Warwickshire,England,defensive,standing,museum,castle|historic house museum,Warwick_Castle
+houses,Q727760,Lincoln Castle,AD 1068,1068,0,Lincolnshire,England,defensive,standing,museum,castle|historic house museum|motte-and-bailey castle,Lincoln_Castle
+houses,Q42646,Windsor Castle,AD 1070,1070,0,Berkshire,England,defensive,standing,museum,English country house|Residence of the British Royal Family|castle|château|historic house museum|palace|royal palace,Windsor_Castle
+houses,Q752266,Durham Castle,AD 1072,1072,0,Durham,England,defensive,standing,museum,castle|historic house museum,Durham_Castle
+houses,Q7721569,Newcastle upon Tyne Castle,AD 1080,1080,0,Tyne and Wear,England,defensive,standing,museum,castle|historic house museum,"The_Castle,_Newcastle"
+houses,Q5933291,Hughenden Manor,AD 1086,1086,0,Buckinghamshire,England,domestic,standing,museum,English country house|historic house museum,Hughenden_Manor
+houses,Q138412244,Manor of Old Fishbourne,AD 1086,1086,0,West Sussex,England,domestic,standing,unknown,manor estate|manor house,
+houses,Q7535853,Skipton Castle,AD 1090,1090,0,North Yorkshire,England,defensive,standing,museum,castle|historic house museum,Skipton_Castle
+houses,Q1320427,Alnwick Castle,AD 1096,1096,0,Northumberland,England,defensive,standing,museum,castle|historic house museum,Alnwick_Castle
+towers,Q579381,All Hallows-by-the-Tower,AD 675,675,0,Greater London,England,religious,standing,original,church building,All_Hallows-by-the-Tower
+towers,Q2403338,"St John's Chapel, Tower of London",11th century,1050,1,Greater London,England,religious,standing,original,Royal Peculiar|chapel|proprietary church,"St_John%27s_Chapel,_London"
+towers,Q62378,Tower of London,AD 1066,1066,0,Greater London,England,defensive,standing,unknown,castle,Tower_of_London
+bridges,Q5093849,Chesters Bridge,AD 122,122,0,Northumberland,England,infrastructure,standing,unknown,Roman bridge,Chesters_Bridge

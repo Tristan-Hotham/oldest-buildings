@@ -1,0 +1,5827 @@
+{
+ "meta": {
+  "pull": "27 October 2026",
+  "endpoint": "QLever Wikidata",
+  "doi": "10.5281/zenodo.23687612",
+  "rows_struct": 12794,
+  "rows_arch": 3781,
+  "rows_later": 54315
+ },
+ "n": 6837,
+ "n_items_raw": 7058,
+ "n_excluded": 221,
+ "excluded_reasons": {
+  "objects_places_routes": 211,
+  "implausible_date": 6,
+  "no_coords_or_date": 4
+ },
+ "n_countries": 94,
+ "n_later": 40200,
+ "n_arch_only": 442,
+ "fuzzy_share": 0.44654088050314467,
+ "fuzzy_n": 3053,
+ "precise_year_n": 3688,
+ "heritage_share": 0.48427672955974843,
+ "enwiki_n": 2813,
+ "unnamed_n": 468,
+ "uses": {
+  "religious": {
+   "label": "Religious",
+   "n": 4468,
+   "share": 0.6535029983911073
+  },
+  "defensive": {
+   "label": "Defensive",
+   "n": 958,
+   "share": 0.14011993564428843
+  },
+  "domestic": {
+   "label": "Houses and palaces",
+   "n": 292,
+   "share": 0.04270879040514846
+  },
+  "civic": {
+   "label": "Civic and public",
+   "n": 203,
+   "share": 0.02969138511042855
+  },
+  "funerary": {
+   "label": "Tombs and funerary",
+   "n": 455,
+   "share": 0.06654965628199502
+  },
+  "infrastructure": {
+   "label": "Bridges, water and roads",
+   "n": 151,
+   "share": 0.022085710106771975
+  },
+  "commemorative": {
+   "label": "Monuments",
+   "n": 84,
+   "share": 0.01228609039052216
+  },
+  "unknown": {
+   "label": "Not clear",
+   "n": 226,
+   "share": 0.03305543366973819
+  }
+ },
+ "today": {
+  "original": {
+   "label": "Still in original use",
+   "n": 3938,
+   "share": 0.575983618546146
+  },
+  "changed": {
+   "label": "Changed use",
+   "n": 97,
+   "share": 0.014187509141436303
+  },
+  "museum": {
+   "label": "Museum or visitor site",
+   "n": 52,
+   "share": 0.007605675003656574
+  },
+  "unknown": {
+   "label": "Standing, use not recorded",
+   "n": 984,
+   "share": 0.1439227731461167
+  },
+  "ruin": {
+   "label": "Ruin or site",
+   "n": 1160,
+   "share": 0.16966505777387744
+  },
+  "earthwork": {
+   "label": "Earthwork",
+   "n": 396,
+   "share": 0.05792014041246161
+  },
+  "lost": {
+   "label": "Lost",
+   "n": 210,
+   "share": 0.030715225976305396
+  }
+ },
+ "states": {
+  "standing": {
+   "label": "Standing (no ruin recorded)",
+   "n": 5071,
+   "share": 0.7416995758373556
+  },
+  "ruin": {
+   "label": "Standing ruin",
+   "n": 1016,
+   "share": 0.1486031885329823
+  },
+  "site": {
+   "label": "Foundations or site",
+   "n": 144,
+   "share": 0.02106186924089513
+  },
+  "earthwork": {
+   "label": "Earthwork",
+   "n": 396,
+   "share": 0.05792014041246161
+  },
+  "lost": {
+   "label": "Lost",
+   "n": 210,
+   "share": 0.030715225976305396
+  }
+ },
+ "forms": {
+  "building": 5805,
+  "structure": 627,
+  "earthwork": 405
+ },
+ "state_basis": {
+  "no ruin recorded": 4954,
+  "class": 964,
+  "recorded": 406,
+  "archaeological site": 203,
+  "BC building, no use recorded": 111,
+  "excavated shrine series": 98,
+  "ancient type": 55,
+  "label (Roman, before 500)": 41,
+  "label": 5
+ },
+ "today_basis": {
+  "inferred (religious, no change recorded)": 3841,
+  "class": 1082,
+  "none": 984,
+  "recorded": 289,
+  "archaeological site": 203,
+  "P366": 128,
+  "BC building, no use recorded": 111,
+  "excavated shrine series": 98,
+  "ancient type": 55,
+  "label (Roman, before 500)": 41,
+  "label": 5
+ },
+ "original_inferred_n": 3841,
+ "original_recorded_n": 97,
+ "church_and_mosque_n": 14,
+ "standing_n": 5071,
+ "standing_share": 0.7416995758373556,
+ "standing_or_ruin_n": 6087,
+ "original_share_of_standing": 0.7765726681127982,
+ "religious_share_of_original": 0.9931437277805993,
+ "religious_share_of_standing": 0.7860382567540919,
+ "flows": [
+  {
+   "use": "religious",
+   "today": "original",
+   "n": 3911
+  },
+  {
+   "use": "religious",
+   "today": "changed",
+   "n": 67
+  },
+  {
+   "use": "religious",
+   "today": "museum",
+   "n": 8
+  },
+  {
+   "use": "religious",
+   "today": "unknown",
+   "n": 0
+  },
+  {
+   "use": "religious",
+   "today": "ruin",
+   "n": 363
+  },
+  {
+   "use": "religious",
+   "today": "earthwork",
+   "n": 1
+  },
+  {
+   "use": "religious",
+   "today": "lost",
+   "n": 118
+  },
+  {
+   "use": "defensive",
+   "today": "original",
+   "n": 12
+  },
+  {
+   "use": "defensive",
+   "today": "changed",
+   "n": 9
+  },
+  {
+   "use": "defensive",
+   "today": "museum",
+   "n": 26
+  },
+  {
+   "use": "defensive",
+   "today": "unknown",
+   "n": 477
+  },
+  {
+   "use": "defensive",
+   "today": "ruin",
+   "n": 292
+  },
+  {
+   "use": "defensive",
+   "today": "earthwork",
+   "n": 87
+  },
+  {
+   "use": "defensive",
+   "today": "lost",
+   "n": 55
+  },
+  {
+   "use": "domestic",
+   "today": "original",
+   "n": 2
+  },
+  {
+   "use": "domestic",
+   "today": "changed",
+   "n": 4
+  },
+  {
+   "use": "domestic",
+   "today": "museum",
+   "n": 3
+  },
+  {
+   "use": "domestic",
+   "today": "unknown",
+   "n": 72
+  },
+  {
+   "use": "domestic",
+   "today": "ruin",
+   "n": 209
+  },
+  {
+   "use": "domestic",
+   "today": "earthwork",
+   "n": 0
+  },
+  {
+   "use": "domestic",
+   "today": "lost",
+   "n": 2
+  },
+  {
+   "use": "civic",
+   "today": "original",
+   "n": 6
+  },
+  {
+   "use": "civic",
+   "today": "changed",
+   "n": 4
+  },
+  {
+   "use": "civic",
+   "today": "museum",
+   "n": 0
+  },
+  {
+   "use": "civic",
+   "today": "unknown",
+   "n": 88
+  },
+  {
+   "use": "civic",
+   "today": "ruin",
+   "n": 99
+  },
+  {
+   "use": "civic",
+   "today": "earthwork",
+   "n": 0
+  },
+  {
+   "use": "civic",
+   "today": "lost",
+   "n": 6
+  },
+  {
+   "use": "funerary",
+   "today": "original",
+   "n": 1
+  },
+  {
+   "use": "funerary",
+   "today": "changed",
+   "n": 2
+  },
+  {
+   "use": "funerary",
+   "today": "museum",
+   "n": 1
+  },
+  {
+   "use": "funerary",
+   "today": "unknown",
+   "n": 56
+  },
+  {
+   "use": "funerary",
+   "today": "ruin",
+   "n": 84
+  },
+  {
+   "use": "funerary",
+   "today": "earthwork",
+   "n": 306
+  },
+  {
+   "use": "funerary",
+   "today": "lost",
+   "n": 5
+  },
+  {
+   "use": "infrastructure",
+   "today": "original",
+   "n": 4
+  },
+  {
+   "use": "infrastructure",
+   "today": "changed",
+   "n": 1
+  },
+  {
+   "use": "infrastructure",
+   "today": "museum",
+   "n": 0
+  },
+  {
+   "use": "infrastructure",
+   "today": "unknown",
+   "n": 126
+  },
+  {
+   "use": "infrastructure",
+   "today": "ruin",
+   "n": 16
+  },
+  {
+   "use": "infrastructure",
+   "today": "earthwork",
+   "n": 0
+  },
+  {
+   "use": "infrastructure",
+   "today": "lost",
+   "n": 4
+  },
+  {
+   "use": "commemorative",
+   "today": "original",
+   "n": 0
+  },
+  {
+   "use": "commemorative",
+   "today": "changed",
+   "n": 1
+  },
+  {
+   "use": "commemorative",
+   "today": "museum",
+   "n": 0
+  },
+  {
+   "use": "commemorative",
+   "today": "unknown",
+   "n": 68
+  },
+  {
+   "use": "commemorative",
+   "today": "ruin",
+   "n": 7
+  },
+  {
+   "use": "commemorative",
+   "today": "earthwork",
+   "n": 0
+  },
+  {
+   "use": "commemorative",
+   "today": "lost",
+   "n": 8
+  },
+  {
+   "use": "unknown",
+   "today": "original",
+   "n": 2
+  },
+  {
+   "use": "unknown",
+   "today": "changed",
+   "n": 9
+  },
+  {
+   "use": "unknown",
+   "today": "museum",
+   "n": 14
+  },
+  {
+   "use": "unknown",
+   "today": "unknown",
+   "n": 97
+  },
+  {
+   "use": "unknown",
+   "today": "ruin",
+   "n": 90
+  },
+  {
+   "use": "unknown",
+   "today": "earthwork",
+   "n": 2
+  },
+  {
+   "use": "unknown",
+   "today": "lost",
+   "n": 12
+  }
+ ],
+ "by_use": {
+  "religious": {
+   "n": 4468,
+   "label": "Religious",
+   "today": {
+    "original": 0.8753357206803939,
+    "changed": 0.014995523724261415,
+    "museum": 0.0017905102954341987,
+    "unknown": 0.0,
+    "ruin": 0.08124440465532677,
+    "earthwork": 0.00022381378692927484,
+    "lost": 0.026410026857654433
+   },
+   "state": {
+    "standing": 0.8921217547000895,
+    "ruin": 0.05774395702775291,
+    "site": 0.023500447627573858,
+    "earthwork": 0.00022381378692927484,
+    "lost": 0.026410026857654433
+   },
+   "ruin_c": 0.03804834377797672,
+   "lost_c": 0.026410026857654433,
+   "ruin_any": 0.08124440465532677,
+   "lost_any": 0.026410026857654433,
+   "original": 0.8753357206803939,
+   "km_city_median": 19.8
+  },
+  "defensive": {
+   "n": 958,
+   "label": "Defensive",
+   "today": {
+    "original": 0.012526096033402923,
+    "changed": 0.009394572025052192,
+    "museum": 0.027139874739039668,
+    "unknown": 0.4979123173277662,
+    "ruin": 0.3048016701461378,
+    "earthwork": 0.09081419624217119,
+    "lost": 0.05741127348643006
+   },
+   "state": {
+    "standing": 0.5469728601252609,
+    "ruin": 0.2818371607515658,
+    "site": 0.022964509394572025,
+    "earthwork": 0.09081419624217119,
+    "lost": 0.05741127348643006
+   },
+   "ruin_c": 0.23382045929018788,
+   "lost_c": 0.05741127348643006,
+   "ruin_any": 0.3048016701461378,
+   "lost_any": 0.05741127348643006,
+   "original": 0.012526096033402923,
+   "km_city_median": 36.150000000000006
+  },
+  "domestic": {
+   "n": 292,
+   "label": "Houses and palaces",
+   "today": {
+    "original": 0.00684931506849315,
+    "changed": 0.0136986301369863,
+    "museum": 0.010273972602739725,
+    "unknown": 0.2465753424657534,
+    "ruin": 0.7157534246575342,
+    "earthwork": 0.0,
+    "lost": 0.00684931506849315
+   },
+   "state": {
+    "standing": 0.2773972602739726,
+    "ruin": 0.6952054794520548,
+    "site": 0.02054794520547945,
+    "earthwork": 0.0,
+    "lost": 0.00684931506849315
+   },
+   "ruin_c": 0.5376712328767124,
+   "lost_c": 0.00684931506849315,
+   "ruin_any": 0.7157534246575342,
+   "lost_any": 0.00684931506849315,
+   "original": 0.00684931506849315,
+   "km_city_median": 84.2
+  },
+  "civic": {
+   "n": 203,
+   "label": "Civic and public",
+   "today": {
+    "original": 0.029556650246305417,
+    "changed": 0.019704433497536946,
+    "museum": 0.0,
+    "unknown": 0.43349753694581283,
+    "ruin": 0.4876847290640394,
+    "earthwork": 0.0,
+    "lost": 0.029556650246305417
+   },
+   "state": {
+    "standing": 0.4827586206896552,
+    "ruin": 0.4827586206896552,
+    "site": 0.0049261083743842365,
+    "earthwork": 0.0,
+    "lost": 0.029556650246305417
+   },
+   "ruin_c": 0.09852216748768473,
+   "lost_c": 0.029556650246305417,
+   "ruin_any": 0.4876847290640394,
+   "lost_any": 0.029556650246305417,
+   "original": 0.029556650246305417,
+   "km_city_median": 20.2
+  },
+  "funerary": {
+   "n": 455,
+   "label": "Tombs and funerary",
+   "today": {
+    "original": 0.002197802197802198,
+    "changed": 0.004395604395604396,
+    "museum": 0.002197802197802198,
+    "unknown": 0.12307692307692308,
+    "ruin": 0.18461538461538463,
+    "earthwork": 0.6725274725274726,
+    "lost": 0.01098901098901099
+   },
+   "state": {
+    "standing": 0.13186813186813187,
+    "ruin": 0.1824175824175824,
+    "site": 0.002197802197802198,
+    "earthwork": 0.6725274725274726,
+    "lost": 0.01098901098901099
+   },
+   "ruin_c": 0.006593406593406593,
+   "lost_c": 0.01098901098901099,
+   "ruin_any": 0.18461538461538463,
+   "lost_any": 0.01098901098901099,
+   "original": 0.002197802197802198,
+   "km_city_median": 8.9
+  },
+  "infrastructure": {
+   "n": 151,
+   "label": "Bridges, water and roads",
+   "today": {
+    "original": 0.026490066225165563,
+    "changed": 0.006622516556291391,
+    "museum": 0.0,
+    "unknown": 0.8344370860927153,
+    "ruin": 0.10596026490066225,
+    "earthwork": 0.0,
+    "lost": 0.026490066225165563
+   },
+   "state": {
+    "standing": 0.8675496688741722,
+    "ruin": 0.10596026490066225,
+    "site": 0.0,
+    "earthwork": 0.0,
+    "lost": 0.026490066225165563
+   },
+   "ruin_c": 0.046357615894039736,
+   "lost_c": 0.026490066225165563,
+   "ruin_any": 0.10596026490066225,
+   "lost_any": 0.026490066225165563,
+   "original": 0.026490066225165563,
+   "km_city_median": 32.5
+  },
+  "commemorative": {
+   "n": 84,
+   "label": "Monuments",
+   "today": {
+    "original": 0.0,
+    "changed": 0.011904761904761904,
+    "museum": 0.0,
+    "unknown": 0.8095238095238095,
+    "ruin": 0.08333333333333333,
+    "earthwork": 0.0,
+    "lost": 0.09523809523809523
+   },
+   "state": {
+    "standing": 0.8214285714285714,
+    "ruin": 0.07142857142857142,
+    "site": 0.011904761904761904,
+    "earthwork": 0.0,
+    "lost": 0.09523809523809523
+   },
+   "ruin_c": 0.07142857142857142,
+   "lost_c": 0.09523809523809523,
+   "ruin_any": 0.08333333333333333,
+   "lost_any": 0.09523809523809523,
+   "original": 0.0,
+   "km_city_median": 2.7
+  },
+  "unknown": {
+   "n": 226,
+   "label": "Not clear",
+   "today": {
+    "original": 0.008849557522123894,
+    "changed": 0.03982300884955752,
+    "museum": 0.061946902654867256,
+    "unknown": 0.42920353982300885,
+    "ruin": 0.39823008849557523,
+    "earthwork": 0.008849557522123894,
+    "lost": 0.05309734513274336
+   },
+   "state": {
+    "standing": 0.5398230088495575,
+    "ruin": 0.36283185840707965,
+    "site": 0.035398230088495575,
+    "earthwork": 0.008849557522123894,
+    "lost": 0.05309734513274336
+   },
+   "ruin_c": 0.26548672566371684,
+   "lost_c": 0.05309734513274336,
+   "ruin_any": 0.39823008849557523,
+   "lost_any": 0.05309734513274336,
+   "original": 0.008849557522123894,
+   "km_city_median": 35.3
+  }
+ },
+ "eras": [
+  {
+   "era": "Before 1000 BC",
+   "n": 131,
+   "fuzzy": 0.6030534351145038,
+   "use": {
+    "religious": 0.12213740458015267,
+    "defensive": 0.08396946564885496,
+    "domestic": 0.05343511450381679,
+    "civic": 0.0,
+    "funerary": 0.4580152671755725,
+    "infrastructure": 0.04580152671755725,
+    "commemorative": 0.16793893129770993,
+    "unknown": 0.06870229007633588
+   },
+   "today": {
+    "original": 0.007633587786259542,
+    "changed": 0.007633587786259542,
+    "museum": 0.0,
+    "unknown": 0.33587786259541985,
+    "ruin": 0.4580152671755725,
+    "earthwork": 0.17557251908396945,
+    "lost": 0.015267175572519083
+   },
+   "ruin_any": 0.4580152671755725,
+   "n_mat": 37,
+   "mat": {
+    "stone": 0.8378378378378378,
+    "brick": 0.02702702702702703,
+    "timber": 0.10810810810810811,
+    "earth": 0.02702702702702703
+   }
+  },
+  {
+   "era": "1000 BC to 1 BC",
+   "n": 664,
+   "fuzzy": 0.29668674698795183,
+   "use": {
+    "religious": 0.1927710843373494,
+    "defensive": 0.19578313253012047,
+    "domestic": 0.2469879518072289,
+    "civic": 0.08885542168674698,
+    "funerary": 0.08132530120481928,
+    "infrastructure": 0.061746987951807226,
+    "commemorative": 0.030120481927710843,
+    "unknown": 0.10240963855421686
+   },
+   "today": {
+    "original": 0.02710843373493976,
+    "changed": 0.0015060240963855422,
+    "museum": 0.0,
+    "unknown": 0.12951807228915663,
+    "ruin": 0.7484939759036144,
+    "earthwork": 0.05421686746987952,
+    "lost": 0.0391566265060241
+   },
+   "ruin_any": 0.7484939759036144,
+   "n_mat": 89,
+   "mat": {
+    "stone": 0.9438202247191011,
+    "brick": 0.0449438202247191,
+    "timber": 0.0449438202247191,
+    "earth": 0.02247191011235955
+   }
+  },
+  {
+   "era": "AD 1 to 499",
+   "n": 1040,
+   "fuzzy": 0.5086538461538461,
+   "use": {
+    "religious": 0.39326923076923076,
+    "defensive": 0.1423076923076923,
+    "domestic": 0.05480769230769231,
+    "civic": 0.10288461538461538,
+    "funerary": 0.1596153846153846,
+    "infrastructure": 0.0625,
+    "commemorative": 0.035576923076923075,
+    "unknown": 0.04903846153846154
+   },
+   "today": {
+    "original": 0.24807692307692308,
+    "changed": 0.014423076923076924,
+    "museum": 0.011538461538461539,
+    "unknown": 0.22403846153846155,
+    "ruin": 0.3384615384615385,
+    "earthwork": 0.12980769230769232,
+    "lost": 0.03365384615384615
+   },
+   "ruin_any": 0.3384615384615385,
+   "n_mat": 168,
+   "mat": {
+    "stone": 0.7619047619047619,
+    "brick": 0.17261904761904762,
+    "timber": 0.17261904761904762,
+    "earth": 0.02976190476190476
+   }
+  },
+  {
+   "era": "500 to 799",
+   "n": 1461,
+   "fuzzy": 0.43668720054757015,
+   "use": {
+    "religious": 0.8227241615331964,
+    "defensive": 0.05201916495550993,
+    "domestic": 0.00889801505817933,
+    "civic": 0.006160164271047228,
+    "funerary": 0.08281998631074607,
+    "infrastructure": 0.007529089664613279,
+    "commemorative": 0.002053388090349076,
+    "unknown": 0.01779603011635866
+   },
+   "today": {
+    "original": 0.7631759069130732,
+    "changed": 0.02053388090349076,
+    "museum": 0.0013689253935660506,
+    "unknown": 0.06913073237508556,
+    "ruin": 0.03969883641341547,
+    "earthwork": 0.08418891170431211,
+    "lost": 0.02190280629705681
+   },
+   "ruin_any": 0.03969883641341547,
+   "n_mat": 48,
+   "mat": {
+    "stone": 0.6875,
+    "brick": 0.2708333333333333,
+    "timber": 0.10416666666666667,
+    "earth": 0.0
+   }
+  },
+  {
+   "era": "800 to 999",
+   "n": 1646,
+   "fuzzy": 0.5121506682867558,
+   "use": {
+    "religious": 0.755771567436209,
+    "defensive": 0.16646415552855406,
+    "domestic": 0.01275820170109356,
+    "civic": 0.006075334143377886,
+    "funerary": 0.027946537059538274,
+    "infrastructure": 0.009720534629404616,
+    "commemorative": 0.0,
+    "unknown": 0.0212636695018226
+   },
+   "today": {
+    "original": 0.704131227217497,
+    "changed": 0.012150668286755772,
+    "museum": 0.0054678007290400975,
+    "unknown": 0.1421628189550425,
+    "ruin": 0.06136087484811665,
+    "earthwork": 0.03827460510328068,
+    "lost": 0.03645200486026731
+   },
+   "ruin_any": 0.06136087484811665,
+   "n_mat": 62,
+   "mat": {
+    "stone": 0.6290322580645161,
+    "brick": 0.41935483870967744,
+    "timber": 0.08064516129032258,
+    "earth": 0.0
+   }
+  },
+  {
+   "era": "1000 to 1099",
+   "n": 1866,
+   "fuzzy": 0.3954983922829582,
+   "use": {
+    "religious": 0.7808145766345124,
+    "defensive": 0.16881028938906753,
+    "domestic": 0.011789924973204717,
+    "civic": 0.007502679528403001,
+    "funerary": 0.004287245444801715,
+    "infrastructure": 0.006430868167202572,
+    "commemorative": 0.0010718113612004287,
+    "unknown": 0.01929260450160772
+   },
+   "today": {
+    "original": 0.7384780278670954,
+    "changed": 0.01607717041800643,
+    "museum": 0.015541264737406217,
+    "unknown": 0.1452304394426581,
+    "ruin": 0.04930332261521972,
+    "earthwork": 0.00857449088960343,
+    "lost": 0.02679528403001072
+   },
+   "ruin_any": 0.04930332261521972,
+   "n_mat": 64,
+   "mat": {
+    "stone": 0.546875,
+    "brick": 0.390625,
+    "timber": 0.125,
+    "earth": 0.0
+   }
+  }
+ ],
+ "later_eras": [
+  {
+   "era": "1100 to 1299",
+   "n": 12705,
+   "use": {
+    "religious": 0.7431719795356159,
+    "defensive": 0.17197953561589926,
+    "domestic": 0.027469500196772925,
+    "civic": 0.006926406926406926,
+    "funerary": 0.0024399842581660763,
+    "infrastructure": 0.009681227863046045,
+    "commemorative": 0.0003935458480913026,
+    "unknown": 0.03793781975600157
+   },
+   "n_mat": 581,
+   "mat": {
+    "stone": 0.6041308089500861,
+    "brick": 0.43373493975903615,
+    "timber": 0.16006884681583478,
+    "earth": 0.0068846815834767644
+   }
+  },
+  {
+   "era": "1300 to 1499",
+   "n": 15317,
+   "use": {
+    "religious": 0.5890840242867402,
+    "defensive": 0.17118234641248287,
+    "domestic": 0.10282692433244107,
+    "civic": 0.01527714304367696,
+    "funerary": 0.005614676503231704,
+    "infrastructure": 0.020826532610824573,
+    "commemorative": 0.0005875824247568061,
+    "unknown": 0.09460077038584579
+   },
+   "n_mat": 909,
+   "mat": {
+    "stone": 0.6138613861386139,
+    "brick": 0.42684268426842686,
+    "timber": 0.1496149614961496,
+    "earth": 0.0176017601760176
+   }
+  },
+  {
+   "era": "1500 to 1599",
+   "n": 12178,
+   "use": {
+    "religious": 0.40474626375431105,
+    "defensive": 0.10789949088520283,
+    "domestic": 0.254639513877484,
+    "civic": 0.028576120873706683,
+    "funerary": 0.005255378551486287,
+    "infrastructure": 0.03637707341106914,
+    "commemorative": 0.002217112826408277,
+    "unknown": 0.16028904582033174
+   },
+   "n_mat": 660,
+   "mat": {
+    "stone": 0.6515151515151515,
+    "brick": 0.34393939393939393,
+    "timber": 0.17272727272727273,
+    "earth": 0.012121212121212121
+   }
+  }
+ ],
+ "centuries": [
+  {
+   "century": 1,
+   "n": 330,
+   "set": "before 1100"
+  },
+  {
+   "century": 2,
+   "n": 159,
+   "set": "before 1100"
+  },
+  {
+   "century": 3,
+   "n": 156,
+   "set": "before 1100"
+  },
+  {
+   "century": 4,
+   "n": 164,
+   "set": "before 1100"
+  },
+  {
+   "century": 5,
+   "n": 230,
+   "set": "before 1100"
+  },
+  {
+   "century": 6,
+   "n": 322,
+   "set": "before 1100"
+  },
+  {
+   "century": 7,
+   "n": 458,
+   "set": "before 1100"
+  },
+  {
+   "century": 8,
+   "n": 681,
+   "set": "before 1100"
+  },
+  {
+   "century": 9,
+   "n": 732,
+   "set": "before 1100"
+  },
+  {
+   "century": 10,
+   "n": 914,
+   "set": "before 1100"
+  },
+  {
+   "century": 11,
+   "n": 1866,
+   "set": "before 1100"
+  },
+  {
+   "century": 12,
+   "n": 5526,
+   "set": "1100 to 1599"
+  },
+  {
+   "century": 13,
+   "n": 7179,
+   "set": "1100 to 1599"
+  },
+  {
+   "century": 14,
+   "n": 7252,
+   "set": "1100 to 1599"
+  },
+  {
+   "century": 15,
+   "n": 8065,
+   "set": "1100 to 1599"
+  },
+  {
+   "century": 16,
+   "n": 12178,
+   "set": "1100 to 1599"
+  }
+ ],
+ "centuries_bc": [
+  {
+   "century_bc": 10,
+   "n": 10
+  },
+  {
+   "century_bc": 9,
+   "n": 2
+  },
+  {
+   "century_bc": 8,
+   "n": 12
+  },
+  {
+   "century_bc": 7,
+   "n": 22
+  },
+  {
+   "century_bc": 6,
+   "n": 41
+  },
+  {
+   "century_bc": 5,
+   "n": 58
+  },
+  {
+   "century_bc": 4,
+   "n": 75
+  },
+  {
+   "century_bc": 3,
+   "n": 48
+  },
+  {
+   "century_bc": 2,
+   "n": 248
+  },
+  {
+   "century_bc": 1,
+   "n": 148
+  }
+ ],
+ "before_1000bc_n": 131,
+ "c11_n": 1866,
+ "c11_share": 0.27292672224659936,
+ "c11_uk_share": 0.25884244372990356,
+ "c11_fuzzy_share": 0.3954983922829582,
+ "c11_uk_n": 483,
+ "c10_n": 914,
+ "c12_n": 5526,
+ "c16_n": 12178,
+ "c1_n": 330,
+ "compare": {
+  "before": {
+   "n": 6837,
+   "use": {
+    "religious": 0.6535029983911073,
+    "defensive": 0.14011993564428843,
+    "domestic": 0.04270879040514846,
+    "civic": 0.02969138511042855,
+    "funerary": 0.06654965628199502,
+    "infrastructure": 0.022085710106771975,
+    "commemorative": 0.01228609039052216,
+    "unknown": 0.03305543366973819
+   },
+   "ruin_c": 0.09463214860318853,
+   "lost_c": 0.030715225976305396,
+   "n_mat": 469,
+   "mat_share_recorded": 0.06859733801374872,
+   "mat": {
+    "stone": 0.746268656716418,
+    "brick": 0.208955223880597,
+    "timber": 0.11940298507462686,
+    "earth": 0.017057569296375266
+   },
+   "km_city_median": 22.5,
+   "within10km": 0.3287991809273073,
+   "sacred": 0.7323387450636244
+  },
+  "after": {
+   "n": 40200,
+   "use": {
+    "religious": 0.5819402985074626,
+    "defensive": 0.1522636815920398,
+    "domestic": 0.125,
+    "civic": 0.016666666666666666,
+    "funerary": 0.004502487562189054,
+    "infrastructure": 0.022014925373134327,
+    "commemorative": 0.0010199004975124377,
+    "unknown": 0.09659203980099502
+   },
+   "ruin_c": 0.045024875621890545,
+   "lost_c": 0.023482587064676617,
+   "n_mat": 2150,
+   "mat_share_recorded": 0.053482587064676616,
+   "mat": {
+    "stone": 0.6227906976744186,
+    "brick": 0.40325581395348836,
+    "timber": 0.15953488372093022,
+    "earth": 0.013023255813953489
+   },
+   "km_city_median": 28.7,
+   "within10km": 0.24544776119402986,
+   "sacred": 0.5874626865671642
+  },
+  "europe_before": {
+   "n": 3983,
+   "use": {
+    "religious": 0.6344463971880492,
+    "defensive": 0.1910620135576199,
+    "domestic": 0.026362038664323375,
+    "civic": 0.03816218930454431,
+    "funerary": 0.03590258599045945,
+    "infrastructure": 0.0253577705247301,
+    "commemorative": 0.012804418779814211,
+    "unknown": 0.03590258599045945
+   },
+   "ruin_c": 0.07431584232990208,
+   "n_mat": 287,
+   "mat": {
+    "stone": 0.7456445993031359,
+    "brick": 0.1672473867595819,
+    "timber": 0.13240418118466898,
+    "earth": 0.006968641114982578
+   }
+  },
+  "europe_after": {
+   "n": 36224,
+   "use": {
+    "religious": 0.5601534893992933,
+    "defensive": 0.15796157243816256,
+    "domestic": 0.13722946113074205,
+    "civic": 0.017115724381625442,
+    "funerary": 0.0017115724381625442,
+    "infrastructure": 0.022830167844522967,
+    "commemorative": 0.0010490282685512368,
+    "unknown": 0.10194898409893993
+   },
+   "ruin_c": 0.04759275618374558,
+   "n_mat": 1899,
+   "mat": {
+    "stone": 0.6234860452869931,
+    "brick": 0.41021590310689837,
+    "timber": 0.1569246972090574,
+    "earth": 0.009478672985781991
+   }
+  },
+  "by_use_ruin_c": {
+   "religious": {
+    "before": 0.03804834377797672,
+    "after": 0.018594511413182867,
+    "n_before": 4468,
+    "n_after": 23394
+   },
+   "defensive": {
+    "before": 0.23382045929018788,
+    "after": 0.1999673256003921,
+    "n_before": 958,
+    "n_after": 6121
+   },
+   "domestic": {
+    "before": 0.5376712328767124,
+    "after": 0.01054726368159204,
+    "n_before": 292,
+    "n_after": 5025
+   },
+   "civic": {
+    "before": 0.09852216748768473,
+    "after": 0.004477611940298508,
+    "n_before": 203,
+    "n_after": 670
+   },
+   "funerary": {
+    "before": 0.006593406593406593,
+    "after": 0.011049723756906077,
+    "n_before": 455,
+    "n_after": 181
+   },
+   "infrastructure": {
+    "before": 0.046357615894039736,
+    "after": 0.024858757062146894,
+    "n_before": 151,
+    "n_after": 885
+   },
+   "commemorative": {
+    "before": 0.07142857142857142,
+    "after": 0.0,
+    "n_before": 84,
+    "n_after": 41
+   },
+   "unknown": {
+    "before": 0.26548672566371684,
+    "after": 0.01828483131599279,
+    "n_before": 226,
+    "n_after": 3883
+   }
+  }
+ },
+ "later_top_countries": {
+  "Germany": 6286,
+  "Italy": 5622,
+  "United Kingdom": 5115,
+  "Spain": 3344,
+  "Poland": 3231,
+  "France": 2457,
+  "Japan": 1738,
+  "Czech Republic": 1605
+ },
+ "regions": [
+  {
+   "region": "Britain and Ireland",
+   "n": 807,
+   "use": {
+    "religious": 0.8401486988847584,
+    "defensive": 0.1127633209417596,
+    "domestic": 0.006195786864931847,
+    "civic": 0.007434944237918215,
+    "funerary": 0.013630731102850062,
+    "infrastructure": 0.0037174721189591076,
+    "commemorative": 0.0037174721189591076,
+    "unknown": 0.012391573729863693
+   },
+   "today": {
+    "original": 0.6728624535315985,
+    "changed": 0.012391573729863693,
+    "museum": 0.021065675340768277,
+    "unknown": 0.0644361833952912,
+    "ruin": 0.17596034696406443,
+    "earthwork": 0.03345724907063197,
+    "lost": 0.01982651796778191
+   },
+   "ruin_any": 0.17596034696406443,
+   "n_mat": 87,
+   "mat": {
+    "stone": 0.7241379310344828,
+    "brick": 0.0,
+    "timber": 0.28735632183908044,
+    "earth": 0.0
+   },
+   "n_later": 5323
+  },
+  {
+   "region": "Northern and western Europe",
+   "n": 1213,
+   "use": {
+    "religious": 0.6034624896949712,
+    "defensive": 0.2539159109645507,
+    "domestic": 0.025556471558120363,
+    "civic": 0.0494641384995878,
+    "funerary": 0.028854080791426217,
+    "infrastructure": 0.018136850783182192,
+    "commemorative": 0.005770816158285243,
+    "unknown": 0.01483924154987634
+   },
+   "today": {
+    "original": 0.5572959604286892,
+    "changed": 0.008244023083264633,
+    "museum": 0.00741962077493817,
+    "unknown": 0.20362737015663643,
+    "ruin": 0.14756801319043694,
+    "earthwork": 0.025556471558120363,
+    "lost": 0.05028854080791426
+   },
+   "ruin_any": 0.14756801319043694,
+   "n_mat": 53,
+   "mat": {
+    "stone": 0.7169811320754716,
+    "brick": 0.22641509433962265,
+    "timber": 0.16981132075471697,
+    "earth": 0.0
+   },
+   "n_later": 13389
+  },
+  {
+   "region": "Southern Europe",
+   "n": 1676,
+   "use": {
+    "religious": 0.5984486873508353,
+    "defensive": 0.16408114558472553,
+    "domestic": 0.035202863961813845,
+    "civic": 0.046539379474940336,
+    "funerary": 0.031026252983293555,
+    "infrastructure": 0.04116945107398568,
+    "commemorative": 0.024463007159904536,
+    "unknown": 0.05906921241050119
+   },
+   "today": {
+    "original": 0.4946300715990454,
+    "changed": 0.027446300715990454,
+    "museum": 0.014916467780429593,
+    "unknown": 0.23389021479713604,
+    "ruin": 0.17959427207637232,
+    "earthwork": 0.0059665871121718375,
+    "lost": 0.04355608591885442
+   },
+   "ruin_any": 0.17959427207637232,
+   "n_mat": 126,
+   "mat": {
+    "stone": 0.8095238095238095,
+    "brick": 0.2222222222222222,
+    "timber": 0.007936507936507936,
+    "earth": 0.007936507936507936
+   },
+   "n_later": 10044
+  },
+  {
+   "region": "Eastern Europe",
+   "n": 287,
+   "use": {
+    "religious": 0.397212543554007,
+    "defensive": 0.30313588850174217,
+    "domestic": 0.03484320557491289,
+    "civic": 0.027874564459930314,
+    "funerary": 0.156794425087108,
+    "infrastructure": 0.024390243902439025,
+    "commemorative": 0.0,
+    "unknown": 0.05574912891986063
+   },
+   "today": {
+    "original": 0.3205574912891986,
+    "changed": 0.010452961672473868,
+    "museum": 0.0,
+    "unknown": 0.18466898954703834,
+    "ruin": 0.10801393728222997,
+    "earthwork": 0.2857142857142857,
+    "lost": 0.09059233449477352
+   },
+   "ruin_any": 0.10801393728222997,
+   "n_mat": 21,
+   "mat": {
+    "stone": 0.5238095238095238,
+    "brick": 0.38095238095238093,
+    "timber": 0.14285714285714285,
+    "earth": 0.047619047619047616
+   },
+   "n_later": 7468
+  },
+  {
+   "region": "Middle East and Caucasus",
+   "n": 776,
+   "use": {
+    "religious": 0.47680412371134023,
+    "defensive": 0.17010309278350516,
+    "domestic": 0.18943298969072164,
+    "civic": 0.03350515463917526,
+    "funerary": 0.03350515463917526,
+    "infrastructure": 0.01804123711340206,
+    "commemorative": 0.015463917525773196,
+    "unknown": 0.06314432989690721
+   },
+   "today": {
+    "original": 0.36726804123711343,
+    "changed": 0.006443298969072165,
+    "museum": 0.0,
+    "unknown": 0.1056701030927835,
+    "ruin": 0.4742268041237113,
+    "earthwork": 0.01288659793814433,
+    "lost": 0.03350515463917526
+   },
+   "ruin_any": 0.4742268041237113,
+   "n_mat": 110,
+   "mat": {
+    "stone": 0.8181818181818182,
+    "brick": 0.3,
+    "timber": 0.06363636363636363,
+    "earth": 0.03636363636363636
+   },
+   "n_later": 721
+  },
+  {
+   "region": "North Africa",
+   "n": 241,
+   "use": {
+    "religious": 0.3900414937759336,
+    "defensive": 0.11203319502074689,
+    "domestic": 0.11203319502074689,
+    "civic": 0.04149377593360996,
+    "funerary": 0.15352697095435686,
+    "infrastructure": 0.08713692946058091,
+    "commemorative": 0.06639004149377593,
+    "unknown": 0.03734439834024896
+   },
+   "today": {
+    "original": 0.24066390041493776,
+    "changed": 0.012448132780082987,
+    "museum": 0.004149377593360996,
+    "unknown": 0.25311203319502074,
+    "ruin": 0.48132780082987553,
+    "earthwork": 0.0,
+    "lost": 0.008298755186721992
+   },
+   "ruin_any": 0.48132780082987553,
+   "n_mat": 38,
+   "mat": {
+    "stone": 0.9210526315789473,
+    "brick": 0.10526315789473684,
+    "timber": 0.0,
+    "earth": 0.0
+   },
+   "n_later": 133
+  },
+  {
+   "region": "South and central Asia",
+   "n": 79,
+   "use": {
+    "religious": 0.7215189873417721,
+    "defensive": 0.06329113924050633,
+    "domestic": 0.012658227848101266,
+    "civic": 0.02531645569620253,
+    "funerary": 0.02531645569620253,
+    "infrastructure": 0.0759493670886076,
+    "commemorative": 0.02531645569620253,
+    "unknown": 0.05063291139240506
+   },
+   "today": {
+    "original": 0.7088607594936709,
+    "changed": 0.012658227848101266,
+    "museum": 0.0,
+    "unknown": 0.17721518987341772,
+    "ruin": 0.10126582278481013,
+    "earthwork": 0.0,
+    "lost": 0.0
+   },
+   "ruin_any": 0.10126582278481013,
+   "n_mat": 10,
+   "mat": {
+    "stone": 0.3,
+    "brick": 0.7,
+    "timber": 0.0,
+    "earth": 0.0
+   },
+   "n_later": 249
+  },
+  {
+   "region": "East Asia",
+   "n": 1702,
+   "use": {
+    "religious": 0.8160987074030552,
+    "defensive": 0.019388954171562868,
+    "domestic": 0.006462984723854289,
+    "civic": 0.0023501762632197414,
+    "funerary": 0.14277320799059928,
+    "infrastructure": 0.004700352526439483,
+    "commemorative": 0.0,
+    "unknown": 0.008225616921269096
+   },
+   "today": {
+    "original": 0.8049353701527615,
+    "changed": 0.011163337250293772,
+    "museum": 0.0,
+    "unknown": 0.03760282021151586,
+    "ruin": 0.005287896592244419,
+    "earthwork": 0.13748531139835488,
+    "lost": 0.0035252643948296123
+   },
+   "ruin_any": 0.005287896592244419,
+   "n_mat": 12,
+   "mat": {
+    "stone": 0.5,
+    "brick": 0.16666666666666666,
+    "timber": 0.4166666666666667,
+    "earth": 0.08333333333333333
+   },
+   "n_later": 2616
+  },
+  {
+   "region": "South-east Asia",
+   "n": 27,
+   "use": {
+    "religious": 0.8518518518518519,
+    "defensive": 0.0,
+    "domestic": 0.0,
+    "civic": 0.0,
+    "funerary": 0.0,
+    "infrastructure": 0.0,
+    "commemorative": 0.037037037037037035,
+    "unknown": 0.1111111111111111
+   },
+   "today": {
+    "original": 0.8148148148148148,
+    "changed": 0.0,
+    "museum": 0.0,
+    "unknown": 0.1111111111111111,
+    "ruin": 0.07407407407407407,
+    "earthwork": 0.0,
+    "lost": 0.0
+   },
+   "ruin_any": 0.07407407407407407,
+   "n_mat": 9,
+   "mat": {
+    "stone": 0.2222222222222222,
+    "brick": 0.2222222222222222,
+    "timber": 0.6666666666666666,
+    "earth": 0.0
+   },
+   "n_later": 80
+  },
+  {
+   "region": "Rest of the world",
+   "n": 29,
+   "use": {
+    "religious": 0.27586206896551724,
+    "defensive": 0.0,
+    "domestic": 0.034482758620689655,
+    "civic": 0.3103448275862069,
+    "funerary": 0.13793103448275862,
+    "infrastructure": 0.034482758620689655,
+    "commemorative": 0.06896551724137931,
+    "unknown": 0.13793103448275862
+   },
+   "today": {
+    "original": 0.2413793103448276,
+    "changed": 0.0,
+    "museum": 0.0,
+    "unknown": 0.5517241379310345,
+    "ruin": 0.13793103448275862,
+    "earthwork": 0.06896551724137931,
+    "lost": 0.0
+   },
+   "ruin_any": 0.13793103448275862,
+   "n_mat": 3,
+   "mat": {
+    "stone": 0.0,
+    "brick": 0.6666666666666666,
+    "timber": 0.0,
+    "earth": 0.3333333333333333
+   },
+   "n_later": 177
+  }
+ ],
+ "latbands": [
+  {
+   "band": "0 to 25",
+   "n": 127,
+   "ruin_any": 0.11023622047244094,
+   "ruin_c": 0.023622047244094488,
+   "original": 0.6929133858267716,
+   "religious": 0.7559055118110236,
+   "n_later": 387,
+   "ruin_c_later": 0.031007751937984496
+  },
+  {
+   "band": "25 to 35",
+   "n": 1512,
+   "ruin_any": 0.2612433862433862,
+   "ruin_c": 0.18386243386243387,
+   "original": 0.5383597883597884,
+   "religious": 0.5787037037037037,
+   "n_later": 1539,
+   "ruin_c_later": 0.014294996751137101
+  },
+  {
+   "band": "35 to 45",
+   "n": 2861,
+   "ruin_any": 0.14854945823138763,
+   "ruin_c": 0.07375043691017127,
+   "original": 0.5844110450891297,
+   "religious": 0.6658511010136317,
+   "n_later": 11471,
+   "ruin_c_later": 0.028070787202510678
+  },
+  {
+   "band": "45 to 55",
+   "n": 2258,
+   "ruin_any": 0.1408325952170062,
+   "ruin_c": 0.06731620903454384,
+   "original": 0.591674047829938,
+   "religious": 0.6908768821966342,
+   "n_later": 24424,
+   "ruin_c_later": 0.05572387815263675
+  },
+  {
+   "band": "55 and over",
+   "n": 79,
+   "ruin_any": 0.10126582278481013,
+   "ruin_c": 0.0379746835443038,
+   "original": 0.35443037974683544,
+   "religious": 0.4050632911392405,
+   "n_later": 2379,
+   "ruin_c_later": 0.03909205548549811
+  }
+ ],
+ "dry": {
+  "n_dry": 577,
+  "ruin_dry": 0.6707105719237435,
+  "n_temperate": 2255,
+  "ruin_temperate": 0.141019955654102,
+  "ruin_c_dry": 0.4748700173310225,
+  "n_dry_ex_dura": 317,
+  "ruin_dry_ex_dura": 0.41009463722397477,
+  "ruin_c_temperate": 0.06740576496674058
+ },
+ "remote": {
+  "original": {
+   "n": 3938,
+   "km_median": 19.6,
+   "within10km": 0.3430675469781615,
+   "beyond50km": 0.19502285424073135
+  },
+  "changed": {
+   "n": 97,
+   "km_median": 15.3,
+   "within10km": 0.44329896907216493,
+   "beyond50km": 0.12371134020618557
+  },
+  "museum": {
+   "n": 52,
+   "km_median": 26.5,
+   "within10km": 0.25,
+   "beyond50km": 0.15384615384615385
+  },
+  "unknown": {
+   "n": 984,
+   "km_median": 27.6,
+   "within10km": 0.30691056910569103,
+   "beyond50km": 0.2530487804878049
+  },
+  "ruin": {
+   "n": 1160,
+   "km_median": 42.55,
+   "within10km": 0.20517241379310344,
+   "beyond50km": 0.45775862068965517
+  },
+  "earthwork": {
+   "n": 396,
+   "km_median": 9.55,
+   "within10km": 0.5227272727272727,
+   "beyond50km": 0.13636363636363635
+  },
+  "lost": {
+   "n": 210,
+   "km_median": 18.55,
+   "within10km": 0.44761904761904764,
+   "beyond50km": 0.22380952380952382
+  }
+ },
+ "remote_summary": {
+  "inuse_km": 19.6,
+  "ruin_km": 42.55,
+  "inuse_within10": 0.3430675469781615,
+  "ruin_within10": 0.20517241379310344,
+  "ruin_beyond50": 0.45775862068965517,
+  "inuse_beyond50": 0.19502285424073135
+ },
+ "materials": {
+  "n_recorded": 469,
+  "share_recorded": 0.06859733801374872,
+  "stone": 0.746268656716418,
+  "brick": 0.208955223880597,
+  "timber": 0.11940298507462686,
+  "earth": 0.017057569296375266,
+  "counts": {
+   "stone": 350,
+   "brick": 98,
+   "timber": 56,
+   "earth": 8
+  },
+  "ruin_by_mat": {
+   "stone": 0.4257142857142857,
+   "brick": 0.20408163265306123,
+   "timber": 0.48214285714285715,
+   "earth": 0.5
+  },
+  "lost_by_mat": {
+   "stone": 0.025714285714285714,
+   "brick": 0.02040816326530612,
+   "timber": 0.03571428571428571,
+   "earth": 0.0
+  }
+ },
+ "styles": {
+  "n_with_style": 1819,
+  "n_dated_style": 1255,
+  "late_only": 248,
+  "early_any": 1007,
+  "late_only_share": 0.19760956175298805,
+  "both": 101,
+  "early_and_late": 101,
+  "early_only": 906
+ },
+ "audit": {
+  "n": 32,
+  "status": {
+   "in original use": 16,
+   "ruin or remains": 6,
+   "changed use or monument": 3,
+   "earthwork": 3,
+   "destroyed": 3,
+   "unclear": 1
+  },
+  "fabric": {
+   "pre-1100": 14,
+   "later": 10,
+   "unclear": 8
+  },
+  "catalogue_original_n": 20,
+  "catalogue_original_confirmed": 15,
+  "catalogue_original_status": {
+   "in original use": 15,
+   "changed use or monument": 2,
+   "ruin or remains": 1,
+   "unclear": 1,
+   "destroyed": 1
+  },
+  "inuse_n": 16,
+  "inuse_fabric": {
+   "later": 7,
+   "unclear": 5,
+   "pre-1100": 4
+  },
+  "notinuse_n": 12,
+  "notinuse_fabric": {
+   "pre-1100": 10,
+   "unclear": 1,
+   "later": 1
+  },
+  "sample_drawn": 60,
+  "sample_checked_first": 33
+ },
+ "countries": [
+  {
+   "country": "Japan",
+   "n": 1380,
+   "religious": 0.7949275362318841,
+   "ruin_any": 0.002898550724637681,
+   "original": 0.7833333333333333,
+   "fuzzy": 0.24710144927536232,
+   "n_later": 1738,
+   "oldest": [
+    {
+     "qid": "Q117316433",
+     "label": "Suwa Shrine",
+     "date": "90 BC",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q687168",
+     "label": "Ise Jingū",
+     "date": "3 BC",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q116469453",
+     "label": "Syukugawara Inari",
+     "date": "AD 1",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Italy",
+   "n": 947,
+   "religious": 0.6599788806758183,
+   "ruin_any": 0.12988384371700107,
+   "original": 0.5659978880675819,
+   "fuzzy": 0.529039070749736,
+   "n_later": 5622,
+   "oldest": [
+    {
+     "qid": "Q1444766",
+     "label": "Vatican obelisk",
+     "date": "19th century BC",
+     "use": "commemorative",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q62015486",
+     "label": "Castelliere",
+     "date": "1699 BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q645181",
+     "label": "Lateran Obelisk",
+     "date": "1499 BC",
+     "use": "commemorative",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "United Kingdom",
+   "n": 785,
+   "religious": 0.8420382165605096,
+   "ruin_any": 0.17070063694267515,
+   "original": 0.6789808917197452,
+   "fuzzy": 0.6560509554140127,
+   "n_later": 5115,
+   "oldest": [
+    {
+     "qid": "Q5142542",
+     "label": "Coldrum Long Barrow",
+     "date": "4th millennium BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q1738425",
+     "label": "Unnamed",
+     "date": "3499 BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q6517664",
+     "label": "Legananny Dolmen",
+     "date": "2999 BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Germany",
+   "n": 555,
+   "religious": 0.6018018018018018,
+   "ruin_any": 0.14774774774774774,
+   "original": 0.5765765765765766,
+   "fuzzy": 0.21621621621621623,
+   "n_later": 6286,
+   "oldest": [
+    {
+     "qid": "Q124519928",
+     "label": "Blinkerwall",
+     "date": "10th millennium BC",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q830422",
+     "label": "Bad Dürrenberg burial",
+     "date": "7th millennium BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q1907404",
+     "label": "Talheim Death Pit",
+     "date": "51st century BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Spain",
+   "n": 424,
+   "religious": 0.4811320754716981,
+   "ruin_any": 0.125,
+   "original": 0.41509433962264153,
+   "fuzzy": 0.7216981132075472,
+   "n_later": 3344,
+   "oldest": [
+    {
+     "qid": "Q20170929",
+     "label": "Dolmen of Guadalperal",
+     "date": "3999 BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q6154669",
+     "label": "Túmulo de Los Tiesos",
+     "date": "3499 BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q114788856",
+     "label": "dolmen of the House of the Moor, Casillas de Flores",
+     "date": "3rd millennium BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "France",
+   "n": 410,
+   "religious": 0.6121951219512195,
+   "ruin_any": 0.13902439024390245,
+   "original": 0.5439024390243903,
+   "fuzzy": 0.5,
+   "n_later": 2457,
+   "oldest": [
+    {
+     "qid": "Q808456",
+     "label": "Barnenez",
+     "date": "5th millennium BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q1347902",
+     "label": "tumulus d'Er Grah",
+     "date": "45th century BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q16031910",
+     "label": "dolmen de la Coma Enestapera",
+     "date": "4th millennium BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "China",
+   "n": 283,
+   "religious": 0.9399293286219081,
+   "ruin_any": 0.014134275618374558,
+   "original": 0.9328621908127208,
+   "fuzzy": 0.04240282685512368,
+   "n_later": 814,
+   "oldest": [
+    {
+     "qid": "Q12501",
+     "label": "Great Wall of China",
+     "date": "700s BC",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q60993511",
+     "label": "Jiwanggu Tombs",
+     "date": "6th century BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q1167293",
+     "label": "Yinqueshan Han Slips",
+     "date": "3rd century BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Syria",
+   "n": 280,
+   "religious": 0.07857142857142857,
+   "ruin_any": 0.925,
+   "original": 0.03214285714285714,
+   "fuzzy": 0.11071428571428571,
+   "n_later": 49,
+   "oldest": [
+    {
+     "qid": "Q1887409",
+     "label": "Royal Palace of Mari",
+     "date": "1799 BC",
+     "use": "domestic",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q121764043",
+     "label": "Strategeion",
+     "date": "299 BC",
+     "use": "domestic",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q98930725",
+     "label": "Palmyrene Gate",
+     "date": "155 BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Greece",
+   "n": 202,
+   "religious": 0.594059405940594,
+   "ruin_any": 0.504950495049505,
+   "original": 0.3465346534653465,
+   "fuzzy": 0.6435643564356436,
+   "n_later": 313,
+   "oldest": [
+    {
+     "qid": "Q9054486",
+     "label": "palace of Phaistos",
+     "date": "19th century BC",
+     "use": "domestic",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q529246",
+     "label": "Anemospilia",
+     "date": "17th century BC",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q9054457",
+     "label": "Palace of Knossos",
+     "date": "1649 BC",
+     "use": "domestic",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Turkey",
+   "n": 156,
+   "religious": 0.6474358974358975,
+   "ruin_any": 0.24358974358974358,
+   "original": 0.4551282051282051,
+   "fuzzy": 0.6730769230769231,
+   "n_later": 255,
+   "oldest": [
+    {
+     "qid": "Q6099672",
+     "label": "Boncuklu Höyük",
+     "date": "85th century BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q1039186",
+     "label": "Zincirli Höyük",
+     "date": "2999 BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "site"
+    },
+    {
+     "qid": "Q763854",
+     "label": "Obelisk of Theodosius",
+     "date": "15th century BC",
+     "use": "commemorative",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Armenia",
+   "n": 142,
+   "religious": 0.8802816901408451,
+   "ruin_any": 0.2887323943661972,
+   "original": 0.6408450704225352,
+   "fuzzy": 0.8028169014084507,
+   "n_later": 114,
+   "oldest": [
+    {
+     "qid": "Q42894922",
+     "label": "Unnamed",
+     "date": "3rd millennium BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q13054281",
+     "label": "Norashen Cyclopean Fortress",
+     "date": "2nd millennium BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q13055249",
+     "label": "Okon castle",
+     "date": "999 BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Libya",
+   "n": 125,
+   "religious": 0.32,
+   "ruin_any": 0.664,
+   "original": 0.136,
+   "fuzzy": 0.304,
+   "n_later": 2,
+   "oldest": [
+    {
+     "qid": "Q106020259",
+     "label": "Tinda",
+     "date": "749 BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q106417982",
+     "label": "Quşūr al Būmbah",
+     "date": "749 BC",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q104776460",
+     "label": "Temple of the Dioscuri, Cyrene",
+     "date": "7th century BC",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Egypt",
+   "n": 72,
+   "religious": 0.4166666666666667,
+   "ruin_any": 0.3611111111111111,
+   "original": 0.25,
+   "fuzzy": 0.4861111111111111,
+   "n_later": 65,
+   "oldest": [
+    {
+     "qid": "Q459608",
+     "label": "Bent Pyramid",
+     "date": "2699 BC",
+     "use": "funerary",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q13444093",
+     "label": "Meidum Pyramid",
+     "date": "27th century BC",
+     "use": "funerary",
+     "today": "changed",
+     "state": "standing"
+    },
+    {
+     "qid": "Q192418",
+     "label": "Pyramid of Djoser",
+     "date": "2639 BC",
+     "use": "funerary",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Russia",
+   "n": 70,
+   "religious": 0.2857142857142857,
+   "ruin_any": 0.3,
+   "original": 0.22857142857142856,
+   "fuzzy": 0.8571428571428571,
+   "n_later": 762,
+   "oldest": [
+    {
+     "qid": "Q30889392",
+     "label": "Unnamed",
+     "date": "3rd millennium BC",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q2657856",
+     "label": "Quay with Sphinxes",
+     "date": "1454 BC",
+     "use": "infrastructure",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q638445",
+     "label": "Chersonesus",
+     "date": "5th century BC",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Switzerland",
+   "n": 67,
+   "religious": 0.6268656716417911,
+   "ruin_any": 0.22388059701492538,
+   "original": 0.6268656716417911,
+   "fuzzy": 0.43283582089552236,
+   "n_later": 999,
+   "oldest": [
+    {
+     "qid": "Q610371",
+     "label": "Augusta Raurica",
+     "date": "43 BC",
+     "use": "civic",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q29711714",
+     "label": "Temple of Vandœuvres",
+     "date": "AD 5",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q97327413",
+     "label": "Römerbrücke Eschenz",
+     "date": "AD 82",
+     "use": "infrastructure",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Czech Republic",
+   "n": 66,
+   "religious": 0.5454545454545454,
+   "ruin_any": 0.0,
+   "original": 0.3181818181818182,
+   "fuzzy": 0.803030303030303,
+   "n_later": 1605,
+   "oldest": [
+    {
+     "qid": "Q84986912",
+     "label": "Unnamed",
+     "date": "5250s BC",
+     "use": "infrastructure",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q11903507",
+     "label": "Vladař",
+     "date": "14th century BC",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q29549657",
+     "label": "Drahovice",
+     "date": "10th century BC",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    }
+   ]
+  },
+  {
+   "country": "India",
+   "n": 57,
+   "religious": 0.8070175438596491,
+   "ruin_any": 0.03508771929824561,
+   "original": 0.8245614035087719,
+   "fuzzy": 0.40350877192982454,
+   "n_later": 166,
+   "oldest": [
+    {
+     "qid": "Q2722759",
+     "label": "Jaigarh Fort",
+     "date": "10th century BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q184427",
+     "label": "Ajanta Caves",
+     "date": "2nd century BC",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q1854330",
+     "label": "Heliodorus Pillar",
+     "date": "2nd century BC",
+     "use": "commemorative",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Austria",
+   "n": 52,
+   "religious": 0.5,
+   "ruin_any": 0.19230769230769232,
+   "original": 0.40384615384615385,
+   "fuzzy": 0.3269230769230769,
+   "n_later": 428,
+   "oldest": [
+    {
+     "qid": "Q133550540",
+     "label": "Unnamed",
+     "date": "3999 BC",
+     "use": "domestic",
+     "today": "ruin",
+     "state": "site"
+    },
+    {
+     "qid": "Q133550544",
+     "label": "Unnamed",
+     "date": "3999 BC",
+     "use": "domestic",
+     "today": "ruin",
+     "state": "site"
+    },
+    {
+     "qid": "Q133550156",
+     "label": "Unnamed",
+     "date": "1499 BC",
+     "use": "domestic",
+     "today": "ruin",
+     "state": "site"
+    }
+   ]
+  },
+  {
+   "country": "Georgia",
+   "n": 51,
+   "religious": 0.8627450980392157,
+   "ruin_any": 0.058823529411764705,
+   "original": 0.8627450980392157,
+   "fuzzy": 0.9607843137254902,
+   "n_later": 36,
+   "oldest": [
+    {
+     "qid": "Q16364478",
+     "label": "Avranlo Fortress",
+     "date": "1st millennium BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q995736",
+     "label": "Nekresi",
+     "date": "2nd century BC",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q2038190",
+     "label": "Samtavro Monastery",
+     "date": "4th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Belarus",
+   "n": 48,
+   "religious": 0.041666666666666664,
+   "ruin_any": 0.0,
+   "original": 0.041666666666666664,
+   "fuzzy": 1.0,
+   "n_later": 77,
+   "oldest": [
+    {
+     "qid": "Q141526461",
+     "label": "Unnamed",
+     "date": "1st century",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q123455764",
+     "label": "Unnamed",
+     "date": "1st millennium",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q117835594",
+     "label": "Unnamed",
+     "date": "9th century",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Belgium",
+   "n": 46,
+   "religious": 0.8695652173913043,
+   "ruin_any": 0.021739130434782608,
+   "original": 0.8260869565217391,
+   "fuzzy": 0.41304347826086957,
+   "n_later": 596,
+   "oldest": [
+    {
+     "qid": "Q122810957",
+     "label": "Sint-Lievensbron (Sint-Lievens-Esse)",
+     "date": "AD 633",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q21186648",
+     "label": "Saint-Ghislain Abbey",
+     "date": "AD 640",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q1170767",
+     "label": "Saint Peter's Abbey",
+     "date": "7th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Bulgaria",
+   "n": 38,
+   "religious": 0.6578947368421053,
+   "ruin_any": 0.13157894736842105,
+   "original": 0.631578947368421,
+   "fuzzy": 0.8157894736842105,
+   "n_later": 53,
+   "oldest": [
+    {
+     "qid": "Q27987797",
+     "label": "Temple of Bendis, Melnik",
+     "date": "1st century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q7205170",
+     "label": "Plovdiv Roman Stadium",
+     "date": "AD 100",
+     "use": "civic",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q6549298",
+     "label": "Limes Transalutanus",
+     "date": "AD 106",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Portugal",
+   "n": 30,
+   "religious": 0.3333333333333333,
+   "ruin_any": 0.23333333333333334,
+   "original": 0.23333333333333334,
+   "fuzzy": 0.8333333333333334,
+   "n_later": 235,
+   "oldest": [
+    {
+     "qid": "Q17390156",
+     "label": "Citânia de São Julião de Caldelas",
+     "date": "10th century BC",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q10365475",
+     "label": "Ruínas de São Miguel de Odrinhas",
+     "date": "1st century BC",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q1094262",
+     "label": "Citânia de Briteiros",
+     "date": "1 BC",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    }
+   ]
+  },
+  {
+   "country": "Israel",
+   "n": 28,
+   "religious": 0.42857142857142855,
+   "ruin_any": 0.25,
+   "original": 0.32142857142857145,
+   "fuzzy": 0.42857142857142855,
+   "n_later": 48,
+   "oldest": [
+    {
+     "qid": "Q25493736",
+     "label": "French Hill Fort",
+     "date": "10th century BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q20502157",
+     "label": "Keren Naftali Castle",
+     "date": "3rd century BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q1177765",
+     "label": "Tower of David",
+     "date": "149 BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Ukraine",
+   "n": 25,
+   "religious": 0.44,
+   "ruin_any": 0.0,
+   "original": 0.36,
+   "fuzzy": 0.48,
+   "n_later": 76,
+   "oldest": [
+    {
+     "qid": "Q56367059",
+     "label": "Kyi's Gord",
+     "date": "8th century BC",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q12158963",
+     "label": "Sukhonosiv settlement",
+     "date": "7th century BC",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q111287647",
+     "label": "Unnamed",
+     "date": "AD 18",
+     "use": "unknown",
+     "today": "changed",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Iran",
+   "n": 24,
+   "religious": 0.125,
+   "ruin_any": 0.25,
+   "original": 0.08333333333333333,
+   "fuzzy": 0.5,
+   "n_later": 29,
+   "oldest": [
+    {
+     "qid": "Q1581555",
+     "label": "Tepe Sialk",
+     "date": "7th millennium BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q5902280",
+     "label": "Tepe Juqin",
+     "date": "5th millennium BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q5872552",
+     "label": "Tepe Mafinabad",
+     "date": "5th millennium BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    }
+   ]
+  },
+  {
+   "country": "South Korea",
+   "n": 24,
+   "religious": 0.8333333333333334,
+   "ruin_any": 0.041666666666666664,
+   "original": 0.8333333333333334,
+   "fuzzy": 0.08333333333333333,
+   "n_later": 55,
+   "oldest": [
+    {
+     "qid": "Q496394",
+     "label": "Bukhansanseong",
+     "date": "AD 132",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q625286",
+     "label": "Jikjisa",
+     "date": "AD 418",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q623807",
+     "label": "Daeheungsa",
+     "date": "AD 514",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Tunisia",
+   "n": 23,
+   "religious": 0.5217391304347826,
+   "ruin_any": 0.13043478260869565,
+   "original": 0.5217391304347826,
+   "fuzzy": 0.391304347826087,
+   "n_later": 8,
+   "oldest": [
+    {
+     "qid": "Q1146714",
+     "label": "Libyco-Punic Mausoleum of Dougga",
+     "date": "2nd century BC",
+     "use": "funerary",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q20107688",
+     "label": "Water Temple of Zaghouan",
+     "date": "2nd century",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q11680511",
+     "label": "Capitoline temple in Dougga",
+     "date": "2nd century",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Ireland",
+   "n": 22,
+   "religious": 0.7727272727272727,
+   "ruin_any": 0.36363636363636365,
+   "original": 0.45454545454545453,
+   "fuzzy": 0.7272727272727273,
+   "n_later": 208,
+   "oldest": [
+    {
+     "qid": "Q1440021",
+     "label": "Fourknocks Passage Tomb",
+     "date": "2749 BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q31077825",
+     "label": "Toor More",
+     "date": "2nd millennium BC",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q30247326",
+     "label": "Kilbennan Monastery",
+     "date": "5th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Netherlands",
+   "n": 22,
+   "religious": 0.5909090909090909,
+   "ruin_any": 0.045454545454545456,
+   "original": 0.5454545454545454,
+   "fuzzy": 0.36363636363636365,
+   "n_later": 982,
+   "oldest": [
+    {
+     "qid": "Q13135468",
+     "label": "Enghenbergje",
+     "date": "3rd millennium BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q1912236",
+     "label": "Python Bridge",
+     "date": "AD 20",
+     "use": "infrastructure",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q125483606",
+     "label": "Castellum Aardenburg",
+     "date": "AD 170",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Azerbaijan",
+   "n": 22,
+   "religious": 0.6363636363636364,
+   "ruin_any": 0.13636363636363635,
+   "original": 0.5909090909090909,
+   "fuzzy": 0.8181818181818182,
+   "n_later": 86,
+   "oldest": [
+    {
+     "qid": "Q138797962",
+     "label": "Unnamed",
+     "date": "3rd millennium BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q2756685",
+     "label": "Noah’s Mausoleum",
+     "date": "1538 BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q94979856",
+     "label": "Mets Astvatsatsin Monastery (Yukhari Aylis)",
+     "date": "1st century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Croatia",
+   "n": 22,
+   "religious": 0.45454545454545453,
+   "ruin_any": 0.22727272727272727,
+   "original": 0.5,
+   "fuzzy": 0.5454545454545454,
+   "n_later": 150,
+   "oldest": [
+    {
+     "qid": "Q12635866",
+     "label": "Luka Pula",
+     "date": "1st century BC",
+     "use": "infrastructure",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q474998",
+     "label": "Pula Arena",
+     "date": "26 BC",
+     "use": "civic",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q952381",
+     "label": "Arch of the Sergii",
+     "date": "26 BC",
+     "use": "commemorative",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Poland",
+   "n": 20,
+   "religious": 0.45,
+   "ruin_any": 0.0,
+   "original": 0.5,
+   "fuzzy": 0.55,
+   "n_later": 3231,
+   "oldest": [
+    {
+     "qid": "Q30065377",
+     "label": "Retaining wall with boutiques",
+     "date": "AD 1",
+     "use": "infrastructure",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q30065432",
+     "label": "Piatkowski Villa",
+     "date": "AD 2",
+     "use": "domestic",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q9189299",
+     "label": "Unnamed",
+     "date": "60s",
+     "use": "infrastructure",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Jordan",
+   "n": 18,
+   "religious": 0.2222222222222222,
+   "ruin_any": 0.2777777777777778,
+   "original": 0.2222222222222222,
+   "fuzzy": 0.5555555555555556,
+   "n_later": 4,
+   "oldest": [
+    {
+     "qid": "Q56255271",
+     "label": "Qasr al Hallabat",
+     "date": "AD 2",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q21188319",
+     "label": "Umayyad Palace",
+     "date": "AD 8",
+     "use": "domestic",
+     "today": "changed",
+     "state": "standing"
+    },
+    {
+     "qid": "Q1259626",
+     "label": "Al Khazneh",
+     "date": "1st century",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Bosnia and Herzegovina",
+   "n": 18,
+   "religious": 0.5555555555555556,
+   "ruin_any": 0.2222222222222222,
+   "original": 0.4444444444444444,
+   "fuzzy": 0.05555555555555555,
+   "n_later": 62,
+   "oldest": [
+    {
+     "qid": "Q18331574",
+     "label": "Sase Monastery",
+     "date": "AD 14",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q13090402",
+     "label": "Samobor Fortress",
+     "date": "AD 14",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q19407128",
+     "label": "Grćka Glavica necropolis",
+     "date": "AD 14",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Denmark",
+   "n": 16,
+   "religious": 0.375,
+   "ruin_any": 0.125,
+   "original": 0.3125,
+   "fuzzy": 0.3125,
+   "n_later": 422,
+   "oldest": [
+    {
+     "qid": "Q308139",
+     "label": "Ølshøj",
+     "date": "3499 BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q12315978",
+     "label": "Hekla Park",
+     "date": "AD 3",
+     "use": "civic",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q12339802",
+     "label": "Troldborg Ring",
+     "date": "1st century",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    }
+   ]
+  },
+  {
+   "country": "Iraq",
+   "n": 16,
+   "religious": 0.6875,
+   "ruin_any": 0.0625,
+   "original": 0.6875,
+   "fuzzy": 0.5,
+   "n_later": 16,
+   "oldest": [
+    {
+     "qid": "Q202927",
+     "label": "Ziggurat of Ur",
+     "date": "21st century BC",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q26082",
+     "label": "Ishtar Gate",
+     "date": "574 BC",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q12242723",
+     "label": "Al-Hannanah Mosque",
+     "date": "AD 462",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Indonesia",
+   "n": 14,
+   "religious": 0.9285714285714286,
+   "ruin_any": 0.07142857142857142,
+   "original": 0.9285714285714286,
+   "fuzzy": 0.07142857142857142,
+   "n_later": 20,
+   "oldest": [
+    {
+     "qid": "Q132214035",
+     "label": "Fansuri Museum",
+     "date": "600 BC",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q98161587",
+     "label": "Pura Samuan Tiga",
+     "date": "AD 10",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q16177853",
+     "label": "Kotagede Mataram Great Mosque",
+     "date": "AD 16",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Luxembourg",
+   "n": 14,
+   "religious": 0.14285714285714285,
+   "ruin_any": 0.5,
+   "original": 0.0,
+   "fuzzy": 0.7142857142857143,
+   "n_later": 32,
+   "oldest": [
+    {
+     "qid": "Q13105301",
+     "label": "Unnamed",
+     "date": "5th century BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q113043793",
+     "label": "Gallo-Roman temple at Steinsel",
+     "date": "1st century",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q13104917",
+     "label": "Unnamed",
+     "date": "1st century",
+     "use": "domestic",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Palestine",
+   "n": 13,
+   "religious": 0.8461538461538461,
+   "ruin_any": 0.15384615384615385,
+   "original": 0.7692307692307693,
+   "fuzzy": 0.6153846153846154,
+   "n_later": 20,
+   "oldest": [
+    {
+     "qid": "Q2460244",
+     "label": "Hasmonean royal winter palaces",
+     "date": "109 BC",
+     "use": "domestic",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q194504",
+     "label": "Church of the Nativity",
+     "date": "AD 327",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q18402074",
+     "label": "Unnamed",
+     "date": "AD 345",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "North Korea",
+   "n": 13,
+   "religious": 0.46153846153846156,
+   "ruin_any": 0.0,
+   "original": 0.38461538461538464,
+   "fuzzy": 0.46153846153846156,
+   "n_later": 0,
+   "oldest": [
+    {
+     "qid": "Q3200813",
+     "label": "Kwangbŏpsa",
+     "date": "AD 392",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q4896121",
+     "label": "Pubyongnu",
+     "date": "AD 393",
+     "use": "unknown",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q1032891",
+     "label": "Singyesa",
+     "date": "AD 519",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Sweden",
+   "n": 11,
+   "religious": 0.6363636363636364,
+   "ruin_any": 0.09090909090909091,
+   "original": 0.45454545454545453,
+   "fuzzy": 0.45454545454545453,
+   "n_later": 718,
+   "oldest": [
+    {
+     "qid": "Q1540834",
+     "label": "Håga kurgan",
+     "date": "11th century BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q1478632",
+     "label": "Gråborg",
+     "date": "6th century",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    },
+    {
+     "qid": "Q17150274",
+     "label": "Uppåkra hof",
+     "date": "6th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Morocco",
+   "n": 10,
+   "religious": 0.6,
+   "ruin_any": 0.2,
+   "original": 0.6,
+   "fuzzy": 0.0,
+   "n_later": 36,
+   "oldest": [
+    {
+     "qid": "Q2314811",
+     "label": "Chellah",
+     "date": "699 BC",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q7681104",
+     "label": "Tamdoult",
+     "date": "199 BC",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q58897235",
+     "label": "Bab Lakbir",
+     "date": "AD 12",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Nigeria",
+   "n": 10,
+   "religious": 0.2,
+   "ruin_any": 0.0,
+   "original": 0.2,
+   "fuzzy": 0.0,
+   "n_later": 7,
+   "oldest": [
+    {
+     "qid": "Q3457094",
+     "label": "Gidan Rumfa",
+     "date": "AD 15",
+     "use": "unknown",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q108908731",
+     "label": "Verekete Shrine",
+     "date": "AD 19",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q131869290",
+     "label": "Zuba College Clinic",
+     "date": "AD 195",
+     "use": "civic",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Algeria",
+   "n": 10,
+   "religious": 0.6,
+   "ruin_any": 0.1,
+   "original": 0.5,
+   "fuzzy": 0.0,
+   "n_later": 22,
+   "oldest": [
+    {
+     "qid": "Q1393557",
+     "label": "Arch of Trajan",
+     "date": "AD 100",
+     "use": "commemorative",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q3621773",
+     "label": "Arch of Caracalla",
+     "date": "AD 214",
+     "use": "commemorative",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q87745203",
+     "label": "Byzantine Fort in Timgad",
+     "date": "AD 539",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "North Macedonia",
+   "n": 10,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.5,
+   "n_later": 89,
+   "oldest": [
+    {
+     "qid": "Q27073953",
+     "label": "Unnamed",
+     "date": "4th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q27078368",
+     "label": "Bargala basilica extra muros",
+     "date": "4th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q20497342",
+     "label": "Unnamed",
+     "date": "5th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Yemen",
+   "n": 9,
+   "religious": 0.8888888888888888,
+   "ruin_any": 0.1111111111111111,
+   "original": 0.8888888888888888,
+   "fuzzy": 0.3333333333333333,
+   "n_later": 14,
+   "oldest": [
+    {
+     "qid": "Q1521987",
+     "label": "Ghumdan Palace",
+     "date": "8th century BC",
+     "use": "domestic",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q21153119",
+     "label": "Al-Qalis Church",
+     "date": "6th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q12204214",
+     "label": "Jennad Mosque",
+     "date": "AD 627",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Slovakia",
+   "n": 9,
+   "religious": 0.4444444444444444,
+   "ruin_any": 0.0,
+   "original": 0.4444444444444444,
+   "fuzzy": 1.0,
+   "n_later": 1543,
+   "oldest": [
+    {
+     "qid": "Q112088162",
+     "label": "Unnamed",
+     "date": "4th century",
+     "use": "unknown",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q112088171",
+     "label": "Unnamed",
+     "date": "4th century",
+     "use": "unknown",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q112088176",
+     "label": "Unnamed",
+     "date": "4th century",
+     "use": "unknown",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Norway",
+   "n": 9,
+   "religious": 1.0,
+   "ruin_any": 0.1111111111111111,
+   "original": 0.8888888888888888,
+   "fuzzy": 0.7777777777777778,
+   "n_later": 208,
+   "oldest": [
+    {
+     "qid": "Q19377434",
+     "label": "Klemenskirken i Trondheim",
+     "date": "AD 997",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q11993161",
+     "label": "Oddernes Church",
+     "date": "11th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q174646",
+     "label": "Slidredomen",
+     "date": "11th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Romania",
+   "n": 8,
+   "religious": 0.5,
+   "ruin_any": 0.625,
+   "original": 0.375,
+   "fuzzy": 0.5,
+   "n_later": 78,
+   "oldest": [
+    {
+     "qid": "Q2671791",
+     "label": "Ulpia Traiana Sarmizegetusa",
+     "date": "1st century",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q14752597",
+     "label": "Limes Dacicus",
+     "date": "AD 106",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q12433068",
+     "label": "Limes Alutanus",
+     "date": "AD 106",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Albania",
+   "n": 7,
+   "religious": 0.5714285714285714,
+   "ruin_any": 0.42857142857142855,
+   "original": 0.42857142857142855,
+   "fuzzy": 0.7142857142857143,
+   "n_later": 14,
+   "oldest": [
+    {
+     "qid": "Q505703",
+     "label": "Apollonia",
+     "date": "587 BC",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q110113359",
+     "label": "Monument of Agonothetes",
+     "date": "1st century",
+     "use": "civic",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q4867373",
+     "label": "Basilica of Saint Michael",
+     "date": "5th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Uzbekistan",
+   "n": 7,
+   "religious": 0.2857142857142857,
+   "ruin_any": 0.2857142857142857,
+   "original": 0.2857142857142857,
+   "fuzzy": 0.42857142857142855,
+   "n_later": 26,
+   "oldest": [
+    {
+     "qid": "Q25531042",
+     "label": "Zartepa",
+     "date": "1st century BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "site"
+    },
+    {
+     "qid": "Q13668326",
+     "label": "Namazgoh Mosque",
+     "date": "AD 12",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q82074007",
+     "label": "Ancient Buddhist monastery at Fayaz Tepe",
+     "date": "1st century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Latvia",
+   "n": 7,
+   "religious": 0.0,
+   "ruin_any": 0.2857142857142857,
+   "original": 0.0,
+   "fuzzy": 1.0,
+   "n_later": 94,
+   "oldest": [
+    {
+     "qid": "Q47006112",
+     "label": "Kraukļu senkapi",
+     "date": "1st century",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q55313779",
+     "label": "Kalna Vaizuļu senkapi",
+     "date": "1st century",
+     "use": "funerary",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q47007671",
+     "label": "Unnamed",
+     "date": "5th century",
+     "use": "defensive",
+     "today": "earthwork",
+     "state": "earthwork"
+    }
+   ]
+  },
+  {
+   "country": "Vietnam",
+   "n": 6,
+   "religious": 0.5,
+   "ruin_any": 0.16666666666666666,
+   "original": 0.3333333333333333,
+   "fuzzy": 0.3333333333333333,
+   "n_later": 9,
+   "oldest": [
+    {
+     "qid": "Q109438230",
+     "label": "Vinh Hung tower",
+     "date": "9th century",
+     "use": "unknown",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q10825862",
+     "label": "Đồng Dương",
+     "date": "AD 875",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q10748490",
+     "label": "Nhat Tru pagoda",
+     "date": "10th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Serbia",
+   "n": 5,
+   "religious": 0.6,
+   "ruin_any": 0.2,
+   "original": 0.6,
+   "fuzzy": 0.8,
+   "n_later": 80,
+   "oldest": [
+    {
+     "qid": "Q110255111",
+     "label": "Church of the Holy Mother of God, Donja Kamenica",
+     "date": "AD 14",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q1409017",
+     "label": "Belgrade Fortress",
+     "date": "1st century",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q85993022",
+     "label": "Military camp at Mediјanа",
+     "date": "4th century",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Northern Cyprus",
+   "n": 5,
+   "religious": 0.8,
+   "ruin_any": 0.0,
+   "original": 0.8,
+   "fuzzy": 0.8,
+   "n_later": 8,
+   "oldest": [
+    {
+     "qid": "Q16677642",
+     "label": "St. Barnabas Monastery",
+     "date": "400s",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q20949051",
+     "label": "Bedesten, Nicosia",
+     "date": "6th century",
+     "use": "unknown",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q122019664",
+     "label": "Church Of Virgin Mary, Asha",
+     "date": "9th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Malta",
+   "n": 4,
+   "religious": 1.0,
+   "ruin_any": 0.25,
+   "original": 0.5,
+   "fuzzy": 0.75,
+   "n_later": 30,
+   "oldest": [
+    {
+     "qid": "Q216862",
+     "label": "Ġgantija",
+     "date": "3599 BC",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q18387475",
+     "label": "Church of the Nativity of Our Lady",
+     "date": "10th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q28224835",
+     "label": "St. Matthew's Chapel",
+     "date": "11th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Sri Lanka",
+   "n": 4,
+   "religious": 0.25,
+   "ruin_any": 0.0,
+   "original": 0.25,
+   "fuzzy": 0.0,
+   "n_later": 12,
+   "oldest": [
+    {
+     "qid": "Q4667359",
+     "label": "Abhayavapi",
+     "date": "399 BC",
+     "use": "infrastructure",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q109830677",
+     "label": "Bassawak reservoir",
+     "date": "379 BC",
+     "use": "infrastructure",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q7354820",
+     "label": "Kala Wewa",
+     "date": "AD 471",
+     "use": "infrastructure",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Afghanistan",
+   "n": 4,
+   "religious": 0.75,
+   "ruin_any": 0.25,
+   "original": 0.5,
+   "fuzzy": 0.75,
+   "n_later": 13,
+   "oldest": [
+    {
+     "qid": "Q6403414",
+     "label": "Khwaja Abu Nasr Parsa Shrine",
+     "date": "AD 15",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q2593345",
+     "label": "Takht-e Rostam",
+     "date": "4th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q3125809",
+     "label": "Haji Piyada Mosque",
+     "date": "9th century",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Saudi Arabia",
+   "n": 4,
+   "religious": 0.75,
+   "ruin_any": 0.0,
+   "original": 0.75,
+   "fuzzy": 0.25,
+   "n_later": 2,
+   "oldest": [
+    {
+     "qid": "Q20403473",
+     "label": "Qasr al-Farid",
+     "date": "1st century",
+     "use": "funerary",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q486080",
+     "label": "Prophet's Mosque",
+     "date": "AD 622",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q276569",
+     "label": "Quba Mosque",
+     "date": "AD 622",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Cyprus",
+   "n": 4,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.5,
+   "n_later": 7,
+   "oldest": [
+    {
+     "qid": "Q2426066",
+     "label": "Stavrovouni Monastery",
+     "date": "AD 327",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q11957020",
+     "label": "Agia Paraskevi",
+     "date": "AD 844",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q634112",
+     "label": "Church of Saint Lazarus, Larnaca",
+     "date": "9th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Cambodia",
+   "n": 4,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.0,
+   "n_later": 6,
+   "oldest": [
+    {
+     "qid": "Q43473",
+     "label": "Angkor Wat",
+     "date": "AD 802",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q45949",
+     "label": "Preah Vihear Temple",
+     "date": "AD 893",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q790099",
+     "label": "Banteay Srei",
+     "date": "AD 967",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Peru",
+   "n": 3,
+   "religious": 0.3333333333333333,
+   "ruin_any": 0.6666666666666666,
+   "original": 0.0,
+   "fuzzy": 0.3333333333333333,
+   "n_later": 16,
+   "oldest": [
+    {
+     "qid": "Q28147528",
+     "label": "Montegrande, Peru",
+     "date": "31st century BC",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q1062357",
+     "label": "Chankillo",
+     "date": "299 BC",
+     "use": "civic",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q9005094",
+     "label": "Huaca Huallamarca",
+     "date": "199 BC",
+     "use": "funerary",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "United States",
+   "n": 3,
+   "religious": 0.3333333333333333,
+   "ruin_any": 0.0,
+   "original": 0.3333333333333333,
+   "fuzzy": 0.6666666666666666,
+   "n_later": 5,
+   "oldest": [
+    {
+     "qid": "Q23889503",
+     "label": "Cleopatra's Needle",
+     "date": "15th century BC",
+     "use": "commemorative",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q5087814",
+     "label": "Chatsworth Community Church",
+     "date": "AD 14",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q6963605",
+     "label": "Nanih Waiya",
+     "date": "3rd century",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    }
+   ]
+  },
+  {
+   "country": "Ethiopia",
+   "n": 3,
+   "religious": 0.3333333333333333,
+   "ruin_any": 0.3333333333333333,
+   "original": 0.3333333333333333,
+   "fuzzy": 0.3333333333333333,
+   "n_later": 15,
+   "oldest": [
+    {
+     "qid": "Q107222192",
+     "label": "Grat Be'al Gebri",
+     "date": "799 BC",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q2308606",
+     "label": "Obelisk of Axum",
+     "date": "AD 300",
+     "use": "commemorative",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q4663637",
+     "label": "Abba Garima Monastery",
+     "date": "6th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Pakistan",
+   "n": 3,
+   "religious": 0.6666666666666666,
+   "ruin_any": 1.0,
+   "original": 0.0,
+   "fuzzy": 0.3333333333333333,
+   "n_later": 7,
+   "oldest": [
+    {
+     "qid": "Q2131024",
+     "label": "Ranikot Fort",
+     "date": "449 BC",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q97735100",
+     "label": "Grand Mosque Banbhore",
+     "date": "8th century",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q17009210",
+     "label": "Mahmud Ghaznavi Mosque",
+     "date": "AD 1048",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Hungary",
+   "n": 3,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.3333333333333333,
+   "n_later": 42,
+   "oldest": [
+    {
+     "qid": "Q936285",
+     "label": "Pannonhalma Archabbey",
+     "date": "10th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q991832",
+     "label": "Esztergom Basilica",
+     "date": "AD 1001",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q16274922",
+     "label": "Szekszárd Abbey",
+     "date": "AD 1061",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Finland",
+   "n": 2,
+   "religious": 0.0,
+   "ruin_any": 0.0,
+   "original": 0.0,
+   "fuzzy": 0.5,
+   "n_later": 44,
+   "oldest": [
+    {
+     "qid": "Q38338677",
+     "label": "Ensimmäisen teekkarin hauta",
+     "date": "2nd millennium BC",
+     "use": "commemorative",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q11890680",
+     "label": "Rieskaronmäki",
+     "date": "699 BC",
+     "use": "funerary",
+     "today": "earthwork",
+     "state": "earthwork"
+    }
+   ]
+  },
+  {
+   "country": "Bangladesh",
+   "n": 2,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.0,
+   "n_later": 8,
+   "oldest": [
+    {
+     "qid": "Q60715689",
+     "label": "Rangkut Banasram Pilgrimage Monastery",
+     "date": "267 BC",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q61362047",
+     "label": "Lost Mosque",
+     "date": "AD 690",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Tanzania",
+   "n": 2,
+   "religious": 0.5,
+   "ruin_any": 0.5,
+   "original": 0.5,
+   "fuzzy": 0.5,
+   "n_later": 2,
+   "oldest": [
+    {
+     "qid": "Q2035513",
+     "label": "Great Mosque of Kilwa",
+     "date": "AD 12",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q120301207",
+     "label": "Kimbiji Ruins",
+     "date": "10th century",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Lebanon",
+   "n": 2,
+   "religious": 1.0,
+   "ruin_any": 1.0,
+   "original": 0.0,
+   "fuzzy": 0.5,
+   "n_later": 28,
+   "oldest": [
+    {
+     "qid": "Q75207891",
+     "label": "Roman temple of Bziza",
+     "date": "1st century",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q135269682",
+     "label": "Ain Harcha Roman Temple",
+     "date": "AD 116",
+     "use": "religious",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Canada",
+   "n": 2,
+   "religious": 0.0,
+   "ruin_any": 0.0,
+   "original": 0.0,
+   "fuzzy": 0.0,
+   "n_later": 0,
+   "oldest": [
+    {
+     "qid": "Q112037175",
+     "label": "22 Lorne Crescent",
+     "date": "AD 187",
+     "use": "domestic",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q93447874",
+     "label": "Ottawa New Edinburgh Club",
+     "date": "AD 1014",
+     "use": "infrastructure",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Slovenia",
+   "n": 2,
+   "religious": 0.0,
+   "ruin_any": 0.5,
+   "original": 0.0,
+   "fuzzy": 0.5,
+   "n_later": 36,
+   "oldest": [
+    {
+     "qid": "Q28969759",
+     "label": "Castra ad Fluvium Frigidum",
+     "date": "AD 270",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    },
+    {
+     "qid": "Q2075156",
+     "label": "Ljubljana Castle",
+     "date": "9th century",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Montenegro",
+   "n": 2,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 1.0,
+   "n_later": 23,
+   "oldest": [
+    {
+     "qid": "Q65133681",
+     "label": "Unnamed",
+     "date": "7th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    },
+    {
+     "qid": "Q11172451",
+     "label": "Prečista Krajinska",
+     "date": "11th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Mongolia",
+   "n": 2,
+   "religious": 0.0,
+   "ruin_any": 0.0,
+   "original": 0.0,
+   "fuzzy": 0.0,
+   "n_later": 1,
+   "oldest": [
+    {
+     "qid": "Q19610328",
+     "label": "Monument of Choir",
+     "date": "AD 682",
+     "use": "unknown",
+     "today": "unknown",
+     "state": "standing"
+    },
+    {
+     "qid": "Q6040325",
+     "label": "Bilge Qaghan inscriptions",
+     "date": "AD 735",
+     "use": "unknown",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Mexico",
+   "n": 1,
+   "religious": 0.0,
+   "ruin_any": 0.0,
+   "original": 0.0,
+   "fuzzy": 0.0,
+   "n_later": 35,
+   "oldest": [
+    {
+     "qid": "Q1417475",
+     "label": "Great Pyramid of Cholula",
+     "date": "299 BC",
+     "use": "funerary",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Turkmenistan",
+   "n": 1,
+   "religious": 0.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.0,
+   "n_later": 2,
+   "oldest": [
+    {
+     "qid": "Q12821624",
+     "label": "Dayahatyn",
+     "date": "AD 11",
+     "use": "civic",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Malaysia",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.0,
+   "n_later": 2,
+   "oldest": [
+    {
+     "qid": "Q3407634",
+     "label": "Kampung Laut Mosque",
+     "date": "AD 16",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Australia",
+   "n": 1,
+   "religious": 0.0,
+   "ruin_any": 0.0,
+   "original": 0.0,
+   "fuzzy": 0.0,
+   "n_later": 0,
+   "oldest": [
+    {
+     "qid": "Q153825",
+     "label": "Parliament House, State of Queensland",
+     "date": "AD 100",
+     "use": "civic",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Nepal",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.0,
+   "n_later": 2,
+   "oldest": [
+    {
+     "qid": "Q1062150",
+     "label": "Changu Narayan Temple",
+     "date": "AD 325",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Sudan",
+   "n": 1,
+   "religious": 0.0,
+   "ruin_any": 1.0,
+   "original": 0.0,
+   "fuzzy": 1.0,
+   "n_later": 0,
+   "oldest": [
+    {
+     "qid": "Q1247214",
+     "label": "Soba",
+     "date": "4th century",
+     "use": "unknown",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Kosovo",
+   "n": 1,
+   "religious": 0.0,
+   "ruin_any": 1.0,
+   "original": 0.0,
+   "fuzzy": 1.0,
+   "n_later": 38,
+   "oldest": [
+    {
+     "qid": "Q3078443",
+     "label": "Fortress of Prizren",
+     "date": "5th century",
+     "use": "defensive",
+     "today": "ruin",
+     "state": "ruin"
+    }
+   ]
+  },
+  {
+   "country": "Isle of Man",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 1.0,
+   "n_later": 3,
+   "oldest": [
+    {
+     "qid": "Q7245519",
+     "label": "Priory of Douglas",
+     "date": "5th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Oman",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.0,
+   "n_later": 2,
+   "oldest": [
+    {
+     "qid": "Q16125386",
+     "label": "Al-Shawathna Mosque",
+     "date": "AD 629",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Somalia",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 1.0,
+   "n_later": 2,
+   "oldest": [
+    {
+     "qid": "Q96384085",
+     "label": "Grand Mosque of Hamar Weyne",
+     "date": "7th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Bahrain",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.0,
+   "n_later": 1,
+   "oldest": [
+    {
+     "qid": "Q4119263",
+     "label": "Khamis Mosque",
+     "date": "AD 692",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Guatemala",
+   "n": 1,
+   "religious": 0.0,
+   "ruin_any": 0.0,
+   "original": 0.0,
+   "fuzzy": 0.0,
+   "n_later": 2,
+   "oldest": [
+    {
+     "qid": "Q7801881",
+     "label": "Tikal Temple IV",
+     "date": "AD 741",
+     "use": "funerary",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Andorra",
+   "n": 1,
+   "religious": 0.0,
+   "ruin_any": 0.0,
+   "original": 0.0,
+   "fuzzy": 0.0,
+   "n_later": 2,
+   "oldest": [
+    {
+     "qid": "Q139822563",
+     "label": "Unnamed",
+     "date": "AD 980",
+     "use": "defensive",
+     "today": "unknown",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Mali",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.0,
+   "n_later": 3,
+   "oldest": [
+    {
+     "qid": "Q1265294",
+     "label": "Sankore Madrasah",
+     "date": "AD 988",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Uganda",
+   "n": 1,
+   "religious": 0.0,
+   "ruin_any": 0.0,
+   "original": 0.0,
+   "fuzzy": 0.0,
+   "n_later": 0,
+   "oldest": [
+    {
+     "qid": "Q67736934",
+     "label": "Ntusi earthworks",
+     "date": "AD 1001",
+     "use": "unknown",
+     "today": "earthwork",
+     "state": "earthwork"
+    }
+   ]
+  },
+  {
+   "country": "Thailand",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.0,
+   "n_later": 14,
+   "oldest": [
+    {
+     "qid": "Q2552374",
+     "label": "Wat Phra That Hariphunchai",
+     "date": "AD 1044",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "San Marino",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 1.0,
+   "n_later": 3,
+   "oldest": [
+    {
+     "qid": "Q106074847",
+     "label": "Chiesa di Santa Maria Assunta in Pieve Corena",
+     "date": "11th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Guernsey",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 1.0,
+   "n_later": 3,
+   "oldest": [
+    {
+     "qid": "Q16900530",
+     "label": "St Tugual's Chapel",
+     "date": "11th century",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  },
+  {
+   "country": "Myanmar",
+   "n": 1,
+   "religious": 1.0,
+   "ruin_any": 0.0,
+   "original": 1.0,
+   "fuzzy": 0.0,
+   "n_later": 8,
+   "oldest": [
+    {
+     "qid": "Q485727",
+     "label": "Ananda Temple",
+     "date": "AD 1091",
+     "use": "religious",
+     "today": "original",
+     "state": "standing"
+    }
+   ]
+  }
+ ],
+ "top_countries": [
+  {
+   "country": "Japan",
+   "n": 1380,
+   "share": 0.20184291355857834
+  },
+  {
+   "country": "Italy",
+   "n": 947,
+   "share": 0.1385110428550534
+  },
+  {
+   "country": "United Kingdom",
+   "n": 785,
+   "share": 0.11481643995904636
+  },
+  {
+   "country": "Germany",
+   "n": 555,
+   "share": 0.08117595436594997
+  },
+  {
+   "country": "Spain",
+   "n": 424,
+   "share": 0.06201550387596899
+  },
+  {
+   "country": "France",
+   "n": 410,
+   "share": 0.059967822144215296
+  },
+  {
+   "country": "China",
+   "n": 283,
+   "share": 0.04139242357759251
+  },
+  {
+   "country": "Syria",
+   "n": 280,
+   "share": 0.040953634635073864
+  },
+  {
+   "country": "Greece",
+   "n": 202,
+   "share": 0.029545122129589
+  },
+  {
+   "country": "Turkey",
+   "n": 156,
+   "share": 0.022817025010969723
+  },
+  {
+   "country": "Armenia",
+   "n": 142,
+   "share": 0.02076934327921603
+  },
+  {
+   "country": "Libya",
+   "n": 125,
+   "share": 0.018282872604943688
+  }
+ ],
+ "top3_share": 0.4551703963726781,
+ "n_countries_10plus": 46,
+ "japan": {
+  "n": 1380,
+  "religious": 0.7949275362318841,
+  "kofun": 237,
+  "shrine": 478,
+  "temple": 595
+ },
+ "dura": 474,
+ "dura_box": 260,
+ "uk": {
+  "n": 785,
+  "share": 0.11481643995904636,
+  "nations": {
+   "England": 722,
+   "Wales": 41,
+   "Unassigned (coast or Northern Ireland)": 11,
+   "Scotland": 11
+  },
+  "use": {
+   "religious": 661,
+   "defensive": 89,
+   "domestic": 5,
+   "civic": 6,
+   "funerary": 10,
+   "infrastructure": 3,
+   "commemorative": 3,
+   "unknown": 8
+  },
+  "today": {
+   "original": 533,
+   "changed": 9,
+   "museum": 17,
+   "unknown": 51,
+   "ruin": 134,
+   "earthwork": 25,
+   "lost": 16
+  },
+  "c11": 483,
+  "c11_share": 0.6152866242038216,
+  "fuzzy": 0.6560509554140127,
+  "before_1000": 302,
+  "roman": 100,
+  "prehistoric": 46,
+  "anglo_saxon": 552,
+  "post_1066": 87,
+  "counties_top": {
+   "Lincolnshire": 63,
+   "Kent": 61,
+   "Essex": 42,
+   "West Sussex": 35,
+   "Gloucestershire": 35,
+   "Norfolk": 33,
+   "Cambridgeshire": 31,
+   "Hampshire": 27
+  },
+  "lists": {
+   "churches": {
+    "n": 544,
+    "top": [
+     {
+      "qid": "Q2942532",
+      "label": "St Patrick's Cathedral, Armagh",
+      "date": "AD 445",
+      "year": 445,
+      "county": "",
+      "nation": "",
+      "state": "standing",
+      "today": "original",
+      "enwiki": "St_Patrick%27s_Cathedral,_Armagh_(Church_of_Ireland)",
+      "fuzzy": 0
+     },
+     {
+      "qid": "Q1260042",
+      "label": "Candida Casa",
+      "date": "5th century",
+      "year": 450,
+      "county": "Dumfries and Galloway",
+      "nation": "Scotland",
+      "state": "ruin",
+      "today": "ruin",
+      "enwiki": "Candida_Casa",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q13125318",
+      "label": "Bardsey Abbey",
+      "date": "5th century",
+      "year": 450,
+      "county": "Gwynedd",
+      "nation": "Wales",
+      "state": "standing",
+      "today": "original",
+      "enwiki": "St_Mary%27s_Abbey_ruins,_Bardsey_Island",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q13130875",
+      "label": "Caldey Priory",
+      "date": "5th century",
+      "year": 450,
+      "county": "Dyfed",
+      "nation": "Wales",
+      "state": "standing",
+      "today": "original",
+      "enwiki": "Caldey_Priory",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q3367688",
+      "label": "Movilla Abbey",
+      "date": "AD 540",
+      "year": 540,
+      "county": "",
+      "nation": "",
+      "state": "standing",
+      "today": "original",
+      "enwiki": "Movilla_Abbey",
+      "fuzzy": 0
+     },
+     {
+      "qid": "Q840462",
+      "label": "St Martin's Church",
+      "date": "6th century",
+      "year": 550,
+      "county": "Kent",
+      "nation": "England",
+      "state": "standing",
+      "today": "original",
+      "enwiki": "St_Martin%27s_Church,_Canterbury",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q1991360",
+      "label": "Bangor Cathedral",
+      "date": "6th century",
+      "year": 550,
+      "county": "Gwynedd",
+      "nation": "Wales",
+      "state": "standing",
+      "today": "original",
+      "enwiki": "Bangor_Cathedral",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q591192",
+      "label": "Bangor Abbey",
+      "date": "6th century",
+      "year": 550,
+      "county": "",
+      "nation": "",
+      "state": "standing",
+      "today": "original",
+      "enwiki": "Bangor_Abbey",
+      "fuzzy": 1
+     }
+    ]
+   },
+   "castles": {
+    "n": 64,
+    "top": [
+     {
+      "qid": "Q17643298",
+      "label": "Marlborough Mound",
+      "date": "3rd millennium BC",
+      "year": -2500,
+      "county": "Wiltshire",
+      "nation": "England",
+      "state": "earthwork",
+      "today": "earthwork",
+      "enwiki": "Marlborough_Mound",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q12071213",
+      "label": "Tomen y Mur",
+      "date": "AD 100",
+      "year": 100,
+      "county": "Gwynedd",
+      "nation": "Wales",
+      "state": "earthwork",
+      "today": "earthwork",
+      "enwiki": "Tomen_y_Mur",
+      "fuzzy": 0
+     },
+     {
+      "qid": "Q7860523",
+      "label": "Tynemouth Castle and Priory",
+      "date": "7th century",
+      "year": 650,
+      "county": "Tyne and Wear",
+      "nation": "England",
+      "state": "standing",
+      "today": "museum",
+      "enwiki": "Tynemouth_Priory_and_Castle",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q7594625",
+      "label": "St Mary sub Castro, Dover",
+      "date": "7th century",
+      "year": 650,
+      "county": "Kent",
+      "nation": "England",
+      "state": "standing",
+      "today": "original",
+      "enwiki": "St_Mary_sub_Castro,_Dover",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q8030602",
+      "label": "Wolvesey Castle",
+      "date": "AD 970",
+      "year": 970,
+      "county": "Hampshire",
+      "nation": "England",
+      "state": "standing",
+      "today": "unknown",
+      "enwiki": "Wolvesey_Castle",
+      "fuzzy": 0
+     },
+     {
+      "qid": "Q3939808",
+      "label": "Rockingham Castle",
+      "date": "1000s",
+      "year": 1000,
+      "county": "Northamptonshire",
+      "nation": "England",
+      "state": "standing",
+      "today": "museum",
+      "enwiki": "Rockingham_Castle",
+      "fuzzy": 0
+     },
+     {
+      "qid": "Q1102669",
+      "label": "Clough Castle",
+      "date": "1000s",
+      "year": 1000,
+      "county": "",
+      "nation": "",
+      "state": "standing",
+      "today": "unknown",
+      "enwiki": "Clough_Castle",
+      "fuzzy": 0
+     },
+     {
+      "qid": "Q2060243",
+      "label": "Delgatie Castle",
+      "date": "AD 1049",
+      "year": 1049,
+      "county": "Aberdeenshire",
+      "nation": "Scotland",
+      "state": "standing",
+      "today": "unknown",
+      "enwiki": "Delgatie_Castle",
+      "fuzzy": 0
+     }
+    ]
+   },
+   "houses": {
+    "n": 20,
+    "top": [
+     {
+      "qid": "Q29499398",
+      "label": "Rhyd-y-Cilgwyn",
+      "date": "AD 17",
+      "year": 17,
+      "county": "Clwyd",
+      "nation": "Wales",
+      "state": "standing",
+      "today": "unknown",
+      "enwiki": "",
+      "fuzzy": 0
+     },
+     {
+      "qid": "Q1690886",
+      "label": "Woodchester Roman Villa",
+      "date": "2nd century",
+      "year": 150,
+      "county": "Gloucestershire",
+      "nation": "England",
+      "state": "ruin",
+      "today": "ruin",
+      "enwiki": "Woodchester_Roman_Villa",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q7860523",
+      "label": "Tynemouth Castle and Priory",
+      "date": "7th century",
+      "year": 650,
+      "county": "Tyne and Wear",
+      "nation": "England",
+      "state": "standing",
+      "today": "museum",
+      "enwiki": "Tynemouth_Priory_and_Castle",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q6931026",
+      "label": "Muchelney Abbey",
+      "date": "10th century",
+      "year": 950,
+      "county": "Somerset",
+      "nation": "England",
+      "state": "standing",
+      "today": "museum",
+      "enwiki": "Muchelney_Abbey",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q3939808",
+      "label": "Rockingham Castle",
+      "date": "1000s",
+      "year": 1000,
+      "county": "Northamptonshire",
+      "nation": "England",
+      "state": "standing",
+      "today": "museum",
+      "enwiki": "Rockingham_Castle",
+      "fuzzy": 0
+     },
+     {
+      "qid": "Q7594961",
+      "label": "St Nicholas Priory",
+      "date": "11th century",
+      "year": 1050,
+      "county": "Devon",
+      "nation": "England",
+      "state": "standing",
+      "today": "museum",
+      "enwiki": "St_Nicholas%27_Priory,_Exeter",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q576369",
+      "label": "Ludlow Castle",
+      "date": "AD 1066",
+      "year": 1066,
+      "county": "Shropshire",
+      "nation": "England",
+      "state": "standing",
+      "today": "museum",
+      "enwiki": "Ludlow_Castle",
+      "fuzzy": 0
+     },
+     {
+      "qid": "Q2363520",
+      "label": "Hertford Castle",
+      "date": "AD 1066",
+      "year": 1066,
+      "county": "Hertfordshire",
+      "nation": "England",
+      "state": "standing",
+      "today": "unknown",
+      "enwiki": "Hertford_Castle",
+      "fuzzy": 0
+     }
+    ]
+   },
+   "towers": {
+    "n": 3,
+    "top": [
+     {
+      "qid": "Q579381",
+      "label": "All Hallows-by-the-Tower",
+      "date": "AD 675",
+      "year": 675,
+      "county": "Greater London",
+      "nation": "England",
+      "state": "standing",
+      "today": "original",
+      "enwiki": "All_Hallows-by-the-Tower",
+      "fuzzy": 0
+     },
+     {
+      "qid": "Q2403338",
+      "label": "St John's Chapel, Tower of London",
+      "date": "11th century",
+      "year": 1050,
+      "county": "Greater London",
+      "nation": "England",
+      "state": "standing",
+      "today": "original",
+      "enwiki": "St_John%27s_Chapel,_London",
+      "fuzzy": 1
+     },
+     {
+      "qid": "Q62378",
+      "label": "Tower of London",
+      "date": "AD 1066",
+      "year": 1066,
+      "county": "Greater London",
+      "nation": "England",
+      "state": "standing",
+      "today": "unknown",
+      "enwiki": "Tower_of_London",
+      "fuzzy": 0
+     }
+    ]
+   },
+   "bridges": {
+    "n": 1,
+    "top": [
+     {
+      "qid": "Q5093849",
+      "label": "Chesters Bridge",
+      "date": "AD 122",
+      "year": 122,
+      "county": "Northumberland",
+      "nation": "England",
+      "state": "standing",
+      "today": "unknown",
+      "enwiki": "Chesters_Bridge",
+      "fuzzy": 0
+     }
+    ]
+   }
+  },
+  "ref": {
+   "n": 99,
+   "matched": 45,
+   "by_table": {
+    "Norman to 1100": 36,
+    "Anglo-Saxon and early medieval": 28,
+    "Iron Age and Roman": 23,
+    "Prehistoric": 12
+   },
+   "by_category": {
+    "church": 45,
+    "castle": 21,
+    "tower": 10,
+    "house": 9,
+    "tomb": 9,
+    "public": 4,
+    "other": 1
+   },
+   "first": {
+    "house": [
+     {
+      "building": "Knap of Howar",
+      "location": "Papa Westray, Orkney",
+      "date": "3800 BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Skara Brae",
+      "location": "Bay of Skaill, Mainland Orkney",
+      "date": "3100 BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Barnhouse Settlement",
+      "location": "Stenness, Mainland Orkney",
+      "date": "2600 BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Grimspound",
+      "location": "Dartmoor, Devon",
+      "date": "1300 BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Jarlshof",
+      "location": "Sumburgh, Shetland",
+      "date": "200 BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Painted House",
+      "location": "Dover, Kent",
+      "date": "c. 200",
+      "qid": "",
+      "cat_date": ""
+     }
+    ],
+    "tomb": [
+     {
+      "building": "West Kennet Long Barrow",
+      "location": "Wiltshire",
+      "date": "3650 BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Trethevy Quoit",
+      "location": "Tremar, Cornwall",
+      "date": "3700 to 3500 BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Midhowe Chambered Cairn",
+      "location": "Rousay, Orkney",
+      "date": "3500 BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Pentre Ifan",
+      "location": "Nanhyfer, Pembrokeshire",
+      "date": "3500 BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Tomb of the Eagles",
+      "location": "South Ronaldsay, Orkney",
+      "date": "3150 BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Unstan Chambered Cairn",
+      "location": "Stenness, Mainland Orkney",
+      "date": "3400 to 2800 BC",
+      "qid": "",
+      "cat_date": ""
+     }
+    ],
+    "tower": [
+     {
+      "building": "Broch of Mousa",
+      "location": "Mousa, Shetland",
+      "date": "1st century BC",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Roman lighthouse at Dover Castle",
+      "location": "Dover, Kent",
+      "date": "1st century",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Edin's Hall Broch",
+      "location": "Duns, Berwickshire",
+      "date": "c. 140",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Multangular Tower",
+      "location": "York",
+      "date": "4th century",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Anglian Tower",
+      "location": "York",
+      "date": "7th century",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "All Saints' Church",
+      "location": "Earls Barton, Northamptonshire",
+      "date": "c. 970",
+      "qid": "Q4729314",
+      "cat_date": "10th century"
+     }
+    ],
+    "public": [
+     {
+      "building": "Caerleon Roman Amphitheatre",
+      "location": "Caerleon, Newport",
+      "date": "c. 80",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Viroconium",
+      "location": "Wroxeter, Shropshire",
+      "date": "1st to 2nd century",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Walls Castle",
+      "location": "Ravenglass, Cumbria",
+      "date": "c. 120",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Jewry Wall",
+      "location": "Leicester, Leicestershire",
+      "date": "c. 125",
+      "qid": "",
+      "cat_date": ""
+     }
+    ],
+    "church": [
+     {
+      "building": "Temple of Claudius",
+      "location": "Colchester, Essex",
+      "date": "c. 60",
+      "qid": "Q764886",
+      "cat_date": "AD 54"
+     },
+     {
+      "building": "St Martin's Church",
+      "location": "Canterbury, Kent",
+      "date": "597",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "St Mary's Priory",
+      "location": "Deerhurst, Gloucestershire",
+      "date": "7th century",
+      "qid": "Q1087515",
+      "cat_date": "AD 1075"
+     },
+     {
+      "building": "St Laurence's Church",
+      "location": "Bradford on Avon, Wiltshire",
+      "date": "7th century",
+      "qid": "Q17528498",
+      "cat_date": "11th century"
+     },
+     {
+      "building": "St Peter-on-the-Wall",
+      "location": "Bradwell-on-Sea, Essex",
+      "date": "654",
+      "qid": "Q5073092",
+      "cat_date": "AD 654"
+     },
+     {
+      "building": "Escomb Church",
+      "location": "Escomb, County Durham",
+      "date": "670",
+      "qid": "Q5397373",
+      "cat_date": "7th century"
+     }
+    ],
+    "castle": [
+     {
+      "building": "Vinovia",
+      "location": "Bishop Auckland, County Durham",
+      "date": "mid 70s",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Balkerne Gate",
+      "location": "Colchester, Essex",
+      "date": "c. 80",
+      "qid": "Q15964714",
+      "cat_date": "1st century"
+     },
+     {
+      "building": "Hadrian's Wall",
+      "location": "Northern England",
+      "date": "c. 122",
+      "qid": "Q57357",
+      "cat_date": "AD 122"
+     },
+     {
+      "building": "Housesteads Roman Fort",
+      "location": "Hexham, Northumberland",
+      "date": "c. 124",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "Hardknott Roman Fort",
+      "location": "Cumbria",
+      "date": "c. 120 to 138",
+      "qid": "",
+      "cat_date": ""
+     },
+     {
+      "building": "London Wall",
+      "location": "London",
+      "date": "c. 200",
+      "qid": "Q17663848",
+      "cat_date": "AD 110"
+     }
+    ],
+    "other": [
+     {
+      "building": "Nendrum Monastery mill",
+      "location": "Mahee Island, County Down",
+      "date": "619",
+      "qid": "",
+      "cat_date": ""
+     }
+    ]
+   },
+   "unmatched_prehistoric": 12,
+   "n_prehistoric": 12
+  },
+  "nw": {
+   "n": 18,
+   "counties": {
+    "Lancashire": 5,
+    "Cumbria": 6,
+    "Merseyside": 0,
+    "Greater Manchester": 1,
+    "Cheshire": 6
+   },
+   "items": [
+    {
+     "qid": "Q6813180",
+     "label": "Mellor hill fort",
+     "date": "1st millennium BC",
+     "county": "Greater Manchester",
+     "state": "earthwork",
+     "today": "earthwork",
+     "use": "defensive",
+     "enwiki": "Mellor_hill_fort"
+    },
+    {
+     "qid": "Q4960578",
+     "label": "Bremetennacum",
+     "date": "AD 72",
+     "county": "Lancashire",
+     "state": "ruin",
+     "today": "ruin",
+     "use": "defensive",
+     "enwiki": "Bremetennacum"
+    },
+    {
+     "qid": "Q7595250",
+     "label": "St Peter's Church, Heysham",
+     "date": "7th century",
+     "county": "Lancashire",
+     "state": "standing",
+     "today": "original",
+     "use": "religious",
+     "enwiki": "St_Peter%27s_Church,_Heysham"
+    },
+    {
+     "qid": "Q7595057",
+     "label": "St Patrick's Chapel, Heysham",
+     "date": "8th century",
+     "county": "Lancashire",
+     "state": "standing",
+     "today": "original",
+     "use": "religious",
+     "enwiki": "St_Patrick%27s_Chapel,_Heysham"
+    },
+    {
+     "qid": "Q2301986",
+     "label": "Halton Castle",
+     "date": "11th century",
+     "county": "Cheshire",
+     "state": "ruin",
+     "today": "ruin",
+     "use": "defensive",
+     "enwiki": "Halton_Castle"
+    },
+    {
+     "qid": "Q7165389",
+     "label": "Penwortham Priory",
+     "date": "11th century",
+     "county": "Lancashire",
+     "state": "standing",
+     "today": "unknown",
+     "use": "unknown",
+     "enwiki": "Penwortham_Priory"
+    },
+    {
+     "qid": "Q7592339",
+     "label": "St Andrew's Church, Crosby Garrett",
+     "date": "11th century",
+     "county": "Cumbria",
+     "state": "standing",
+     "today": "original",
+     "use": "religious",
+     "enwiki": "St_Andrew%27s_Church,_Crosby_Garrett"
+    },
+    {
+     "qid": "Q7592717",
+     "label": "St Bridget's Church, Brigham",
+     "date": "11th century",
+     "county": "Cumbria",
+     "state": "standing",
+     "today": "original",
+     "use": "religious",
+     "enwiki": "St_Bridget%27s_Church,_Brigham"
+    },
+    {
+     "qid": "Q7593438",
+     "label": "St James' Church, Great Ormside",
+     "date": "11th century",
+     "county": "Cumbria",
+     "state": "standing",
+     "today": "original",
+     "use": "religious",
+     "enwiki": "St_James%27_Church,_Great_Ormside"
+    },
+    {
+     "qid": "Q7593714",
+     "label": "St John the Baptist's Church, Chester",
+     "date": "11th century",
+     "county": "Cheshire",
+     "state": "standing",
+     "today": "original",
+     "use": "religious",
+     "enwiki": "St_John_the_Baptist%27s_Church,_Chester"
+    },
+    {
+     "qid": "Q7593933",
+     "label": "St Laurence's Church, Morland",
+     "date": "11th century",
+     "county": "Cumbria",
+     "state": "standing",
+     "today": "original",
+     "use": "religious",
+     "enwiki": "St_Laurence%27s_Church,_Morland"
+    },
+    {
+     "qid": "Q7594780",
+     "label": "St Michael's Church, Shotwick",
+     "date": "11th century",
+     "county": "Cheshire",
+     "state": "standing",
+     "today": "original",
+     "use": "religious",
+     "enwiki": "St_Michael%27s_Church,_Shotwick"
+    },
+    {
+     "qid": "Q505858",
+     "label": "Chester Castle",
+     "date": "AD 1069",
+     "county": "Cheshire",
+     "state": "standing",
+     "today": "unknown",
+     "use": "defensive",
+     "enwiki": "Chester_Castle"
+    },
+    {
+     "qid": "Q33101787",
+     "label": "St Werburgh's Abbey, Chester",
+     "date": "1090s",
+     "county": "Cheshire",
+     "state": "standing",
+     "today": "original",
+     "use": "religious",
+     "enwiki": "Abbey_of_St_Werburgh"
+    },
+    {
+     "qid": "Q2351225",
+     "label": "Brough Castle",
+     "date": "AD 1092",
+     "county": "Cumbria",
+     "state": "standing",
+     "today": "unknown",
+     "use": "defensive",
+     "enwiki": "Brough_Castle"
+    },
+    {
+     "qid": "Q2969640",
+     "label": "Lancaster Castle",
+     "date": "AD 1093",
+     "county": "Lancashire",
+     "state": "standing",
+     "today": "changed",
+     "use": "defensive",
+     "enwiki": "Lancaster_Castle"
+    },
+    {
+     "qid": "Q614836",
+     "label": "Carlisle Castle",
+     "date": "AD 1093",
+     "county": "Cumbria",
+     "state": "standing",
+     "today": "unknown",
+     "use": "defensive",
+     "enwiki": "Carlisle_Castle"
+    },
+    {
+     "qid": "Q7502621",
+     "label": "Shotwick Castle",
+     "date": "AD 1093",
+     "county": "Cheshire",
+     "state": "earthwork",
+     "today": "earthwork",
+     "use": "defensive",
+     "enwiki": "Shotwick_Castle"
+    }
+   ],
+   "lancs": 5
+  }
+ },
+ "headline": {
+  "religious_share": 0.6535029983911073,
+  "original_share": 0.575983618546146,
+  "ruin_share": 0.16966505777387744,
+  "lost_share": 0.030715225976305396,
+  "stone_share": 0.746268656716418,
+  "sacred_before": 0.7323387450636244,
+  "sacred_after": 0.5874626865671642,
+  "relig_before": 0.6535029983911073,
+  "relig_after": 0.5819402985074626,
+  "def_before": 0.14011993564428843,
+  "def_after": 0.1522636815920398,
+  "dom_before": 0.04270879040514846,
+  "dom_after": 0.125,
+  "uk_n": 785,
+  "japan_n": 1380,
+  "italy_n": 947,
+  "oldest_standing_examples": [
+   {
+    "label": "Blinkerwall",
+    "date": "10th millennium BC",
+    "country": "Germany"
+   },
+   {
+    "label": "",
+    "date": "5250s BC",
+    "country": "Czech Republic"
+   },
+   {
+    "label": "Bent Pyramid",
+    "date": "2699 BC",
+    "country": "Egypt"
+   },
+   {
+    "label": "Meidum Pyramid",
+    "date": "27th century BC",
+    "country": "Egypt"
+   },
+   {
+    "label": "Pyramid of Djoser",
+    "date": "2639 BC",
+    "country": "Egypt"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "qid": "Q37200",
+   "label": "Great Pyramid of Giza",
+   "date": "2559 BC",
+   "year": -2559,
+   "country": "Egypt",
+   "use": "funerary",
+   "today": "unknown",
+   "state": "standing",
+   "materials": "stone",
+   "sitelinks": 126,
+   "enwiki": "Great_Pyramid_of_Giza",
+   "text": "A tomb built as a mountain of limestone. Nothing to reuse, nothing to repair: sheer mass is its survival plan."
+  },
+  {
+   "qid": "Q10288",
+   "label": "Parthenon",
+   "date": "5th century BC",
+   "year": -450,
+   "country": "Greece",
+   "use": "religious",
+   "today": "ruin",
+   "state": "ruin",
+   "materials": "stone",
+   "sitelinks": 138,
+   "enwiki": "Parthenon",
+   "text": "A temple, then a church, then a mosque, then a powder store that blew up in 1687. It survives as a ruin, not a building."
+  },
+  {
+   "qid": "Q99309",
+   "label": "Pantheon",
+   "date": "2nd century",
+   "year": 150,
+   "country": "Italy",
+   "use": "religious",
+   "today": "changed",
+   "state": "standing",
+   "materials": "",
+   "sitelinks": 81,
+   "enwiki": "Pantheon,_Rome",
+   "text": "A Roman temple that became a church in the 7th century. Continuous use kept its concrete dome roofed."
+  },
+  {
+   "qid": "Q12506",
+   "label": "Hagia Sophia",
+   "date": "AD 360",
+   "year": 360,
+   "country": "Turkey",
+   "use": "religious",
+   "today": "original",
+   "state": "standing",
+   "materials": "brick",
+   "sitelinks": 152,
+   "enwiki": "Hagia_Sophia",
+   "text": "Church, mosque, museum and mosque again. It changed faith but never lost its job, or its roof."
+  },
+  {
+   "qid": "Q10285",
+   "label": "Colosseum",
+   "date": "AD 82",
+   "year": 82,
+   "country": "Italy",
+   "use": "civic",
+   "today": "ruin",
+   "state": "ruin",
+   "materials": "stone",
+   "sitelinks": 148,
+   "enwiki": "Colosseum",
+   "text": "An arena turned quarry, fortress and housing. What was not robbed for stone stands as a ruin."
+  },
+  {
+   "qid": "Q43473",
+   "label": "Angkor Wat",
+   "date": "AD 802",
+   "year": 802,
+   "country": "Cambodia",
+   "use": "religious",
+   "today": "original",
+   "state": "standing",
+   "materials": "",
+   "sitelinks": 137,
+   "enwiki": "Angkor_Wat",
+   "text": "A Hindu, then Buddhist temple in Cambodia, never fully abandoned."
+  },
+  {
+   "qid": "Q5933",
+   "label": "Westminster Abbey",
+   "date": "10th century",
+   "year": 950,
+   "country": "United Kingdom",
+   "use": "religious",
+   "today": "original",
+   "state": "standing",
+   "materials": "",
+   "sitelinks": 91,
+   "enwiki": "Westminster_Abbey",
+   "text": "Founded before 1100, but the abbey church you see is largely Gothic, rebuilt from the 13th century."
+  },
+  {
+   "qid": "Q62378",
+   "label": "Tower of London",
+   "date": "AD 1066",
+   "year": 1066,
+   "country": "United Kingdom",
+   "use": "defensive",
+   "today": "unknown",
+   "state": "standing",
+   "materials": "stone",
+   "sitelinks": 88,
+   "enwiki": "Tower_of_London",
+   "text": "A Norman keep that stayed useful: royal palace, prison, armoury, treasury, museum."
+  },
+  {
+   "qid": "Q43244",
+   "label": "Lighthouse of Alexandria",
+   "date": "278 BC",
+   "year": -278,
+   "country": "Egypt",
+   "use": "infrastructure",
+   "today": "lost",
+   "state": "lost",
+   "materials": "",
+   "sitelinks": 96,
+   "enwiki": "Lighthouse_of_Alexandria",
+   "text": "One of the most famous lost buildings: brought down by earthquakes. Wikidata records it as destroyed."
+  },
+  {
+   "qid": "Q221716",
+   "label": "Kiyomizu-dera",
+   "date": "AD 778",
+   "year": 778,
+   "country": "Japan",
+   "use": "religious",
+   "today": "original",
+   "state": "standing",
+   "materials": "",
+   "sitelinks": 77,
+   "enwiki": "Kiyomizu-dera",
+   "text": "Founded in 778; the timber halls standing today were rebuilt in the 1630s, as Japanese temples often are."
+  },
+  {
+   "qid": "Q57357",
+   "label": "Hadrian's Wall",
+   "date": "AD 122",
+   "year": 122,
+   "country": "United Kingdom",
+   "use": "defensive",
+   "today": "unknown",
+   "state": "standing",
+   "materials": "",
+   "sitelinks": 82,
+   "enwiki": "Hadrian%27s_Wall",
+   "text": "A frontier wall of stone and turf. Long stretches were robbed for farm buildings and a road."
+  },
+  {
+   "qid": "Q187702",
+   "label": "Church of the Holy Sepulchre",
+   "date": "AD 335",
+   "year": 335,
+   "country": "Israel",
+   "use": "religious",
+   "today": "original",
+   "state": "standing",
+   "materials": "stone",
+   "sitelinks": 76,
+   "enwiki": "Church_of_the_Holy_Sepulchre",
+   "text": "Founded in the 4th century, burned, wrecked and rebuilt, but always a place of worship."
+  }
+ ],
+ "earthwork_japan": {
+  "n": 234,
+  "km_japan": 5.35,
+  "km_other": 29.8
+ },
+ "shrine_series_n": 98,
+ "outside_map_window": 11
+}

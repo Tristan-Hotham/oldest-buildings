@@ -1,0 +1,354 @@
+country,rank,qid,label,date_text,year_rep,fuzzy,use,state,today,classes,enwiki
+Japan,1,Q117316433,Suwa Shrine,90 BC,-90,0,religious,standing,original,Shinto shrine|Suwa Shrine,
+Japan,2,Q687168,Ise Jingū,3 BC,-3,0,religious,standing,original,Shikinai Supershrine|Shinto shrine|jingū,Ise_Shrine
+Japan,3,Q116469453,Syukugawara Inari,AD 1,1,0,religious,standing,original,Inari shrine,
+Japan,4,Q94760,Kotohira-gū,1st century,50,1,religious,standing,original,Kotohira shrine|Shikinai Ronsha|Shinto shrine,Kotohira-g%C5%AB
+Japan,5,Q11383014,Saeno Shrine,AD 110,110,0,religious,standing,original,Shikinaisha|Shinto shrine|keidai-sha,
+Italy,1,Q1444766,Vatican obelisk,19th century BC,-1850,1,commemorative,standing,unknown,obelisk,Vatican_obelisk
+Italy,2,Q62015486,Castelliere,1699 BC,-1699,0,defensive,ruin,ruin,castelliere,
+Italy,3,Q645181,Lateran Obelisk,1499 BC,-1499,0,commemorative,standing,unknown,obelisk,Lateran_Obelisk
+Italy,4,Q568194,Flaminio Obelisk,14th century BC,-1350,1,commemorative,standing,unknown,monument|obelisk,Flaminio_Obelisk
+Italy,5,Q3348579,Dogali obelisk,14th century BC,-1350,1,commemorative,standing,unknown,obelisk,
+United Kingdom,1,Q5142542,Coldrum Long Barrow,4th millennium BC,-3500,1,funerary,earthwork,earthwork,long barrow,Coldrum_Long_Barrow
+United Kingdom,2,Q1738425,,3499 BC,-3499,0,funerary,ruin,ruin,dolmen,Pentre_Ifan
+United Kingdom,3,Q6517664,Legananny Dolmen,2999 BC,-2999,0,funerary,ruin,ruin,dolmen,Legananny_Dolmen
+United Kingdom,4,Q880846,Blackhammer Chambered Cairn,2999 BC,-2999,0,funerary,earthwork,earthwork,chambered cairn,Blackhammer_Chambered_Cairn
+United Kingdom,5,Q13130575,Pant-y-Saer,2999 BC,-2999,0,funerary,earthwork,earthwork,chambered cairn,Pant-y-Saer_Burial_Chamber
+Germany,1,Q124519928,Blinkerwall,10th millennium BC,-9500,1,defensive,standing,unknown,submerged structure|wall,
+Germany,2,Q830422,Bad Dürrenberg burial,7th millennium BC,-6500,1,funerary,ruin,ruin,grave,Bad_D%C3%BCrrenberg_burial
+Germany,3,Q1907404,Talheim Death Pit,51st century BC,-5050,1,funerary,ruin,ruin,mass grave,Talheim_Death_Pit
+Germany,4,Q675018,Goseck circle,49th century BC,-4850,1,unknown,ruin,ruin,Rondel enclosure,Goseck_Circle
+Germany,5,Q1784571,Pöppendorfer Großsteingrab,3499 BC,-3499,0,funerary,ruin,ruin,dolmen|passage grave,
+Spain,1,Q20170929,Dolmen of Guadalperal,3999 BC,-3999,0,funerary,ruin,ruin,dolmen|submerged structure,Dolmen_of_Guadalperal
+Spain,2,Q6154669,Túmulo de Los Tiesos,3499 BC,-3499,0,funerary,earthwork,earthwork,tumulus,
+Spain,3,Q114788856,"dolmen of the House of the Moor, Casillas de Flores",3rd millennium BC,-2500,1,funerary,ruin,ruin,dolmen,
+Spain,4,Q50689112,Roza das Modias,2499 BC,-2499,0,funerary,ruin,ruin,dolmen|necropolis,
+Spain,5,Q16518404,Mulisko Gaina,1999 BC,-1999,0,funerary,ruin,ruin,necropolis,
+France,1,Q808456,Barnenez,5th millennium BC,-4500,1,funerary,earthwork,earthwork,cairn|dolmen,Barnenez
+France,2,Q1347902,tumulus d'Er Grah,45th century BC,-4450,1,funerary,earthwork,earthwork,tumulus,
+France,3,Q16031910,dolmen de la Coma Enestapera,4th millennium BC,-3500,1,funerary,ruin,ruin,dolmen,Coma_Enestapera_dolmen
+France,4,Q1235858,La Joselière dolmen,4th millennium BC,-3500,1,funerary,ruin,ruin,transepted dolmen,
+France,5,Q1258182,Les Mousseaux tumulus,4th millennium BC,-3500,1,funerary,earthwork,earthwork,transepted dolmen|tumulus,
+China,1,Q12501,Great Wall of China,700s BC,-700,0,defensive,standing,unknown,cordon,Great_Wall_of_China
+China,2,Q60993511,Jiwanggu Tombs,6th century BC,-550,1,funerary,ruin,ruin,grave,
+China,3,Q1167293,Yinqueshan Han Slips,3rd century BC,-250,1,funerary,ruin,ruin,grave,Yinqueshan_Han_Slips
+China,4,Q47672,Terracotta Army,247 BC,-247,0,funerary,ruin,ruin,mausoleum,Terracotta_Army
+China,5,Q909541,Yangguan,119 BC,-119,0,defensive,standing,unknown,watchtower,Yang_Pass
+Syria,1,Q1887409,Royal Palace of Mari,1799 BC,-1799,0,domestic,ruin,ruin,royal palace,Royal_Palace_of_Mari
+Syria,2,Q121764043,Strategeion,299 BC,-299,0,domestic,ruin,ruin,palace|ruins,
+Syria,3,Q98930725,Palmyrene Gate,155 BC,-155,0,defensive,ruin,ruin,city gate|gate|ruins,
+Syria,4,Q107368504,"Tower 3, Dura-Europos",155 BC,-155,0,defensive,ruin,ruin,defensive tower|ruins,
+Syria,5,Q107368511,"Tower 1, Dura-Europos",155 BC,-155,0,defensive,ruin,ruin,defensive tower|ruins,
+Greece,1,Q9054486,palace of Phaistos,19th century BC,-1850,1,domestic,ruin,ruin,palace,
+Greece,2,Q529246,Anemospilia,17th century BC,-1650,1,religious,ruin,ruin,ancient Greek temple|religious building ruin,Anemospilia
+Greece,3,Q9054457,Palace of Knossos,1649 BC,-1649,0,domestic,ruin,ruin,palace,
+Greece,4,Q38280482,"Ancient Tylissos, House A",16th century BC,-1550,1,domestic,ruin,ruin,mansion,
+Greece,5,Q38282016,Prehistoric building at Olympia,2nd millennium BC,-1500,1,unknown,ruin,ruin,building,
+Turkey,1,Q6099672,Boncuklu Höyük,85th century BC,-8450,1,funerary,earthwork,earthwork,mound,Boncuklu_H%C3%B6y%C3%BCk
+Turkey,2,Q1039186,Zincirli Höyük,2999 BC,-2999,0,funerary,site,ruin,mound|tell,Sam%CA%BEal
+Turkey,3,Q763854,Obelisk of Theodosius,15th century BC,-1450,1,commemorative,standing,unknown,obelisk,Obelisk_of_Theodosius
+Turkey,4,Q96760008,"Lion Gate, Hattusa",14th century BC,-1350,1,defensive,standing,unknown,gate,
+Turkey,5,Q1404388,Karabel relief,13th century BC,-1250,1,unknown,standing,unknown,monument,Karabel_relief
+Armenia,1,Q42894922,,3rd millennium BC,-2500,1,defensive,ruin,ruin,fortress,
+Armenia,2,Q13054281,Norashen Cyclopean Fortress,2nd millennium BC,-1500,1,defensive,ruin,ruin,fortress,
+Armenia,3,Q13055249,Okon castle,999 BC,-999,0,defensive,ruin,ruin,fortress,Okon_Castle
+Armenia,4,Q733610,Erebuni Fortress,781 BC,-781,0,defensive,ruin,ruin,fortress,Erebuni_Fortress
+Armenia,5,Q16378373,"Dalma garden canal, Yerevan",7th century BC,-650,1,infrastructure,standing,unknown,canal,
+Libya,1,Q106020259,Tinda,749 BC,-749,0,funerary,ruin,ruin,funerary structure,
+Libya,2,Q106417982,Quşūr al Būmbah,749 BC,-749,0,unknown,ruin,ruin,ruins,
+Libya,3,Q104776460,"Temple of the Dioscuri, Cyrene",7th century BC,-650,1,religious,standing,original,public building|religious building|temple,
+Libya,4,Q104776605,"Temple of Apollo Archegetes, Cyrene",7th century BC,-650,1,religious,ruin,ruin,altar|public building|temple,
+Libya,5,Q82073864,Temple of Apollo in Cyrene,6th century BC,-550,1,religious,ruin,ruin,ancient Greek temple|structure of worship,
+Egypt,1,Q459608,Bent Pyramid,2699 BC,-2699,0,funerary,standing,unknown,Egyptian pyramids|smooth-sided pyramid,Bent_Pyramid
+Egypt,2,Q13444093,Meidum Pyramid,27th century BC,-2650,1,funerary,standing,changed,Egyptian pyramids|step pyramid,Meidum_Pyramid
+Egypt,3,Q192418,Pyramid of Djoser,2639 BC,-2639,0,funerary,standing,unknown,Egyptian pyramids|step pyramid,Pyramid_of_Djoser
+Egypt,4,Q135332,Red Pyramid,2589 BC,-2589,0,funerary,standing,unknown,Egyptian pyramids|smooth-sided pyramid,Red_Pyramid
+Egypt,5,Q685414,Dahshur,2588 BC,-2588,0,funerary,ruin,ruin,necropolis,Dahshur
+Russia,1,Q30889392,,3rd millennium BC,-2500,1,unknown,ruin,ruin,architectural landmark,
+Russia,2,Q2657856,Quay with Sphinxes,1454 BC,-1454,0,infrastructure,standing,unknown,architectural landmark|pier,Quay_with_Sphinxes
+Russia,3,Q638445,Chersonesus,5th century BC,-450,1,unknown,ruin,ruin,historic site,Chersonesus
+Russia,4,Q122512366,Belyaus,4th century BC,-350,1,defensive,earthwork,earthwork,hillfort,
+Russia,5,Q25421638,Kulchuk Settlement,4th century BC,-350,1,defensive,earthwork,earthwork,hillfort,
+Switzerland,1,Q610371,Augusta Raurica,43 BC,-43,0,civic,ruin,ruin,ancient Roman structure|thermae,Augusta_Raurica
+Switzerland,2,Q29711714,Temple of Vandœuvres,AD 5,5,0,religious,standing,original,church building,
+Switzerland,3,Q97327413,Römerbrücke Eschenz,AD 82,82,0,infrastructure,standing,unknown,Roman bridge,
+Switzerland,4,Q2175223,Ruine Bürg,AD 113,113,0,defensive,ruin,ruin,castle ruin,
+Switzerland,5,Q19362379,"Sand ditch, part of the late Roman Rhine fortifications",4th century,350,1,defensive,ruin,ruin,Warte|fortification,
+Czech Republic,1,Q84986912,,5250s BC,-5250,0,infrastructure,standing,unknown,water well,
+Czech Republic,2,Q11903507,Vladař,14th century BC,-1350,1,defensive,earthwork,earthwork,hillfort,
+Czech Republic,3,Q29549657,Drahovice,10th century BC,-950,1,defensive,earthwork,earthwork,hillfort,
+Czech Republic,4,Q37820794,Minice,6th century BC,-550,1,defensive,earthwork,earthwork,hillfort,
+Czech Republic,5,Q11171937,Černov (hradiště),4th century BC,-350,1,defensive,earthwork,earthwork,hillfort,
+India,1,Q2722759,Jaigarh Fort,10th century BC,-950,1,defensive,ruin,ruin,fort,Jaigarh_Fort
+India,2,Q184427,Ajanta Caves,2nd century BC,-150,1,religious,ruin,ruin,artificial cave|grotto|temple,Ajanta_Caves
+India,3,Q1854330,Heliodorus Pillar,2nd century BC,-150,1,commemorative,standing,unknown,victory column,Heliodorus_pillar
+India,4,Q17986822,Golconda Fort,AD 12,12,0,defensive,standing,original,fort,
+India,5,Q62915972,Alai Minar,AD 14,14,0,unknown,standing,unknown,unfinished building,
+Austria,1,Q133550540,,3999 BC,-3999,0,domestic,site,ruin,stilt house,
+Austria,2,Q133550544,,3999 BC,-3999,0,domestic,site,ruin,stilt house,
+Austria,3,Q133550156,,1499 BC,-1499,0,domestic,site,ruin,stilt house,
+Austria,4,Q107338544,,AD 45,45,0,infrastructure,standing,unknown,bridge,
+Austria,5,Q675735,St Peter's Archabbey Salzburg,7th century,650,1,religious,standing,original,monastery,"Saint_Peter%27s_Abbey,_Salzburg"
+Georgia,1,Q16364478,Avranlo Fortress,1st millennium BC,-500,1,defensive,ruin,ruin,fortress,Avranlo_fortress
+Georgia,2,Q995736,Nekresi,2nd century BC,-150,1,unknown,ruin,ruin,historic site,Nekresi
+Georgia,3,Q2038190,Samtavro Monastery,4th century,350,1,religious,standing,original,monastery,Samtavro_Monastery
+Georgia,4,Q247588,Bolnisi Sioni,5th century,450,1,religious,standing,original,basilica|cathedral,Bolnisi_Sioni
+Georgia,5,Q1262226,Jvari,6th century,550,1,religious,standing,original,monastery,Jvari_Monastery
+Belarus,1,Q141526461,,1st century,50,1,defensive,earthwork,earthwork,hillfort,
+Belarus,2,Q123455764,,1st millennium,500,1,religious,standing,original,shrine,
+Belarus,3,Q117835594,,9th century,850,1,defensive,standing,unknown,castle,
+Belarus,4,Q96084407,,9th century,850,1,funerary,earthwork,earthwork,burial mound|hillfort,
+Belarus,5,Q1189908,Brest Castle,10th century,950,1,defensive,standing,unknown,castle,Brest_Castle_(Belarus)
+Belgium,1,Q122810957,Sint-Lievensbron (Sint-Lievens-Esse),AD 633,633,0,religious,standing,original,pilgrimage site,
+Belgium,2,Q21186648,Saint-Ghislain Abbey,AD 640,640,0,religious,standing,original,abbey,Saint-Ghislain_Abbey
+Belgium,3,Q1170767,Saint Peter's Abbey,7th century,650,1,religious,standing,original,benedictine abbey,"Saint_Peter%27s_Abbey,_Ghent"
+Belgium,4,Q120586,Nivelles Abbey,7th century,650,1,religious,standing,original,monastery,Nivelles_Abbey
+Belgium,5,Q1635891,"St Bavo's Abbey, Ghent",7th century,650,1,religious,standing,original,abbey,Saint_Bavo%27s_Abbey
+Bulgaria,1,Q27987797,"Temple of Bendis, Melnik",1st century,50,1,religious,standing,original,temple,
+Bulgaria,2,Q7205170,Plovdiv Roman Stadium,AD 100,100,0,civic,ruin,ruin,ancient stadium,Stadium_of_Philippopolis
+Bulgaria,3,Q6549298,Limes Transalutanus,AD 106,106,0,defensive,ruin,ruin,Roman limes,Limes_Transalutanus
+Bulgaria,4,Q131760694,Svirachi large mound,2nd century,150,1,funerary,earthwork,earthwork,burial mound,
+Bulgaria,5,Q131468029,,2nd century,150,1,infrastructure,standing,unknown,arch bridge|bridge,
+Portugal,1,Q17390156,Citânia de São Julião de Caldelas,10th century BC,-950,1,defensive,earthwork,earthwork,hillfort,
+Portugal,2,Q10365475,Ruínas de São Miguel de Odrinhas,1st century BC,-50,1,religious,ruin,ruin,Roman villa|ancient Roman structure|chapel|necropolis|roman ruins,
+Portugal,3,Q1094262,Citânia de Briteiros,1 BC,-1,0,defensive,earthwork,earthwork,hillfort,Cit%C3%A2nia_de_Briteiros
+Portugal,4,Q1504273,Roman Bridge of Chaves,1st century,50,1,infrastructure,ruin,ruin,Roman bridge|ancient Roman structure|arch bridge|stone bridge,Roman_Bridge_of_Chaves
+Portugal,5,Q1687006,Ponte de Vila Formosa,1st century,50,1,infrastructure,standing,unknown,Roman bridge|ancient Roman structure|arch bridge|stone bridge,Roman_Bridge_of_Vila_Formosa
+Israel,1,Q25493736,French Hill Fort,10th century BC,-950,1,defensive,ruin,ruin,fort,
+Israel,2,Q20502157,Keren Naftali Castle,3rd century BC,-250,1,defensive,ruin,ruin,fort,Qeren_Naftali_fortress
+Israel,3,Q1177765,Tower of David,149 BC,-149,0,defensive,ruin,ruin,citadel,Tower_of_David
+Israel,4,Q2906823,Robinson's Arch,19 BC,-19,0,unknown,ruin,ruin,built structure,Robinson%27s_Arch
+Israel,5,Q134821,Western Wall,18 BC,-18,0,defensive,standing,unknown,wall,Western_Wall
+Ukraine,1,Q56367059,Kyi's Gord,8th century BC,-750,1,defensive,earthwork,earthwork,gord,
+Ukraine,2,Q12158963,Sukhonosiv settlement,7th century BC,-650,1,defensive,earthwork,earthwork,hillfort,
+Ukraine,3,Q111287647,,AD 18,18,0,unknown,standing,changed,hotel,
+Ukraine,4,Q4395689,Roden,7th century,650,1,defensive,earthwork,earthwork,hillfort,
+Ukraine,5,Q4364878,Plisnesko Hill Fort,8th century,750,1,defensive,earthwork,earthwork,hillfort,
+Iran,1,Q1581555,Tepe Sialk,7th millennium BC,-6500,1,funerary,earthwork,earthwork,mound,Tepe_Sialk
+Iran,2,Q5902280,Tepe Juqin,5th millennium BC,-4500,1,funerary,earthwork,earthwork,mound,
+Iran,3,Q5872552,Tepe Mafinabad,5th millennium BC,-4500,1,funerary,earthwork,earthwork,mound,
+Iran,4,Q180773,Susa,4394 BC,-4394,0,unknown,ruin,ruin,architectural landmark,Susa
+Iran,5,Q5871153,Tepe Bampur,3rd millennium BC,-2500,1,funerary,earthwork,earthwork,mound,
+South Korea,1,Q496394,Bukhansanseong,AD 132,132,0,defensive,standing,unknown,hill castle,Bukhansanseong
+South Korea,2,Q625286,Jikjisa,AD 418,418,0,religious,standing,original,Korean Buddhist temple,Jikjisa
+South Korea,3,Q623807,Daeheungsa,AD 514,514,0,religious,standing,original,Korean Buddhist temple,Daeheungsa
+South Korea,4,Q339039,Geonbongsa,AD 520,520,0,religious,standing,original,Korean Buddhist temple,Geonbongsa
+South Korea,5,Q7425055,Saseongam,AD 544,544,0,religious,standing,original,Korean Buddhist temple,Saseongam
+Tunisia,1,Q1146714,Libyco-Punic Mausoleum of Dougga,2nd century BC,-150,1,funerary,standing,original,mausoleum,Libyco-Punic_Mausoleum_of_Dougga
+Tunisia,2,Q20107688,Water Temple of Zaghouan,2nd century,150,1,religious,ruin,ruin,Roman temple|ancient Roman structure,
+Tunisia,3,Q11680511,Capitoline temple in Dougga,2nd century,150,1,religious,ruin,ruin,Roman temple,
+Tunisia,4,Q65232810,,2nd century,150,1,defensive,standing,unknown,defensive wall,
+Tunisia,5,Q2091585,Arch of Septimius Severus (Dougga),AD 205,205,0,commemorative,standing,unknown,triumphal arch,
+Ireland,1,Q1440021,Fourknocks Passage Tomb,2749 BC,-2749,0,funerary,ruin,ruin,passage grave,Fourknocks_Passage_Tomb
+Ireland,2,Q31077825,Toor More,2nd millennium BC,-1500,1,defensive,earthwork,earthwork,multiple enclosure hillfort,
+Ireland,3,Q30247326,Kilbennan Monastery,5th century,450,1,religious,standing,original,monastery,Kilbennen
+Ireland,4,Q64348284,Gallen Monastery,5th century,450,1,religious,standing,original,monastery,
+Ireland,5,Q927223,Clonmacnoise,6th century,550,1,religious,standing,original,monastery,Clonmacnoise
+Netherlands,1,Q13135468,Enghenbergje,3rd millennium BC,-2500,1,funerary,earthwork,earthwork,tumulus,
+Netherlands,2,Q1912236,Python Bridge,AD 20,20,0,infrastructure,standing,unknown,truss bridge,Python_Bridge
+Netherlands,3,Q125483606,Castellum Aardenburg,AD 170,170,0,defensive,ruin,ruin,castellum,
+Netherlands,4,Q253935,Basilica of Saint Servatius,6th century,550,1,religious,standing,original,minor basilica,Basilica_of_Saint_Servatius
+Netherlands,5,Q381632,Egmond Abbey,7th century,650,1,religious,standing,original,abbey,Egmond_Abbey
+Azerbaijan,1,Q138797962,,3rd millennium BC,-2500,1,defensive,ruin,ruin,fortress|ruins,
+Azerbaijan,2,Q2756685,Noah’s Mausoleum,1538 BC,-1538,0,funerary,ruin,ruin,mausoleum|tomb,"Noah%27s_Mausoleum_(Nakhchivan,_Azerbaijan)"
+Azerbaijan,3,Q94979856,Mets Astvatsatsin Monastery (Yukhari Aylis),1st century,50,1,religious,standing,original,monastery,Mets_Astvatsatsin_Monastery_(Yukhari_Aylis)
+Azerbaijan,4,Q11208359,Govurqala,3rd century,250,1,defensive,earthwork,earthwork,hillfort,"Govurqala,_A%C4%9Fdam"
+Azerbaijan,5,Q507050,Amaras Monastery,4th century,350,1,religious,standing,original,monastery,Amaras_Monastery
+Croatia,1,Q12635866,Luka Pula,1st century BC,-50,1,infrastructure,ruin,ruin,port,
+Croatia,2,Q474998,Pula Arena,26 BC,-26,0,civic,standing,original,Roman amphitheatre,Pula_Arena
+Croatia,3,Q952381,Arch of the Sergii,26 BC,-26,0,commemorative,standing,unknown,triumphal arch,Arch_of_the_Sergii
+Croatia,4,Q12630293,Porta Gemina,2nd century,150,1,defensive,standing,unknown,city gate,Porta_Gemina
+Croatia,5,Q322287,Diocletian's Palace,AD 293,293,0,domestic,ruin,ruin,Ancient Roman imperial palace|Roman villa,Diocletian%27s_Palace
+Poland,1,Q30065377,Retaining wall with boutiques,AD 1,1,0,infrastructure,standing,original,architectural heritage monument|building|retaining wall,
+Poland,2,Q30065432,Piatkowski Villa,AD 2,2,0,domestic,standing,original,architectural heritage monument|house|residential building,
+Poland,3,Q9189299,,60s,60,0,infrastructure,standing,unknown,mountain hut,
+Poland,4,Q138003127,Fortalicium of Szafraniec family in Secemin,1st millennium,500,1,unknown,standing,unknown,Q9261789,
+Poland,5,Q114356218,Chodlik Gord,8th century,750,1,defensive,earthwork,earthwork,hillfort,
+Jordan,1,Q56255271,Qasr al Hallabat,AD 2,2,0,defensive,ruin,ruin,Umayyad desert castles,
+Jordan,2,Q21188319,Umayyad Palace,AD 8,8,0,domestic,standing,changed,palace,Umayyad_Palace
+Jordan,3,Q1259626,Al Khazneh,1st century,50,1,funerary,ruin,ruin,tomb,Al-Khazneh
+Jordan,4,Q345467,Ad Deir,1st century,50,1,funerary,standing,unknown,tomb,"Ed-Deir,_Petra"
+Jordan,5,Q20395818,Great Temple,1st century,50,1,religious,standing,original,temple,Great_Temple_(Petra)
+Bosnia and Herzegovina,1,Q18331574,Sase Monastery,AD 14,14,0,religious,standing,original,monastery,Sase_Monastery
+Bosnia and Herzegovina,2,Q13090402,Samobor Fortress,AD 14,14,0,defensive,standing,unknown,fortress|historic site,Samobor_Fortress
+Bosnia and Herzegovina,3,Q19407128,Grćka Glavica necropolis,AD 14,14,0,funerary,ruin,ruin,historic site|necropolis|stechak,Gr%C4%8Dka_Glavica_necropolis
+Bosnia and Herzegovina,4,Q16761473,Tvrdoš Monastery,AD 15,15,0,religious,standing,original,monastery|winery,Tvrdo%C5%A1_Monastery
+Bosnia and Herzegovina,5,Q43951677,"Necropolis of stecci at Radimlja, the historic site",AD 15,15,0,funerary,ruin,ruin,necropolis,Ste%C4%87ak_necropolis_Radimlja
+Denmark,1,Q308139,Ølshøj,3499 BC,-3499,0,funerary,ruin,ruin,passage grave,
+Denmark,2,Q12315978,Hekla Park,AD 3,3,0,civic,standing,unknown,sports venue,
+Denmark,3,Q12339802,Troldborg Ring,1st century,50,1,defensive,earthwork,earthwork,hillfort,Troldborg_Ring
+Denmark,4,Q2019765,Olgerdiget,2nd century,150,1,defensive,earthwork,earthwork,defensive dyke,
+Denmark,5,Q30153756,,AD 278,278,0,defensive,earthwork,earthwork,defensive dyke,
+Iraq,1,Q202927,Ziggurat of Ur,21st century BC,-2050,1,religious,standing,original,ziggurat,Ziggurat_of_Ur
+Iraq,2,Q26082,Ishtar Gate,574 BC,-574,0,defensive,standing,unknown,arch|city gate,Ishtar_Gate
+Iraq,3,Q12242723,Al-Hannanah Mosque,AD 462,462,0,religious,standing,original,mosque,Al-Hannanah_Mosque
+Iraq,4,Q4120608,Dair Mar Elia,AD 595,595,0,religious,ruin,ruin,monastery|ruins,Monastery_of_Saint_Elijah
+Iraq,5,Q1475704,Rabban Hormizd Monastery,7th century,650,1,religious,standing,original,cave monastery,Rabban_Hormizd_Monastery
+Indonesia,1,Q132214035,Fansuri Museum,600 BC,-600,0,unknown,ruin,ruin,building,
+Indonesia,2,Q98161587,Pura Samuan Tiga,AD 10,10,0,religious,standing,original,Balinese temple,
+Indonesia,3,Q16177853,Kotagede Mataram Great Mosque,AD 16,16,0,religious,standing,original,mosque,Great_Mosque_of_Mataram_Kotagede
+Indonesia,4,Q12497286,Bayan Beleq Mosque,AD 17,17,0,religious,standing,original,mosque,Bayan_Beleq_Mosque
+Indonesia,5,Q131612762,Al-A'la Mosque,AD 17,17,0,religious,standing,original,mosque,
+Luxembourg,1,Q13105301,,5th century BC,-450,1,funerary,earthwork,earthwork,tumulus,
+Luxembourg,2,Q113043793,Gallo-Roman temple at Steinsel,1st century,50,1,religious,ruin,ruin,Roman temple,
+Luxembourg,3,Q13104917,,1st century,50,1,domestic,ruin,ruin,Roman villa,
+Luxembourg,4,Q13104922,,1st century,50,1,domestic,ruin,ruin,villa rustica,
+Luxembourg,5,Q13105376,,1st century,50,1,domestic,ruin,ruin,Roman villa,
+Palestine,1,Q2460244,Hasmonean royal winter palaces,109 BC,-109,0,domestic,ruin,ruin,palace,Hasmonean_and_Herodian_royal_winter_palaces
+Palestine,2,Q194504,Church of the Nativity,AD 327,327,0,religious,standing,original,basilica|minor basilica,Church_of_the_Nativity
+Palestine,3,Q18402074,,AD 345,345,0,religious,standing,original,monastery,
+Palestine,4,Q1059946,Holy Lavra of Saint Sabbas,5th century,450,1,religious,standing,original,monastery,Mar_Saba
+Palestine,5,Q739415,Great Mosque of Gaza,5th century,450,1,religious,standing,original,mosque,Great_Mosque_of_Gaza
+North Korea,1,Q3200813,Kwangbŏpsa,AD 392,392,0,religious,standing,original,Buddhist temple,Kwangbopsa
+North Korea,2,Q4896121,Pubyongnu,AD 393,393,0,unknown,standing,unknown,pavilion,Pubyok_Pavilion
+North Korea,3,Q1032891,Singyesa,AD 519,519,0,religious,standing,original,Buddhist temple,Singyesa
+North Korea,4,Q717009,Potongmun,6th century,550,1,defensive,standing,unknown,city gate,Potongmun
+North Korea,5,Q5099194,Chilsongmun,6th century,550,1,defensive,standing,unknown,city gate,Chilsongmun
+Sweden,1,Q1540834,Håga kurgan,11th century BC,-1050,1,funerary,earthwork,earthwork,tumulus,H%C3%A5ga_mound
+Sweden,2,Q1478632,Gråborg,6th century,550,1,defensive,earthwork,earthwork,hillfort,Gr%C3%A5borg
+Sweden,3,Q17150274,Uppåkra hof,6th century,550,1,religious,standing,original,temple,Upp%C3%A5kra_temple
+Sweden,4,Q105514793,,10th century,950,1,infrastructure,standing,unknown,bridge,
+Sweden,5,Q121223524,Sankt Laurentiuskyrkan,AD 975,975,0,religious,standing,original,stave church,
+Morocco,1,Q2314811,Chellah,699 BC,-699,0,funerary,ruin,ruin,necropolis,Chellah
+Morocco,2,Q7681104,Tamdoult,199 BC,-199,0,unknown,ruin,ruin,ruins,Tamdoult
+Morocco,3,Q58897235,Bab Lakbir,AD 12,12,0,defensive,standing,unknown,city gate,Bab_Oudaya
+Morocco,4,Q5035968,Capitoline Temple,AD 217,217,0,religious,standing,original,temple,Capitoline_Temple
+Morocco,5,Q85740348,Al Anwar Hanging Mosque,AD 808,808,0,religious,standing,original,mosque,Al-Anouar_Mosque
+Nigeria,1,Q3457094,Gidan Rumfa,AD 15,15,0,unknown,standing,unknown,building,Gidan_Rumfa
+Nigeria,2,Q108908731,Verekete Shrine,AD 19,19,0,religious,standing,original,shrine,
+Nigeria,3,Q131869290,Zuba College Clinic,AD 195,195,0,civic,standing,unknown,hospital,
+Nigeria,4,Q105958330,Capital Hospital and Maternity,AD 200,200,0,civic,standing,unknown,private hospital,
+Nigeria,5,Q131901396,Palen Clinic And Maternity hospital,AD 200,200,0,civic,standing,unknown,hospital,
+Algeria,1,Q1393557,Arch of Trajan,AD 100,100,0,commemorative,standing,unknown,triumphal arch,Arch_of_Trajan_(Timgad)
+Algeria,2,Q3621773,Arch of Caracalla,AD 214,214,0,commemorative,standing,unknown,triumphal arch,Arch_of_Caracalla_(Thebeste)
+Algeria,3,Q87745203,Byzantine Fort in Timgad,AD 539,539,0,defensive,standing,unknown,fortress,
+Algeria,4,Q6856762,Agadir Mosque,AD 790,790,0,religious,ruin,ruin,mosque,Great_Mosque_of_Agadir
+Algeria,5,Q500367,Qal'at Bani Hammad,AD 1007,1007,0,defensive,standing,unknown,qal'a,Qal%27at_Bani_Hammad
+North Macedonia,1,Q27073953,,4th century,350,1,religious,standing,original,minor basilica,
+North Macedonia,2,Q27078368,Bargala basilica extra muros,4th century,350,1,religious,standing,original,minor basilica,
+North Macedonia,3,Q20497342,,5th century,450,1,religious,standing,original,basilica,
+North Macedonia,4,Q164216,Monastery of Saint Naum,10th century,950,1,religious,standing,original,monastery,Monastery_of_Saint_Naum
+North Macedonia,5,Q20564221,Dormition of the Theotokos Church,AD 1019,1019,0,religious,standing,original,church building,
+Yemen,1,Q1521987,Ghumdan Palace,8th century BC,-750,1,domestic,ruin,ruin,palace,Ghumdan_Palace
+Yemen,2,Q21153119,Al-Qalis Church,6th century,550,1,religious,standing,original,church building,Al-Qalis_Church
+Yemen,3,Q12204214,Jennad Mosque,AD 627,627,0,religious,standing,original,building|mosque,Al-Janad_Mosque
+Yemen,4,Q12204201,Al-Asha'ir Mosque,AD 629,629,0,religious,standing,original,building|mosque,Al-Asha%27ir_Mosque
+Yemen,5,Q2548705,Great Mosque of Sana'a,7th century,650,1,religious,standing,original,mosque,Great_Mosque_of_Sanaa
+Slovakia,1,Q112088162,,4th century,350,1,unknown,standing,unknown,building,
+Slovakia,2,Q112088171,,4th century,350,1,unknown,standing,unknown,building,
+Slovakia,3,Q112088176,,4th century,350,1,unknown,standing,unknown,building,
+Slovakia,4,Q112092194,,8th century,750,1,unknown,standing,unknown,tower,
+Slovakia,5,Q2509645,Church of St. Margaret of Antioch,9th century,850,1,religious,standing,original,church building,"Church_of_Saint_Margaret_of_Antioch,_Kop%C4%8Dany"
+Norway,1,Q19377434,Klemenskirken i Trondheim,AD 997,997,0,religious,standing,original,church building,
+Norway,2,Q11993161,Oddernes Church,11th century,1050,1,religious,standing,original,church building,Oddernes_Church
+Norway,3,Q174646,Slidredomen,11th century,1050,1,religious,standing,original,church building,Slidredomen
+Norway,4,Q1771595,Selje Abbey,11th century,1050,1,religious,ruin,ruin,monastery ruins,Selja_Abbey
+Norway,5,Q11215772,Nidarholm Abbey,11th century,1050,1,religious,standing,original,monastery,Nidarholm_Abbey
+Romania,1,Q2671791,Ulpia Traiana Sarmizegetusa,1st century,50,1,defensive,ruin,ruin,ancient Roman structure|castrum,Ulpia_Traiana_Sarmizegetusa
+Romania,2,Q14752597,Limes Dacicus,AD 106,106,0,defensive,ruin,ruin,Roman limes,Dacian_Limes
+Romania,3,Q12433068,Limes Alutanus,AD 106,106,0,defensive,ruin,ruin,Roman limes,Limes_Alutanus
+Romania,4,Q650981,Băile Herculane,AD 153,153,0,unknown,ruin,ruin,resort,B%C4%83ile_Herculane
+Romania,5,Q136312582,Christian Basilica of Halmyris,4th century,350,1,religious,ruin,ruin,basilica|crypt|hypogeum|ruins,
+Albania,1,Q505703,Apollonia,587 BC,-587,0,unknown,ruin,ruin,ruins,Apollonia_(Illyria)
+Albania,2,Q110113359,Monument of Agonothetes,1st century,50,1,civic,ruin,ruin,bouleuterion,
+Albania,3,Q4867373,Basilica of Saint Michael,5th century,450,1,religious,standing,original,historic site|minor basilica,Arapaj_Basilica
+Albania,4,Q5004692,"Byzantine Church, Lin",6th century,550,1,religious,ruin,ruin,church ruin|historic site,"Byzantine_Church,_Lin"
+Albania,5,Q5472986,Forty Saints Monastery,6th century,550,1,unknown,standing,unknown,historic site,Forty_Saints_Monastery
+Uzbekistan,1,Q25531042,Zartepa,1st century BC,-50,1,defensive,site,ruin,hillfort|tell,
+Uzbekistan,2,Q13668326,Namazgoh Mosque,AD 12,12,0,religious,standing,original,architectural landmark|mosque,Bukhara_Mosque
+Uzbekistan,3,Q82074007,Ancient Buddhist monastery at Fayaz Tepe,1st century,50,1,religious,standing,original,temple,
+Uzbekistan,4,Q43966967,Kirk-Kiz fortress,9th century,850,1,unknown,standing,unknown,building,Qirqqiz_Fortress
+Uzbekistan,5,Q1268850,Samanid Mausoleum,AD 892,892,0,funerary,standing,unknown,architectural landmark|mausoleum,Samanid_Mausoleum
+Latvia,1,Q47006112,Kraukļu senkapi,1st century,50,1,funerary,ruin,ruin,prehistoric grave,
+Latvia,2,Q55313779,Kalna Vaizuļu senkapi,1st century,50,1,funerary,ruin,ruin,prehistoric grave,
+Latvia,3,Q47007671,,5th century,450,1,defensive,earthwork,earthwork,hillfort,
+Latvia,4,Q47006286,,9th century,850,1,funerary,standing,unknown,prehistoric grave,
+Latvia,5,Q51283994,,9th century,850,1,funerary,standing,unknown,prehistoric grave,
+Vietnam,1,Q109438230,Vinh Hung tower,9th century,850,1,unknown,standing,unknown,monument|tower,
+Vietnam,2,Q10825862,Đồng Dương,AD 875,875,0,religious,ruin,ruin,Buddhist temple|ruins,
+Vietnam,3,Q10748490,Nhat Tru pagoda,10th century,950,1,religious,standing,original,Buddhist temple in Vietnam,
+Vietnam,4,Q1202019,Temple of Literature,AD 1070,1070,0,unknown,standing,unknown,monument,"Temple_of_Literature,_Hanoi"
+Vietnam,5,Q135336978,Column engraved with dragons from Dam Pagoda,AD 1086,1086,0,commemorative,standing,unknown,column,
+Serbia,1,Q110255111,"Church of the Holy Mother of God, Donja Kamenica",AD 14,14,0,religious,standing,original,church building,
+Serbia,2,Q1409017,Belgrade Fortress,1st century,50,1,defensive,standing,unknown,fortress,Belgrade_Fortress
+Serbia,3,Q85993022,Military camp at Mediјanа,4th century,350,1,unknown,ruin,ruin,monument,
+Serbia,4,Q1559411,Church of Saint Apostles Peter and Paul,7th century,650,1,religious,standing,original,Eastern Orthodox church building,"Church_of_the_Holy_Apostles_Peter_and_Paul,_Ras"
+Serbia,5,Q1266402,Prohor Pčinjski Monastery,11th century,1050,1,religious,standing,original,monastery,Prohor_P%C4%8Dinjski_Monastery
+Northern Cyprus,1,Q16677642,St. Barnabas Monastery,400s,400,0,religious,standing,original,monastery,Monastery_of_Saint_Barnabas
+Northern Cyprus,2,Q20949051,"Bedesten, Nicosia",6th century,550,1,unknown,standing,unknown,building,"Bedesten,_Nicosia"
+Northern Cyprus,3,Q122019664,"Church Of Virgin Mary, Asha",9th century,850,1,religious,standing,original,Eastern Orthodox church building,
+Northern Cyprus,4,Q18208878,Kantara monastery,11th century,1050,1,religious,standing,original,monastery,Kantara_Monastery
+Northern Cyprus,5,Q4673592,Acheiropoietos Monastery,11th century,1050,1,religious,standing,original,church building,Acheiropoietos_Monastery
+Malta,1,Q216862,Ġgantija,3599 BC,-3599,0,religious,ruin,ruin,temple,%C4%A0gantija
+Malta,2,Q18387475,Church of the Nativity of Our Lady,10th century,950,1,religious,standing,original,church building,Church_of_the_Nativity_of_Our_Lady
+Malta,3,Q28224835,St. Matthew's Chapel,11th century,1050,1,religious,standing,original,chapel|church building,"St_Matthew%27s_Chapel,_Qrendi"
+Sri Lanka,1,Q4667359,Abhayavapi,399 BC,-399,0,infrastructure,standing,unknown,embankment dam,Abhaya_Wewa
+Sri Lanka,2,Q109830677,Bassawak reservoir,379 BC,-379,0,infrastructure,standing,unknown,reservoir,Bassawak_reservoir
+Sri Lanka,3,Q7354820,Kala Wewa,AD 471,471,0,infrastructure,standing,unknown,embankment dam,Kala_Wewa
+Sri Lanka,4,Q4501090,Choleeswaram temple,AD 1010,1010,0,religious,standing,original,Hindu temple,Choleeswaram_temple
+Afghanistan,1,Q6403414,Khwaja Abu Nasr Parsa Shrine,AD 15,15,0,religious,standing,original,shrine,Shrine_of_Khwaja_Abu_Nasr_Parsa
+Afghanistan,2,Q2593345,Takht-e Rostam,4th century,350,1,religious,standing,original,stupa,
+Afghanistan,3,Q3125809,Haji Piyada Mosque,9th century,850,1,religious,ruin,ruin,mosque|ruins,Haji_Piyada_Mosque
+Afghanistan,4,Q4837307,Baba Hatim Ziyarat,11th century,1050,1,funerary,standing,unknown,mausoleum,Baba_Hatim_Ziyarat
+Saudi Arabia,1,Q20403473,Qasr al-Farid,1st century,50,1,funerary,standing,unknown,tomb,Qasr_al-Farid
+Saudi Arabia,2,Q486080,Prophet's Mosque,AD 622,622,0,religious,standing,original,architectural landmark|congregational mosque,Prophet%27s_Mosque
+Saudi Arabia,3,Q276569,Quba Mosque,AD 622,622,0,religious,standing,original,mosque,Quba_Mosque
+Saudi Arabia,4,Q12242695,Al-Ijabah Mosque,AD 622,622,0,religious,standing,original,mosque,Al-Ijabah_Mosque
+Cyprus,1,Q2426066,Stavrovouni Monastery,AD 327,327,0,religious,standing,original,monastery,Stavrovouni_Monastery
+Cyprus,2,Q11957020,Agia Paraskevi,AD 844,844,0,religious,standing,original,church building,
+Cyprus,3,Q634112,"Church of Saint Lazarus, Larnaca",9th century,850,1,religious,standing,original,Eastern Orthodox church building,"Church_of_Saint_Lazarus,_Larnaca"
+Cyprus,4,Q225373,Kykkos Monastery,11th century,1050,1,religious,standing,original,mausoleum|monastery,Kykkos_Monastery
+Cambodia,1,Q43473,Angkor Wat,AD 802,802,0,religious,standing,original,Buddhist temple|Hindu temple|temple complex,Angkor_Wat
+Cambodia,2,Q45949,Preah Vihear Temple,AD 893,893,0,religious,standing,original,Khmer temple,Preah_Vihear
+Cambodia,3,Q790099,Banteay Srei,AD 967,967,0,religious,standing,original,temple,Banteay_Srei
+Cambodia,4,Q790118,Baphuon,AD 1060,1060,0,religious,standing,original,temple,Baphuon
+Peru,1,Q28147528,"Montegrande, Peru",31st century BC,-3050,1,religious,ruin,ruin,temple,Montegrande_(archaeological_site)
+Peru,2,Q1062357,Chankillo,299 BC,-299,0,civic,ruin,ruin,astronomical observatory,Chanquillo
+Peru,3,Q9005094,Huaca Huallamarca,199 BC,-199,0,funerary,standing,unknown,pyramid,Huaca_Huallamarca
+United States,1,Q23889503,Cleopatra's Needle,15th century BC,-1450,1,commemorative,standing,unknown,obelisk,Cleopatra%27s_Needle_(New_York_City)
+United States,2,Q5087814,Chatsworth Community Church,AD 14,14,0,religious,standing,original,church building,Chatsworth_Community_Church
+United States,3,Q6963605,Nanih Waiya,3rd century,250,1,funerary,earthwork,earthwork,tumulus,Nanih_Waiya
+Ethiopia,1,Q107222192,Grat Be'al Gebri,799 BC,-799,0,unknown,ruin,ruin,building,
+Ethiopia,2,Q2308606,Obelisk of Axum,AD 300,300,0,commemorative,standing,unknown,obelisk|stele,Obelisk_of_Axum
+Ethiopia,3,Q4663637,Abba Garima Monastery,6th century,550,1,religious,standing,original,monastery,Abba_Garima_Monastery
+Pakistan,1,Q2131024,Ranikot Fort,449 BC,-449,0,defensive,ruin,ruin,fort,Ranikot_Fort
+Pakistan,2,Q97735100,Grand Mosque Banbhore,8th century,750,1,religious,ruin,ruin,mosque|ruins,"Jamia_Masjid,_Banbhore"
+Pakistan,3,Q17009210,Mahmud Ghaznavi Mosque,AD 1048,1048,0,religious,ruin,ruin,mosque|ruins,Mahmud_Ghaznavi_Mosque
+Hungary,1,Q936285,Pannonhalma Archabbey,10th century,950,1,religious,standing,original,Catholic church building|abbey|archabbey|cathedral|minor basilica|parish church,Pannonhalma_Archabbey
+Hungary,2,Q991832,Esztergom Basilica,AD 1001,1001,0,religious,standing,original,Catholic church building|cathedral|minor basilica,Esztergom_Basilica
+Hungary,3,Q16274922,Szekszárd Abbey,AD 1061,1061,0,religious,standing,original,abbey,Szeksz%C3%A1rd_Abbey
+Finland,1,Q38338677,Ensimmäisen teekkarin hauta,2nd millennium BC,-1500,1,commemorative,standing,unknown,memorial,
+Finland,2,Q11890680,Rieskaronmäki,699 BC,-699,0,funerary,earthwork,earthwork,ancient monument|grave cairn,
+Bangladesh,1,Q60715689,Rangkut Banasram Pilgrimage Monastery,267 BC,-267,0,religious,standing,original,Buddhist temple,Ramkot_Banashram
+Bangladesh,2,Q61362047,Lost Mosque,AD 690,690,0,religious,standing,original,mosque,Lost_Mosque
+Tanzania,1,Q2035513,Great Mosque of Kilwa,AD 12,12,0,religious,standing,original,mosque,Great_Mosque_of_Kilwa
+Tanzania,2,Q120301207,Kimbiji Ruins,10th century,950,1,unknown,ruin,ruin,historic site,Kimbiji_Ruins
+Lebanon,1,Q75207891,Roman temple of Bziza,1st century,50,1,religious,ruin,ruin,Roman temple|ancient Roman structure|temple,Roman_temple_of_Bziza
+Lebanon,2,Q135269682,Ain Harcha Roman Temple,AD 116,116,0,religious,ruin,ruin,temple,
+Canada,1,Q112037175,22 Lorne Crescent,AD 187,187,0,domestic,standing,unknown,house,
+Canada,2,Q93447874,Ottawa New Edinburgh Club,AD 1014,1014,0,infrastructure,standing,unknown,boathouse,
+Slovenia,1,Q28969759,Castra ad Fluvium Frigidum,AD 270,270,0,defensive,ruin,ruin,ancient Roman structure|castrum,Castra_ad_Fluvium_Frigidum
+Slovenia,2,Q2075156,Ljubljana Castle,9th century,850,1,defensive,standing,unknown,castle,Ljubljana_Castle
+Montenegro,1,Q65133681,,7th century,650,1,religious,standing,original,church building,
+Montenegro,2,Q11172451,Prečista Krajinska,11th century,1050,1,religious,standing,original,monastery,Pre%C4%8Dista_Krajinska
+Mongolia,1,Q19610328,Monument of Choir,AD 682,682,0,unknown,standing,unknown,monument,
+Mongolia,2,Q6040325,Bilge Qaghan inscriptions,AD 735,735,0,unknown,standing,unknown,ancient monument,Bilge_Qaghan_inscriptions
+Mexico,1,Q1417475,Great Pyramid of Cholula,299 BC,-299,0,funerary,standing,unknown,pyramid,Great_Pyramid_of_Cholula
+Turkmenistan,1,Q12821624,Dayahatyn,AD 11,11,0,civic,standing,original,caravanserai,Dayahatyn
+Malaysia,1,Q3407634,Kampung Laut Mosque,AD 16,16,0,religious,standing,original,mosque,Kampung_Laut_Mosque
+Australia,1,Q153825,"Parliament House, State of Queensland",AD 100,100,0,civic,standing,unknown,parliament building,"Parliament_House,_Brisbane"
+Nepal,1,Q1062150,Changu Narayan Temple,AD 325,325,0,religious,standing,original,Hindu temple,Changu_Narayan_Temple
+Sudan,1,Q1247214,Soba,4th century,350,1,unknown,ruin,ruin,ruins,Soba_(city)
+Kosovo,1,Q3078443,Fortress of Prizren,5th century,450,1,defensive,ruin,ruin,castle|fortress|historic site,Prizren_Fortress
+Isle of Man,1,Q7245519,Priory of Douglas,5th century,450,1,religious,standing,original,priory,Priory_of_Douglas
+Oman,1,Q16125386,Al-Shawathna Mosque,AD 629,629,0,religious,standing,original,mosque,Al-Shawadhna_Mosque
+Somalia,1,Q96384085,Grand Mosque of Hamar Weyne,7th century,650,1,religious,standing,original,mosque,"Jama%27a_Xamar_Weyne,_Xamar_Weyne"
+Bahrain,1,Q4119263,Khamis Mosque,AD 692,692,0,religious,standing,original,mosque,Khamis_Mosque
+Guatemala,1,Q7801881,Tikal Temple IV,AD 741,741,0,funerary,standing,unknown,Mesoamerican pyramid,Tikal_Temple_IV
+Andorra,1,Q139822563,,AD 980,980,0,defensive,standing,unknown,castle,
+Mali,1,Q1265294,Sankore Madrasah,AD 988,988,0,religious,standing,original,mosque,Sankor%C3%A9_Madrasah
+Uganda,1,Q67736934,Ntusi earthworks,AD 1001,1001,0,unknown,earthwork,earthwork,earthworks,
+Thailand,1,Q2552374,Wat Phra That Hariphunchai,AD 1044,1044,0,religious,standing,original,wat,Wat_Phra_That_Hariphunchai
+San Marino,1,Q106074847,Chiesa di Santa Maria Assunta in Pieve Corena,11th century,1050,1,religious,standing,original,church building,
+Guernsey,1,Q16900530,St Tugual's Chapel,11th century,1050,1,religious,standing,original,chapel,St_Tugual%27s_Chapel
+Myanmar,1,Q485727,Ananda Temple,AD 1091,1091,0,religious,standing,original,Buddhist temple,Ananda_Temple
