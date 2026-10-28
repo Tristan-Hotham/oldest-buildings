@@ -566,5 +566,6 @@ resp(document.getElementById("audit"), (W, nar) => {
   document.getElementById("nwList").innerHTML = R.uk.nw.items.map(o => `<li><span><a href="https://www.wikidata.org/wiki/${o.qid}" target="_blank" rel="noopener">${esc(o.label)}</a> <span style="color:var(--muted)">${esc(o.county)}</span></span><span>${esc(o.date)} · ${o.state === "standing" ? "standing" : o.state}</span></li>`).join("");
 })();
 </script>
+<script src="https://tristan-hotham.github.io/assets/site-nav.js" defer></script>
 </body>
 </html>
